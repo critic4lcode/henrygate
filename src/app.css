@@ -1,0 +1,53 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --border: 214.3 31.8% 91.4%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222 25% 16%;
+    --foreground: 213 31% 93%;
+    --card: 222 23% 20%;
+    --card-foreground: 213 31% 93%;
+    --primary: 217.2 91.2% 68%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --muted: 222 20% 26%;
+    --muted-foreground: 218 15% 64%;
+    --border: 222 18% 28%;
+  }
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+.prose blockquote p::before,
+.prose blockquote p::after {
+  content: none;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.dark body {
+  background-image: radial-gradient(
+    ellipse 80% 50% at 50% -10%,
+    hsl(224 40% 18% / 0.6),
+    transparent
+  );
+}
