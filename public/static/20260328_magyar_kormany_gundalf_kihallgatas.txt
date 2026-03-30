@@ -1,1087 +1,1449 @@
+0
 00:00:00 - 00:00:19
 Megkereste önt ez az ember, ez az ismeretlen, V.E. nevezzük V.E-nek, erről összeült a *** és még egyéb okos barátaival, és így megállapították, hogy ez semmiképpen nem lehet más, csak a mocskos magyar titkosszolgálat, vagy annak valamilyen árnyéka.
 
+21
 00:00:21 - 00:00:29
 Mivel lefoglalásra került az informatikai eszköz, ezek a beszélgetések megvannak. Ezzel nagy titkot árulok el?
 
+30
 00:00:30 - 00:00:43
 Kérdezném akkor Öntől, hogy Ön szerint élő magyar ember fogalmaz így? fogalmaz úgy, hogy
 
+43
 00:00:43 - 00:00:59
 Azt mondja, hogy a hálózat jelen minden körülmények között védelemre szükséges, stratégiai jelentőséggel bír a ciklus szempontjából.
 
+59
 00:00:59 - 00:01:02
 Nem próbálta ezt meg a Google Fordítóba beütni?
 
+62
 00:01:02 - 00:01:06
 Nekem is furcsák voltak ezek a kérdések, de nem éreztem, hogy ez...
 
+66
 00:01:06 - 00:01:15
 Ez az én meglátásom szerint vagy nem élő ember írta, ezt a szöveget, vagy nem tudott magyarul.
 
+75
 00:01:15 - 00:01:18
 Igen, ez felmerült egyébként, beszéltünk róla.
 
+78
 00:01:18 - 00:01:22
 Bajuszt akasztani meg ilyeneket lehet magyarul, agancsoskodni nem.
 
+82
 00:01:22 - 00:01:31
 Igen, felmerült bennünk is ez a kérdés, hogy miért fogalmaz ilyen furcsán, és olyan is előfordult, hogy többször küldte ugyanazt az üzenetet, vagy ilyesmi. ÉS felemerült az a kérdés, hogy valami nem magyar, nem magyarosan fogalmaz...
 
+91
 00:01:31 - 00:01:47
 És akkor sem gondolta senki, hogy erről értesíteni kellene a magyar szolgálatokat?
 
+107
 00:01:47 - 00:01:54
 Ezek a szövegek egy üzenetküldő alkalmazáson keresztül érkeznek.
 
+114
 00:01:54 - 00:02:07
 Tökéletes nyelvtani helyességgel vannak gépelve, írásjelekkel vannak ellátva, minden szó ki van írva, vesszőpont minden a helyén van.
 
+127
 00:02:07 - 00:02:11
 Élő ember kommunikál egy csevegő vonalon?
 
+131
 00:02:11 - 00:02:18
 Nem biztos, viszont egyébként nagyon sokat kellett várni a válaszokra mindig, tehát szinte soha nem volt az, hogy azonnal válaszolt volna...
 
+138
 00:02:18 - 00:02:45
 Akkor ez nem veti fel azt, hogy ebben valami külföldi érdeklődés állhat? Önt a politikában jártas embernek gondolom. Nem csak a jelenlegi kormány ellenfele, vagy az, hogy a Tisza párt ne nyerje meg a következő választást. Vannak olyan országok, akiknek szintén ez nem érdeke. Ha jól gondolom.
 
+165
 00:02:45 - 00:03:04
 Felmerült, igen, ez is. Mint mondtam, azért nem értesítettük a szolgálatokat, mert nekünk az volt a sejtésünk, hogy nem biztos, hogy ezzel előrébb mennénk, mert hogy van arra esély, hogy esetleg a szolgálatok is benne vannak ebben.
 
+184
 00:03:04 - 00:03:16
 Azért sem beszéltünk sokat arról, hogy ez valami külföldi országnak lenne a konkrét akciója, mert nem is tudtunk továbblátni.
 
+196
 00:03:16 - 00:03:25
 Nincsenek végtelen erőforrásaink, mi két informatikus voltunk elsősorban, akik tárgyaltak erről a dologról.
 
+205
 00:03:25 - 00:03:34
 Nem vagyunk annyira profik, hogy most akkor ebből kitaláljuk, hogy na ez akkor nem a magyar, hanem ez mondjuk a külföldi.
 
+214
 00:03:34 - 00:03:38
 Én nem tudom eldönteni ebből, nem tudom azt mondani...
 
+218
 00:03:38 - 00:03:42
 Akkor visszakanyarodunk a beszélgetésünk leges-legelső mondataihoz.
 
+222
 00:03:42 - 00:03:46
 Esetleg ebben lát nemzetbiztonsági relevanciát?
 
+226
 00:03:46 - 00:03:55
 Ebben az egészben? Ebben látok nemzetbiztonsági relevanciát, azt nem tudom eldönteni, hogy ez most ugye belső vagy külső. Ezt nem tudom megmondani...
 
+235
 00:03:55 - 00:04:05
 Ez nem is az ön feladata. Ha ezt el tudná dönteni, akkor az egészet teljesen felesleges lenne fenntartani.
 
+245
 00:04:05 - 00:04:09
 Akkor elég lenne Gundalfot megkérdezni ***-ból.
 
+249
 00:04:09 - 00:04:26
 Én csak így sorolom önnek ezeket, amiknek szerintem fel kellett volna tűnnie, hogyha ön egy másodpercig is elgondolkodik azon, hogy mikről van szó.
 
+266
 00:04:26 - 00:04:38
 Ezért kérdeztem, mert innentől kezdve ennek a V.E.nek van-e bármi köze ahhoz az övhöz, amely összeszerelődött, ide utazódott?
 
+278
 00:04:38 - 00:04:44
 Hát annyi köze, hogy esetleg azzal találkozóval, amiket ő akart megszervezni.
 
+284
 00:04:44 - 00:04:49
 De akkor ő rajta keresztül rendelték, találták meg ezt az eszközt?
 
+289
 00:04:49 - 00:05:06
 Nem. Ez a V.E. nem szövegtégesünk volt. Oké hogy én eljátszottam, hogy én a bábja vagyok, ahogy ők foglalmaznak, de ez az öv pontosan arra készült, hogy ha vele vagy az ő embereivel valami találkozó megtörténik,
 
+306
 00:05:06 - 00:05:13
 akkor arra legyen egy ilyen biztonsági eszköz, mondjuk így önvédelmi eszköz, ahogy ön fogalmazott.
 
+313
 00:05:13 - 00:05:15
 Tehát nem a V.E.-vel kresztül.
 
+315
 00:05:15 - 00:05:24
 Én csak így megkérdeztem, hogy tőle akkor soha semmilyen eszközt, bármit nem kaptak?
 
+324
 00:05:24 - 00:05:35
 Nem volt ilyen, hogy a filmélményekből indljunk ki, hogy menjen el az Oktogoннál lévő csomagautomatához és vegyen ki?
 
+335
 00:05:35 - 00:05:52
 Nem, nem. Nem kaptunk semmilyen eszközt a V.E.-től, és nem is találkoztunk vele sehol sem fizikailag egyáltalán, mert ugye mondtam, ez nem valósult meg, és nem beszéltünk vele sehol sem. Így ilyen szempontból.
 
+352
 00:05:52 - 00:06:00
 Aztán ott állunk, hogy fogalmunk sincs, hogy ki ez. Nem próbálták kideríteni?
 
+360
 00:06:00 - 00:06:07
 Ön informatikailag képzett ember. Miről, hogyan, milyen eszközön kommunikált önnel?
 
+367
 00:06:07 - 00:06:17
 Hát most bocsánat, ugye most a Session-ről beszélünk, úgy működik, hogy van egy saját Tor-hoz hasonló rendszere.
 
+377
 00:06:17 - 00:06:24
 Az alapján azért nekem, az én tudásommal meg az én erőforrásaimmal azért ez elég nehéz lenne.
 
+384
 00:06:24 - 00:06:32
 Hogyha Signalon lett volna a kommunikáció, akkor még el tudom képzelni, hogy meg lehetett volna találni.
 
+392
 00:06:32 - 00:06:41
 Volt egy beszélgetés arról, hogy esetleg valahogy be lehetne azonosítani ezt az illetőt.
 
+401
 00:06:41 - 00:07:01
 Amivel kapcsolatban volt is egy IP-cím begyűjtve, amiről tudna többet mondani, hogy ott mi történt, de hát nem vagyok benne biztos, hogy ez az IP-cím odavezet, de erről ***-t kell kérdezni.
 
+421
 00:07:01 - 00:07:04
 Meg fogjuk kérdezni, biztos nem töri.
 
+424
 00:07:04 - 00:07:14
 Elég nehéz lenne elmondani, hogy miért. Nem tudom, a BTK-t mennyire forgatta az élete során eddig.
 
+434
 00:07:14 - 00:07:24
 Van egy olyan tényállás benne hogy kémkedés. A kénkedéshez kapcsolódik egy jelentési kötelezettség, illetve hogyha ezt valaki elmulasztja, akkor az önmagában egy bűncselekmény.
 
+444
 00:07:24 - 00:07:40
 Ezt csak azért mondom, hogy próbáljunk a saját szakállukra dolgozni. Ez az egyik. A másik a kémkedést a jogalkotó szigorúan veszi ... ha valaki kémkedésre adja a fejét,
 
+460
 00:07:40 - 00:07:44
 Ezért a kémkedésnek az előkészületét is büntetni rendeli a törvény.
 
+464
 00:07:44 - 00:07:50
 Az előkészület hétköznapi nyelvben többek között a felhívás, ajánlkozás, vállalkozás. A válallkozás nagyjából egyébként a cset üzenetváltogatásból így ebben az esetben már kimerülne.
 
+470
 00:07:50 - 00:08:15
 MOndtam maguknak, én nem kémkedtem a Tisza pártnál
 Bocsánat, a kémkedés ugye az nem úgy van a Btk-ban, hogy aki a Tisza párt ellen valamit csinál, hanem Magyarország ellen hírszerző tevékenységet folytat.
 
+495
 00:08:15 - 00:08:17
 Ez a tényállásnak a szövege. És a Tisza párt Magyarország része.
 
+497
 00:08:17 - 00:08:18
 Igen.
 
+498
 00:08:18 - 00:08:20
 Folytattam a Tisza párt ellen kémtevékenységet?
 
+500
 00:08:20 - 00:08:24
 Nem, az előbb kezdtem el mondani, hogy ezért kérdeztem, hogy mennyire járatos a BTK-ban.
 
+504
 00:08:24 - 00:08:32
 Nem kell, hogy ezt folytassa, ezért az előkészületnek a bűncselekménynek bünteve  az ajánlkozás.
 
+512
 00:08:32 - 00:08:39
 Tehát az, hogy igen, akkor szerezzünk be a Tisza pártról adatokat, meg én együttműködök veled, az már nagyon súlyos.
 
+519
 00:08:39 - 00:08:42
 Abban az esetben is, hogyha valójában nem?
 
+522
 00:08:42 - 00:08:47
 Ez már előkészület igen,, mert ha már megtörtént volna, akkor az már egy legalább egy kísérlet...
 
+527
 00:08:47 - 00:08:54
 Ha azzal a céllal vásároltad meg a kést, hogy leszúrd Xy-t vele, akkor az az emberölés előkészülete.
 
+534
 00:08:54 - 00:09:01
 Majd azt mondom, igen, megkeresnek engem, csak hogy egyszerűbb legyen, mondjuk egy emberölésre átfordítva, hogy persze, hogy én kinyírom az anyósodat.
 
+541
 00:09:01 - 00:09:03
 Nagyon szívesen.
 
+543
 00:09:03 - 00:09:10
 Nem írtam még ki, nem vettem hozzá kést, semmi, de magában én azt mondtam, hogy meg fogom ölni, az már egy emberölés előkészülete.
 
+550
 00:09:10 - 00:09:12
 De erre most kicsit lendüljünk tovább, jó?
 
+552
 00:09:12 - 00:09:14
 Nem ezért ülünk itt, most elkalandoztam.
 
+554
 00:09:14 - 00:09:18
 Egyelőre ez így nem áll fenn, én csak felvetem.
 
+558
 00:09:18 - 00:09:23
 Igen, tehát mondjuk a történet alapján, amit...
 
+563
 00:09:23 - 00:09:31
 Köszönjük, hogy képbe helyezett, mert megtaláltuk ezeket az üzenetváltásokat képernyőfotók formájában.
 
+571
 00:09:31 - 00:09:36
 Hál' Istennek, még vissza se kellett fejteni.
 
+576
 00:09:36 - 00:09:39
 Ezt csak úgy mondom.
 
+579
 00:09:39 - 00:09:51
 HÁt amint láthatja ugye, dokumentálva volt ez az egész, és egyébként a Tisza pártban tudnak tanúsködni a vezetőségben, hogy ezek eljutottak hozzájuk. Én nem titkoltam ezeket a Tisza párt előtt.
 
+591
 00:09:51 - 00:09:53
 De a hatóságok elől igen.
 
+593
 00:09:53 - 00:09:59
 Igen, ez a jelentés az, amit egy nyomozóhatóság részére, vagy legalább a szolgálat részére jelenteni kellett volna.
 
+600
 00:10:00 - 00:10:14
 De most szeretném továbbfűzni ezt a szálat. Jó, nekünk a nemzetbiztonsági törvény lehetőséget ad, hogyha a bűncselekmény elkövetését ismerjük, mi elállhatunk a feljelentéstől, tehát nekünk nem kötelező a nyomozóhatóság részére ezt így továbbítani.
 
+614
 00:10:14 - 00:10:24
 Ez most nyilván attól függ, hogy mi mennyire tudjuk ezt a helyzetet tisztázni. Jó, csak azért mondtam, hogy kicsit komolyabb a dolog, mint azt lehet, hogy sejtette, mielőtt befáradt ide.
 
+624
 00:10:24 - 00:10:30
 Hát akkor arra egy csomóba került minden. Külföldi kapcsolatai vannak-e?
 
+630
 00:10:30 - 00:10:40
 Külföldi kapcsolatokra is szó került? Hát igen, nekem vannak külföldi tanulmányaim, elsősorban szakmai jellegű tanulmányok.
 
+640
 00:10:40 - 00:10:46
 Igen, ez probléma, hogyha külföldön tanulok? vagy ilyesmi?
 
+646
 00:10:46 - 00:10:52
 Nem, nem, nem, most van egy helyzet, amit szeretnénk mindannyian megoldani.
 
+652
 00:10:52 - 00:11:04
 Itt most eddig én úgy látom, és őszintén elmondta a dolgokat, amit tud, hogy ha továbbra is így folytatjuk, akkor itt a véleményem szerinnt mondjuk egy-két órán belül egy-két kézfogással elköszönünk egymástól.
 
+664
 00:11:04 - 00:11:06
 Ez jó lenne?
 
+666
 00:11:06 - 00:11:14
 Jó, hát nyilván ez attól függ, hogy mennyire lesz sikeres.... Tehát elkezdte, igen, külföldi tanulmányok, konkrétan?
 
+674
 00:11:14 - 00:11:25
 Én Észtországban tanulok, vagy hát most már nem tanulok, pontosabban fogalmazva itthonról tanulok Észtországban.
 
+685
 00:11:25 - 00:11:41
 És ez online? Online, online. A KiberKiválósági Központnál tanulok, ami ugye egy NATO-akkreditált intézmény, és ott Security Engineerként tanultam, biztonságtechnikai mérnök, talán ez a magyar megfelelője.
 
+701
 00:11:41 - 00:11:45
 És ott tanultam igazából.
 
+705
 00:11:45 - 00:11:46
 Jó, és hogy ez lett a...
 
+706
 00:11:46 - 00:11:59
 Köszönöm, bocsánat. Bármilyen dokumentum áll az ön rendelkezésére arról, hogy e mögött a Kiválósági Központ e-mail-címe mögött tulajdonképpen mi rejlik?
 
+719
 00:11:59 - 00:12:01
 Kiválósági Központ e-mail-címe mögött?
 
+721
 00:12:01 - 00:12:13
 Ha ön online tanul, akkor nyilván nem látta a Kiválósági Központ épületét, ott nem fogadták önt jól láthatóan odatartozó úriemberek.
 
+734
 00:12:14 - 00:12:20
 Voltam kint Észtországban, ebben az épületben.
 
+741
 00:12:21 - 00:12:23
 Mikor volt ön kint?
 
+743
 00:12:23 - 00:12:39
 Hát 2022-ben talán, vagy bocsánat, talán 2023-ban. Ez most nem lesz teljesen mindegy, hogy 2023 vagy 2022? Nem, nem mindegy. Igen, csak most próbálom felidézni, mert már volt, hogy 2022 vagy 2023.
 
+759
 00:12:39 - 00:12:41
 Akkor ön még gimnazista volt bőven?
 
+761
 00:12:41 - 00:12:44
 Igen, én ezt gimnázium során kezdtem el.
 
+764
 00:12:44 - 00:12:46
 Már gimnazistaként elkezdtem?
 
+766
 00:12:46 - 00:12:48
 Igen, gimnazistaként elkezdtem.
 
+768
 00:12:48 - 00:12:52
 Engem már nagyon régóta érdekelt az informatika, már ilyen 12-13 éves korom óta.
 
+772
 00:12:52 - 00:13:22
 Az egész úgy kezdődött, hogy kaptam egy hatalmas nagy egyest informatika órán, különböző kiberbiztonsági témákkal kapcsolatban, úgynevezett kiberbiztonság, számítógépes vírusok, meg ilyen alap dolgokról volt szó. Engem ez elkezdett érdekelni, akkor legfőképpen a biológia érdekelt. És akkor sem tudtam, hogy mi is az a számítógép. És amikor jobban beleástam magam, még érdekesen hangzottak ezek a kifejezések, akkor jöttem rá, hogy ez tök érdekes, valamennyire akkor azt mondtam, hogy hasonlít a biológiára.
 
+802
 00:13:22 - 00:13:33
 És így magamtól tanultam a kiberbiztonságra kapcsolatos eszközök használatát, operációs rendszerek stb., ilyen alap dolgokat.
 
+813
 00:13:33 - 00:13:42
 És korábban volt egy GitHub oldalam, ahol töltögettem is fel ilyen saját kis alkotásokat, főleg kis scripteket.
 
+822
 00:13:42 - 00:13:53
 Ezeket csináltam, azt a GitHub oldalamat azóta megszüntettem, de igen, ez innen indult.
 
+833
 00:13:53 - 00:13:56
 És hogy jutunk el a Kibervédelmi Kiválósági Központig?
 
+836
 00:13:56 - 00:14:14
 A GitHubon kerestek meg, hogy van ez a nemzetközi csapat, és hogy lehet ide jelentkezni, keresnek ide embereket, és hogy jelentkezzek, hogy tanuljak.
 
+854
 00:14:14 - 00:14:22
 Elsőként egy ilyen nem szerződéshez kötött, gyakorlatilag önkéntes program keretein belül.
 
+862
 00:14:22 - 00:14:32
 És hogy elkezdenék tanítani az alapokat, aztán hogyha úgy alakul, akkor akár munkalehetőségként is végezhetnék náluk munkát.
 
+872
 00:14:32 - 00:14:37
 Mint Security Engineer, vagy hát akkor még nem volt konkrétan megnevezve, hogy milyen munkát.
 
+877
 00:14:37 - 00:14:48
 De alapvetően ez a biztonságtechnikai mérnök, tehát az informatikai eszközök védelme és a hálózatok védelmével kapcsolatos munkát végezni,
 
+888
 00:14:48 - 00:15:09
 amiben NATO-rendszerek vagy akár más rendszerek merülnek fel mint védendő rendszerek. Nem lepte meg, hogy egyszer csak a kettő összekapcsolódik, ilyen tevékenységet megtalálják, meg most megtalálják, hogy akkor a Tisza párt kapcsolatban is felmerül?
 
+909
 00:15:09 - 00:15:18
 Igen, erre számítottam, hogy ez ilyen pont lesz, hogy esetleg mondjuk ők ilyen titkosszolgálati beszervezés, vagy ilyesmi.
 
+918
 00:15:18 - 00:15:28
 Én nem láttam arra jelet, hogy ők bármiféle olyan dolgot kérnének tőlem, ami kémkedéssel kapcsolatos.
 
+928
 00:15:28 - 00:15:36
 Soha nem kértek olyat, hogy törjek be bármilyen olyan rendszerbe, ami állami, vagy ilyesmi.
 
+936
 00:15:36 - 00:15:42
 Soha nem volt ilyen éles dolog, hogy törjek be Magyarországnak akármiébe.
 
+942
 00:15:42 - 00:16:12
 Törjék be erre a... csak ezzel a random serverrel nézzük már meg, hogy mi van ott. Soha nem voltak ilyen kérések. Nem voltak olyan kérések, hogy mit tudom én, menjek el, találkozzak Kispistával valamilyen utcában, vagy menjek el az eszközéért, vigyem el oda valakinek. Tehát nem láttam azt, hogy... Jó, hát amikor megkerestek, akkor 16 éves voltam körülbelül. Nyilván akkor azért, hát most se van egy teljesen kifejlődött húszéves agyam nekem, nem vagyok egy annyira okos ember.
 
+972
 00:16:12 - 00:16:15
 Még kevésbé voltam okos, akkor még nem is gondoltam ilyenekre.
 
+975
 00:16:15 - 00:16:21
 Utólag persze gondoltam erre, de nem láttam ennek jelét, hogy ők bármi ilyesmire használnának.
 
+981
 00:16:21 - 00:16:25
 Nem kértek semmilyen államtitkokat, nem kérték azt.
 
+985
 00:16:25 - 00:16:30
 Ők szakmai támogatást adtak nekem, szakmai tudást adtak át nekem.
 
+990
 00:16:30 - 00:16:37
 És nem kifejezetten arra, hogy itt ez a szakmai tudás, ezzel majd ezt meg amazt kéne konkrétan feltörni.
 
+997
 00:16:37 - 00:16:48
 És elsősorban védelmi, tehát nem offenzív jellegű szakmai tudást adtak át nekem, mert security engineerként az elsősorban nem is támadási jellegű.
 
+1008
 00:16:48 - 00:16:54
 Úgyhogy ezért nem éreztem, hogy miért merülhetne fel, de nem tartom azt megalapozatlannak.
 
+1014
 00:16:54 - 00:17:04
 Ezt teljesen életszerűnek tartja, hogy a NATO Kibervédelmi Kiválósági Központ magyar 16 éves gimnazistákra kívánja bízni a titkai őrzését?
 
+1024
 00:17:04 - 00:17:09
 Teljesen ingyen és bérmentesen, ezért nem fizettek önnek?
 
+1029
 00:17:09 - 00:17:15
 Nem fizettek, mivel nem dolgoztam náluk.
 
+1035
 00:17:15 - 00:17:36
 Nem voltam munkavállaló, nem voltam semmilyen szerződéses kapcsolatban, mert még folyt a szakmai képzés, nyilván nem is bízhattam semmilyen államtitkokat, meg olyan meg rendszer védelmével, ami folyik a központban, mert még kiképzés alatt voltam.
 
+1056
 00:17:36 - 00:17:42
 És nem csak engem, hanem másokat is képeznek más országokban.
 
+1062
 00:17:42 - 00:17:49
 Pont ez a lényege, hogy NATO-országok tagjai, tehát NATO-állampolgárai.
 
+1069
 00:17:49 - 00:17:57
 Azok egy ilyen nemzetközi csapat részeként, egy ilyen experimentális csapat. Kiképezni egy ilyen csapatot.
 
+1077
 00:17:57 - 00:18:09
 És ilyen gyakorlatokon vettünk részt korábban, és védeni a NATO-infrastruktúrát.
 
+1089
 00:18:09 - 00:18:13
 Amikor majd elegendő szakmai tudást szedtünk magunkra, nyilvánvalóan.
 
+1094
 00:18:14 - 00:18:16
 Hát ez elég sárkányosnak hangzik.
 
+1096
 00:18:16 - 00:18:28
 Találkozott egyébként másokkal? Mert ugye itt is többes számot használt, hogy önök ugye több tagállamból vettek részt a képzésen, többen vettek részt a gyakorlatokon. Találkozott más olyan személyekkel, akik ebben a programban részt vettek?
 
+1108
 00:18:28 - 00:18:39
 Igen, találkoztam ilyen más személyekkel. Egyébként velem egykorúak nagyjából. A legtöbbem volt, akik 2-3 évvel idősebb volt, de nagyjából egykorúak velem.
 
+1119
 00:18:39 - 00:19:09
 Amikor a szolgálat részére jelentett volna, azokat a kiválóságokat is megnevezhetné. Amerikából, Franciaországból, sok-sok országból voltak tagok. De csak egyszer. Személyesen? Igen, talán. Észtországban. 2022-ben vagy 2023-ban. És akkor ennek a Kiválósági Központnak az épületében, vagy hol volt?
 
+1149
 00:19:09 - 00:19:14
 Egyébként itt Tallinnban gyakorlatilag ilyen csapatépítő volt ez tulajdonképpen.
 
+1154
 00:19:14 - 00:19:21
 Tehát jobban megismerjük egymást személyesen, beszélgetünk ilyen általános dolgokról, ott nem is nagyon szakmai dolgokról.
 
+1161
 00:19:21 - 00:19:24
 És hát, hogy így kicsit összerázzuk a csapatot.
 
+1164
 00:19:24 - 00:19:26
 Mentorok vagy oktatók?
 
+1166
 00:19:26 - 00:19:37
 Igen, volt nekem mentorom is, és vele is találkoztam, csak ezzel a mentorommal.
 
+1177
 00:19:37 - 00:19:52
 Szeretnénk ezeket a dolgokat tisztázni tudjuk. Ezért kérdezzük, hogy mi a neve, mikor járt Tallinnban, kivel járt Tallinnban, kivel találkozott erről az egész kiberbiztonsági képzésről.
 
+1192
 00:19:52 - 00:19:59
 Milyen dokumentációt tud nekünk megmutatni, ami bizonyítja,
 
+1200
 00:20:00 - 00:20:15
 hogy ez egy valóságos, létező dolog, nem egy kitalált valami, ahol odahívtak még öt statisztát, vagy másik öt hasonszőrű kiválasztottat a világ minden tájáról, a szovjet elvtársak vagy akármelyik titkosszolgálat elvtársai.
 
+1215
 00:20:15 - 00:20:28
 Mi ezt szeretnénk tisztázni, ennyi a lényeg. Ha van erre egy észszerű magyarázat, van egy tanulmányi szerződés, amit lepecsételt, aláírt valaki.
 
+1228
 00:20:28 - 00:20:43
 Ön bármilyen fényképet tud mutatni arról, hogy Tallinnban járt? Ez az az épület, amiben voltam, ez Ragnar, akivel találkoztam, ez Misa Bulgáriából, az meg Stefan Németországból, akivel találkoztam.
 
+1243
 00:20:43 - 00:20:50
 E-mail címeket tud mutatni, tananyagokat tud nekünk mutatni, ami egy képzéshez szükséges.
 
+1250
 00:20:50 - 00:21:04
 Aha, tudok majd ilyen dokumentumot mutatni, igen, mondjuk azt megnehezítette az NNI-s dolog, de tudok majd ilyet mutatni. Most így nyilván nem tudom előszedni most rögtön, de tudok majd ilyet mutatni.
 
+1264
 00:21:04 - 00:21:06
 Rajta van a lefoglalt eszközön valami?
 
+1266
 00:21:06 - 00:21:14
 Szerintem rajta van, igen. Bár inkább csak az, hogy onnan tudnám elérni ezt a dokumentumot.
 
+1274
 00:21:14 - 00:21:22
 Nagy része azért felhőben tárolt dokumentum.
 
+1282
 00:21:22 - 00:21:33
 Ha odáig jutunk és erre sor kerül, akkor nyilván ellenőrzött körülmények között, vagy amikor majd a rendőrség végez az adathordozók elemzésével és visszakapja,
 
+1293
 00:21:33 - 00:21:37
 akkor én oda tudom ültetni, amíg megkapja a gépét.
 
+1297
 00:21:37 - 00:21:41
 Mert azért én úgy gondolom, hogy ön is úgy érzi, hogy ez egy tisztázandó körülmény.
 
+1301
 00:21:41 - 00:21:57
 Ha minden kétséget kizáróan ez tény és való, hogy ez így van, ahogy ön elmondja, akkor mi leszünk a legboldogabbak, mert nem kell bajuszt akasztanunk a szövetségi rendszeren belüli barátainkkal, hogy Magyarországon egy kémet nevelnek, kém fiókát.
 
+1317
 00:21:57 - 00:22:08
 Jó, akkor. Hát igen, az lenne ugye. De csak azt mondom, hogy semmi nem az, aminek látszik. Semmi nem az ebben a mai világban.
 
+1328
 00:22:08 - 00:22:13
 Őn megbízik minden barátjában, mindegyik barátjáról pontosan tudja, hogy kicsoda, micsoda.
 
+1333
 00:22:13 - 00:22:16
 Dehogyis, nem.
 
+1336
 00:22:16 - 00:22:19
 Mutatok önnek valamit.
 
+1339
 00:22:19 - 00:22:22
 Mondhatja azt, hogy ez Photoshop, nem az.
 
+1345
 00:22:25 - 00:22:27
 Felismeri az urat?
 
+1347
 00:22:27 - 00:22:30
 El tudja olvasni, mi van odaírva?
 
+1350
 00:22:30 - 00:22:34
 Igen, mi az, brit állampolgár.
 
+1354
 00:22:34 - 00:22:38
 Ezt tudtam eddig is róla, hogy elvileg brit állampolgár.
 
+1358
 00:22:38 - 00:22:42
 Akkor jó, akkor semmi gond, mert legalább ön előtt nem titkolta el.
 
+1362
 00:22:42 - 00:22:45
 Nem, miért, más előtt eltitkolta?
 
+1365
 00:22:45 - 00:22:48
 Én ezt nem tudhatom.
 
+1368
 00:22:48 - 00:22:52
 Na bocsánat, hogy megnézném mégegyszer.
 
+1372
 00:22:52 - 00:22:55
 Mondom, nem Photoshop, higgye el.
 
+1375
 00:22:55 - 00:22:58
 Akkor nem mutogatnám.
 
+1378
 00:22:58 - 00:23:00
 De miért gondolnám ezt, hogy Photoshop?
 
+1380
 00:23:00 - 00:23:06
 Csak így mondom, hogy nem mindenki az, akinek látszik.
 
+1386
 00:23:06 - 00:23:21
 És akkor most itt erre is felépíthetnénk, hogy egy fiatal ember, akit egyszer csak úgy dönt II. Erzsébet angol királynő, hogy ennek a gyereknek adok egy brit állampolgárságot, mert olyan jó fess fiú?
 
+1401
 00:23:21 - 00:23:37
 Ha jól emlékszem, egyébként mesélte, hogy neki miért van ilyen kettős állampolgársága, nekem valami olyasmit mesélt, hogy valami családi dolog miatt, hogy van valami rokona, aki brit.
 
+1417
 00:23:37 - 00:23:50
 A 2000-es években már a britek két kézzel szórták a brit állampolgárságot mindenkinek, akinek bármilyen brit, Nagy-Britanniában élő rokona van? Mondta, hogy persze, hozd Ruandából a 12 unokatestvéredet, mindenki kap egyet?
 
+1430
 00:23:50 - 00:23:52
 Hogy öt év helyben tartózkodás kellett hozzá.
 
+1432
 00:23:52 - 00:23:55
 Eleve ott kezdődik, hogy öt év helyben tartózkodás kell.
 
+1435
 00:23:55 - 00:23:58
 Aha, igen, azt is mondta, hogy élt Angliában.
 
+1438
 00:23:58 - 00:24:04
 Majd visszajön ide Magyarországra, és egyszer csak a Tisza párt körül tűnik fel.
 
+1444
 00:24:04 - 00:24:06
 Hát igen, a *** is ugyanígy...
 
+1446
 00:24:06 - 00:24:09
 Ő Amerikából érkezett, így van.
 
+1449
 00:24:09 - 00:24:12
 Őt is ismerik, akkor ezért nagyon jó.
 
+1452
 00:24:12 - 00:24:19
 Nem ismerjük, mi attól függetlenül, hogy mi Rogán gonosz kutyái vagyunk,
 
+1459
 00:24:19 - 00:24:31
 Mi vagyunk, ettől függetlenül rajta tartjuk ezen is a szemünket, mert mint mondtam még egyszer, és ön erre grimaszolt egyet, mi minden magyar állampolgár titkosszolgálata vagyunk, nem a kormányé. Magyarországé.
 
+1471
 00:24:31 - 00:24:47
 Itt nem is akarom azt mondani, hogy mondjuk önök itt  személyesen bérmi ilyesmit csinálnánk, csak amennyit feltűnt, volt okunk feltételezni, hogy vannak itt olyan elemek, akik... Jó, mi ezért  vagyunk, hogy ezeket az elemeket kiszűrjük.
 
+1487
 00:24:47 - 00:24:57
 Más vonalon esetleg, hogyha tudja, hogy kettős állampolgár, vagy akkor menjünk tovább ezen a mezsgyén. Jó, hogy önnek külföldi kapcsolatai, ugye az észtországi képzésen kívül, vannak-e?
 
+1497
 00:24:57 - 00:25:01
 Most nyilván nem arra gondolok, hogy egy hétig voltam Horvátországba nyaralni.
 
+1501
 00:25:01 - 00:25:08
 Hát ott mentem volna, csak ugye az NMI kijött, és aztán nem volt kedvem Horvátországban nyaralni.
 
+1508
 00:25:08 - 00:25:16
 Hát külföldi kapcsolatokkal, hát igen, vannak igazából.
 
+1516
 00:25:16 - 00:25:18
 Mondjak konkrétumokat, tehát...
 
+1518
 00:25:18 - 00:25:23
 Szeretnénk, nem akarok ilyen filmbe lenni hogy, akarok neveket, de akarok valami konkrétumot.
 
+1523
 00:25:23 - 00:25:29
 Szorítsuk egy bizonyos keretben, ezt a beszélgetést, mert nagyon sokáig fog tartani, ha nem konkrétumokat fog mondani.
 
+1529
 00:25:29 - 00:25:32
 Jó, jól van. Jó, tehát igen, vannak, következő.
 
+1532
 00:25:32 - 00:25:42
 Vannak. Amikor kitört az ukrajnai háború, engem az nagyon felzaklatott, máig emlékszem arra a napra, az nagyon megmaradt nekem.
 
+1542
 00:25:42 - 00:25:57
 És úgy gondoltam, hogy ez így nincs rendjén, akárhogy is ez egy proxyháború Amerika és Oroszország között, szerencsétlen civilek vannak ott kitéve a háborúnak, és az egész egy szörnyű dolog.
 
+1557
 00:25:57 - 00:26:19
 És én úgy éreztemm, hogy bár nincs olyan nagy kiemelkedő tudásom, de mégiscsak van egy informatikai tudásom, ami hasznosítható abból a szempontból, hogy az akkor nem éppen fényes kibervédelmi állapotokat Ukrajnában egy kicsit támogassam, illetve arra is, hogy gyűjtsek Ukrajnának.
 
+1579
 00:26:19 - 00:26:41
 Ezzel kapcsolatban én végeztem olyan önkéntes tevékenységet, hozzáteszem, soha nem fogadtam el semmilyen pénzt azért, amit végzek, ami csak annyi volt, hogy védekező műveleteket csináltunk Ukrajnában, amik orosz kibertámadások ellen irányultak.
 
+1601
 00:26:41 - 00:26:56
 A orosz hackercsoportok kibertámadásai ellen. Frissítettünk rendszereket, ráraktunk IDS-t, IPS-t, konfiguráltunk, néztük, elemeztünk bejövő hálózati forgalmat és javítottuk a rendszereket.
 
+1616
 00:26:56 - 00:27:04
 Elég sok ilyen SCADA-s embert ismertem meg akkor tájt, mert nyilván a SCADA-rendszereket elég gyakran támadják, azt gondolom, azt úgy tudják.
 
+1624
 00:27:04 - 00:27:26
 Nyilvánvaló, hogy a SCADA-hoz én annyira nem értek, de szerettem volna valahogy segíteni ezt az ukrán célt, hogy megvédjék a hazájukat. Mert úgy gondolom, hogy az orosz terjeszkedés, ez nem feltétlen lenne jó, ha mondjuk egy ilyen orosz beavatkozás vagy orosz befolyás alatt van egy Magyarország, hát...
 
+1646
 00:27:26 - 00:27:33
 Már csak 56-ból kiindulva is, nem volt az teljesen jó nekünk ez az orosz okkupáció.
 
+1653
 00:27:33 - 00:28:03
 És egyébként az észtek is ezt támogatták. Tehát kifejezetten támogatták azt, hogy én segítsem őket, ami lehet, hogy megint az, hogy nem minden az, aminek látszik, de nekem inkább afelé hajlott akkor is, hogy hát miért lenne ez orosz, akkor miért támogatnák azt, hogy én ebben részt vegyek, hogyha ez valami rossz titkosszolgálati dolog. Akkor itt most már érti, hogy miért kérdeztem, hogy miért fontos az, hogy 2022-ben vagy 2023-ban volt ez.
 
+1683
 00:28:03 - 00:28:07
 Ez az, amikor kint volt Észtországban. Ez ugye pont a háború miatt volt ez lényeges.
 
+1687
 00:28:07 - 00:28:15
 Jó. Itt is többes számot használt, hogy önök elvégeztek különböző feladatokat.
 
+1695
 00:28:15 - 00:28:19
 Tudja, ki volt még ön mellett, vagy ez kizárólag online volt?
 
+1699
 00:28:19 - 00:28:21
 Online vagy online.
 
+1701
 00:28:21 - 00:28:26
 Hogy találta meg egyébként azt, aki a feladatokat osztotta, vagy róluk mit tud egyáltalán?
 
+1706
 00:28:26 - 00:28:46
 Vannak internetes fórumok, Telegram-csatornák, voltak chatek, ahol először lehetett jelentkezni, és én beszélgettem pár ilyen emberrel, akik ilyen feladatokat osztottak.
 
+1726
 00:28:46 - 00:28:54
 Persze, néha betévedtem olyan helyre is, ami nem olyan dolog, amiben én szívesen részt vennék.
 
+1734
 00:28:54 - 00:29:04
 Azért nem csak a védekezésről volt szó az ilyen csoportokban, hanem az ellentámadásról is, ahol voltak, akik civil infrastruktúrát is támadtak.
 
+1744
 00:29:04 - 00:29:11
 Én ezzel nem értettem egyet, és ezekben nem is voltam hajlandó részt venni, hogy civil infrastruktúrát támadjunk.
 
+1751
 00:29:11 - 00:29:17
 Informatikailag nyilván, mert nincsenek is fegyvereink vagy nem tudom, tüzérségünk.
 
+1757
 00:29:17 - 00:29:23
 ...mert nincsen kapacitás, most informatikai segítséget tud minimálisan nyújtani.
 
+1763
 00:29:23 - 00:29:31
 Úgyhogy olyanban eddig vettem részt, amik általában Telegramon, meg voltak ilyen Matrix chatek elements kliensel,
 
+1771
 00:29:31 - 00:29:36
 és akkor ott voltak koordinálva az ilyen dolgok.
 
+1776
 00:29:36 - 00:29:44
 Milyen típusú ember kell, milyen rendszerrel, milyen rohadt régi, akármilyen rendszert kéne felújítani, amit már nem frissítettek 20 évvel és valamiért modern rendszerbe kéne beköteni,
 
+1785
 00:29:45 - 00:30:15
 és ezeket teljesen remótban csináltam. Egy dolog igaz, azt is gondolom, tudják, hogy én jártam kint Ukrajnában, ahol találkoztam pár ilyen önkéntessel, akik elsősorban ukránok voltak. Ez is tulajdonképpen ilyen baráti összejövetel volt.
 
+1815
 00:30:15 - 00:30:26
 de ezek is velem nagyjából egykorúak voltak egyébként, viszont volt pár idősebb, ilyen 25-26 éves ember.
 
+1826
 00:30:26 - 00:30:30
 Ukrajnában hol járt pontosan, és ki koordinálta, és kik voltak akikkel találkozott?
 
+1830
 00:30:30 - 00:30:34
 Kijevben jártam. Mivel utazott? vonattal.
 
+1834
 00:30:34 - 00:31:04
 és találkoztam pár ilyen sráccal. Egyébként nagy részben beceneveket használtunk, tehát nem volt itt, nem nagyon tudom a valós identitását sok embernek, plána azokkal, akikkel nem találkoztam, és gyakran változtatva is voltak a becenevek, amikor új helyen chateltünk. Ezekből a tevékenységekből egyébként én már kiléptem, én azóta nem,
 
+1864
 00:31:04 - 00:31:34
 semmilyen ilyen tevékenységet nem végzek, még ilyen védekező tevékenységet nem végzek, semmilyet sem, mert azt látom, hogy ez átmegy abba, hogy inkább tényleg ez az ilyen támadó stílus, meg az ilyen nagyon-nagyon bugyuta, meg az egész háborút is már kicsit átértékelődött bennem, hogy hogyan látom, és nem vagyok már ilyen csoportokban, nem tartom a kapcsolatot azóta ezekkel az emberekkel.
 
+1894
 00:31:34 - 00:31:41
 Okés, tanácsoltam volna én is, hogy egyébként honnan tudta volna, hogy mondjuk milyen célpontokat támadnak, hogyha átmegy ilyen támadó jellegű tevékenységbe?
 
+1901
 00:31:41 - 00:31:44
 Nem teljesen értem tulajdonképpen, hogy ezt hogy érti.
 
+1904
 00:31:44 - 00:31:50
 Hogyha átmegy támadó jellegűbe a magatartás, honnan tudja, hogy milyen célpontokat kell támadni Ukrajnában?
 
+1910
 00:31:50 - 00:31:56
 Nem Ukrajnában támadni, hanem Oroszországban támadni célpontokat.
 
+1916
 00:31:56 - 00:32:01
 Nyilván ugye vannak olyan emberek a csoportokban, akik jobban informáltak,
 
+1921
 00:32:01 - 00:32:43
 és akkor ők így megjelölnek esetleg ilyen... Vannak teljesen publikus csoportok, tehát az IT Army of Ukraine egy koordinálnak nagyon sok védelmi és támadási dolgot, van nekik publikus Telegram-csoportjuk, ahol konkrétan az van, hogy ma ezt kell izélni, meg konkrétan azt is csinálhatja valaki, hogy valaki fogja, letölt egy ilyen programot, akkor gyakorlatilag egy botnetbe ajánlja fel a gépét, akkor azzal támadhat. Vagy hát ő nem támad, csak felajánlja az erőforrásait a számítógépének. Ezt nem tartom helyesnek, ilyenben nem vettem részt, ugye nyilván ezek, akik ezeket koordinálják, ezek is eléggé anonymus emberek.
 
+1963
 00:32:43 - 00:32:53
 és azért láttuk, hogy az orosz titkosszolgálat képes olyan műveleteket csinálni, hogy az ilyen embereket esetleg az ilyen embereket eltenni láb alól,
 
+1973
 00:32:53 - 00:32:56
 és nyilván ezért anonimon maradtak.
 
+1976
 00:32:56 - 00:33:03
 Ami másik dolog, ami felmerülhet, hogy bármilyen olyan kérdés, mittomén ami kifejezetten a Magyarországot érinti,
 
+1983
 00:33:03 - 00:33:12
 nyilván az az orosz-ukrán helyzet nagyon is érinti Magyarországot, és nyilván az ukránok is támadták az orosz Barátság kőolaj, a Druzsba vezetéket.
 
+1992
 00:33:12 - 00:33:22
 én ilyenekben nem vettem részt, hogy a Druzsba vezetéket vagy ilyesmit támadni, ezt ugye elsősorban nem SCADÁ-sok, hanem drónnal támadják, jó tudomásom szerint.
 
+2002
 00:33:22 - 00:33:31
 És nyilván találkoztam olyan anonim emberrel, aki kifejezetten utálja a magyarokat, mert az ukránoknak nem adnak fegyvert, meg ilyenek.
 
+2011
 00:33:31 - 00:33:41
 De én ezekkel nem vállaltam közösséget, akik ennyire radikálisak, és akik kifejezetten azt akarják, hogy a magyarokat sérteni azzal, hogy olyan dolgokat támadni,
 
+2021
 00:33:41 - 00:33:44
  amik Oroszországban vannak, viszont magyar érdekek.
 
+2027
 00:33:47 - 00:33:49
 Erről nagyjából ennyit tudnék elmondani.
 
+2030
 00:33:50 - 00:34:06
 De ezzel kapcsolatban az merült fel, hogy mondjuk ez a észtekkel kapcsolatban, hogy esetleg ők akarnak itt valamit az oroszokkal csinálni, miért merült fel ez így konkrétan?
 
+2046
 00:34:06 - 00:34:11
 Hát ezt az előbb beszéltünk, hogy nem minden az, aminek látszik.
 
+2051
 00:34:11 - 00:34:18
 Hát azért kérdeztem, hogy ki az észt, ki a magyar, ki az angol, ki az orosz?
 
+2058
 00:34:18 - 00:34:27
 Észttel kellett egyébként így találkozott, tehát ugye egy embert személyesen, akivel Észtországban találkozott, más észttel találkozott már életében?
 
+2067
 00:34:27 - 00:34:31
 Nem, nem, más észttel nem hiszem hogy találkoztam.
 
+2071
 00:34:31 - 00:34:33
 Itt Magyarországon nem találkoztak?
 
+2073
 00:34:33 - 00:34:41
 Magyarországon? Nem hiszem, hogy találkoztunk.
 
+2081
 00:34:41 - 00:34:44
 Hát ez nem volt túl meggyőző.
 
+2084
 00:34:44 - 00:34:59
 Csak azt nem tudom, mert hogy ugye a még a nagykövetségen voltam.-- Az észt nagykövetség? Igen. Itt a második kerületben?? Igen, igen, azt nem tudom, hogy most konkrétan észt volt-e, mert angolul beszélt.
 
+2099
 00:34:59 - 00:35:03
 Címet azt meg tudja nekem mondani, hogy tényleg a nagykövetségen járt-e?
 
+2103
 00:35:03 - 00:35:05
 A...
 
+2105
 00:35:05 - 00:35:05
 Azért a...
 
+2105
 00:35:05 - 00:35:06
 Ahol volt, igen.
 
+2106
 00:35:06 - 00:35:09
 Hát azt nem tudom fejből a címet, de...
 
+2109
 00:35:09 - 00:35:11
 Hogy kell odamenni?
 
+2111
 00:35:11 - 00:35:12
 Hát most...
 
+2112
 00:35:12 - 00:35:13
 Taxival?
 
+2113
 00:35:13 - 00:35:15
 Ne, ne, viccelsz.
 
+2115
 00:35:15 - 00:35:24
 de nem úgy jutott oda, hogy azokat a dolgokat fűzzük még hozzá. Csak hogy nagyjából lőjük már be, hogy hol van ez az épület, ahova bement, és amiről azt feltételezi, hogy nagykövetség.
 
+2124
 00:35:24 - 00:35:34
 Én csak annyit csináltam, hogy beütöttem a Google Mapsbe, hogy hol van az észt nagykövetség hivatalosan, és akkor azt követtem.
 
+2134
 00:35:34 - 00:35:39
 Én mindig Google Mapsszel navigálok, ha kell, és nem jegyzem meg az ilyen dolgokat, a címet sem tudom.
 
+2139
 00:35:39 - 00:35:44
 De az azért valami, mindennap nem jár az ember egy nagykövetségen.
 
+2144
 00:35:44 - 00:35:52
 Hogy nézett ki ez az épület? Tehát az utcáról az épületbe lépett be, van előkert?
 
+2152
 00:35:52 - 00:36:06
 Igen, igen, van előkert, de igazából csak azért mentem be, mert utána kimentünk egy kávézóba a nagykövetségből, tehát nem nagyon láttam belülről túlságosan.
 
+2166
 00:36:06 - 00:36:16
 Nem belülről, az meg egy kicsit kívülről. Hogy néz ki az épület? Sárga, zöld, kék? Emeletes, odaelde, régi, rózsadó, vidilla.
 
+2176
 00:36:16 - 00:36:24
 Hát ilyen sárgás épület, kisebb, viszonylag egyszerűbb épület.
 
+2184
 00:36:24 - 00:36:35
 És a kávézó, ez hol volt? Ez messze volt egyébként onnan, ez a Művész kávézó volt az Andrássy úton.
 
+2195
 00:36:35 - 00:36:37
 Az jó messze.
 
+2197
 00:36:37 - 00:36:39
 Az jó messze van valóban.
 
+2199
 00:36:39 - 00:36:47
 A legutóbbi beszélgetés óta azért sokat gondolkodtam azon, amit mondott, meg úgy az összes többi ilyen dolgon is.
 
+2207
 00:36:47 - 00:37:00
 Sajnos azt kell mondanom, hogy én is inkább azt látom, hogy ez valami beszervezés jellegű, valami későbbi akcióra való felkészítés, mert több olyan gyanús dolog is felmerült.
 
+2220
 00:37:00 - 00:37:05
 De nagyon örülök, hogyha sikerült önben elültetnem a gyanakvás csíráját.
 
+2225
 00:37:05 - 00:37:14
 És ezt nem azt jelenti, hogy mindig mindennel szemben gyanakodni kell, de azért felnött emberként vannak dolgok, amiket sokszor át kell gondolni az életben.
 
+2234
 00:37:14 - 00:37:37
 Mint ahogy nagyon jól tudja a nigériai örökösök, hogy pont magát találta meg az aki egyébként 30 millió dollárt örökölt, csak 300 dollár kellene ahhoz, hogy hozzájusson a 30 millióhoz. Igen, igen. Hát talán egy fokkal emlékszem, hogy komplexebb volt, de az első körben nekem is most ez a helyzet, hogy ennyire beszívtam.
 
+2257
 00:37:37 - 00:37:49
 Egyébként ami dokumentum van, az egy vizsgabizonyítvány, tehát elméletben vizsgabizonyítvány ez az EITA, az European Information Technology Academy,
 
+2269
 00:37:49 - 00:37:55
 elvileg ezekkel való partnersége alapján keletkezett, és volt egy vizsga 2023-ban.
 
+2279
 00:37:59 - 00:38:09
 Ebből én levizsgáztam és kaptam egy olyan bizonyítványt, amin volt ilyen azonosító is, ami alapján tudná validálni ezt a bizonyítványt, viszont nem sikerült megvalidálni.
 
+2289
 00:38:09 - 00:38:12
 Most először próbáltam meg, hogy őszinte legyek, validálni ezt a bizonyítványt.
 
+2292
 00:38:12 - 00:38:22
 és emlékszem, hogy amikor megkaptuk, akkor szóltak is, hogy elég sokáig tart, mire bekerül a rendszerbe és lehessen validálni, emiatt akkor nem is néztem meg.
 
+2302
 00:38:22 - 00:38:31
 És most, amikor megnéztem a beszélgetésünk után, nem sikerült validálni, hogy ez teljesen az én nevemre van, és ez volt egy elég erős vörös zászló, hogy így mondjam.
 
+2311
 00:38:31 - 00:38:33
 de azért elhoztam.
 
+2313
 00:38:33 - 00:38:46
 Ha jól értem, akkor ez nem a CCDCOE-nek, amiről először beszéltünk, a NATO Kooperatív Kibervédelmi Kiválósági Központja.
 
+2326
 00:38:46 - 00:38:53
 Igen, nem ők állították ki ezt a bizonyítványt elvileg, hanem az volt a mondás, az volt a legenda,
 
+2333
 00:38:53 - 00:39:02
 talán már fogalmazhatjuk így, hogy ez egy közös partnerség ezzel az EITA-val, és akkor ez egy ilyen közös bizonyítvány tulajdonképpen.
 
+2342
 00:39:02 - 00:39:17
 Jó, majd megnézzük, és ha megengedi, akkor mi is lementjük és megnézzük, hogy mit tudhatunk erről a szervezetről.
 
+2357
 00:39:17 - 00:39:28
 Akkor fogalmazzunk így, hogy ez mennyire létező és mennyire valid, és esetleg mennyire NATO-partner és NATO-kompatibilis valamiről van szó.
 
+2368
 00:39:28 - 00:39:37
 A szervezet egyébként, hogyha tényleg ez a szervezet, akkor annak kéne lennie, csak lehet, hogy itt eljátszották a dolgokat, és akkor valójában nem is az...
 
+2377
 00:39:37 - 00:39:40
 Sajnos a mai világban minden lehet.
 
+2380
 00:39:40 - 00:39:42
 ...
 
+2382
 00:39:42 - 00:39:46
 Ott tartunk, hogy ráírt Önre a Session-ön.
 
+2386
 00:39:46 - 00:39:48
 Igen.
 
+2388
 00:39:48 - 00:39:52
 Ezt akkor ön elmagyarázta, vagy próbálta elmagyarázni nekünk, vagy próbálta elmagyarázni nekünk,
 
+2392
 00:39:52 - 00:39:59
 Azóta én perfekte lettem a Session alkalmazásból,
 
+2399
 00:39:59 - 00:40:03
 és az én meglátásom szerint ezen ismeretlenül nem lehet senkit sem megtalálni, senkinek sem lehet felvenni a kapcsolatot.
 
+2403
 00:40:03 - 00:40:11
 Ezért akkor a WE-nek tudnia kellett az ön 30 számból álló ID-ját, tehát amit kitalálni sem lehet.
 
+2411
 00:40:11 - 00:40:19
 Tehát akkor a következő a kérdésem: nagyságrendileg, de ha meg tudja mind nevezni, az lenne a legtökéletesebb.
 
+2419
 00:40:19 - 00:40:27
 Kikkel tartja ön a Session-ön a kapcsolatot, akik ismerik ezt az ön personal ID-jét,
 
+2427
 00:40:27 - 00:40:33
 És esetleg megadhaták, hogy a Session-azonosítóját megadhatta, vagy akármilyen trükkel hozzájuthatott ez a V.E.
 
+2433
 00:40:33 - 00:40:41
 Igen, igen. Elég sok emberrel tartottam session-on a kapcsolatot, ideiglenesen nem túl sokáig,
 
+2441
 00:40:41 - 00:40:52
  de sok embernek megvolt ez a Session ID-m. Volt pár Ukrajnából származó barátom, akikkel a korábbi ukrán védelmet intéztük.
 
+2452
 00:40:52 - 00:40:58
 Tehát voltak ilyen ukrán tagok, ők civilek, legalábbis tudomásom szerint civilek.
 
+2458
 00:40:58 - 00:41:06
 Ezeknek az észteknek is megvolt ez a Session ID, az érdekes lehet.
 
+2466
 00:41:06 - 00:41:21
 A Tiszán belül pár embernek megvolt, ha jól emlékszem, illetve a baráti körömben is páran. Mondom név szerint a Discordomat, a ***,
 
+2481
 00:41:21 - 00:41:30
  nem tudom, mennyire mond valamit, van egy ilyen baráti közösségünk, és nekik is megvolt több embernek ez a Session ID.
 
+2490
 00:41:30 - 00:41:40
 Nagyságrendileg azt mondanám, hogy legalább 30 ember tudhatott erről a Session ID-ról, tehát viszonylag sok és sokrétű csoportok,
 
+2500
 00:41:40 - 00:41:47
  úgyhogy ezen én is gondolkoztam hogyan, de hát valószínűleg elég sok forrásból juthatott el.
 
+2507
 00:41:47 - 00:41:59
 Ha több tíz emberről beszélünk, akkor nehéz lesz egyesével végigmenni ahhoz, hogy ki adhatta ki ezt az ID-t.
 
+2519
 00:41:59 - 00:42:12
 Említette az ukrán tagokat. Most térjünk ki rá, vagy majd akkor, amikor az ön által Ukrajna érdekében kifejtett tevékenységgel kapcsolatban:
 
+2532
 00:42:12 - 00:42:20
 az ukrán tagokról tudunk-e bármilyen azonosítót? Nyilván nem fogja tudni megmondani a nevüket, mert csak neten tartotta velük a kapcsolatot,
 
+2540
 00:42:20 - 00:42:41
 de tudunk azonosítót mondani hozzájuk, vagy találunk az öntől lefoglalt adathordozókon bárhol ezzel kapcsolatos adatot? Mert nekünk az is jó, hogyha azt mondja, hogy el van mentve itt vagy ott vagy amott valami, amit még nem kapja vissza az eszközét, addig mi ellenőrizni tudunk.
 
+2561
 00:42:41 - 00:42:48
 Tudok mondani pár azonosítót, meg tudok mondani nevet, ami akár még valós név is lehet, bár nem tudjuk biztosan. Mert ugye én voltam kint Ukrajnában.
 
+2568
 00:42:48 - 00:42:49
 Igen.
 
+2569
 00:42:49 - 00:42:53
 2023 október végén és november elején között egy hetet kb.
 
+2573
 00:42:53 - 00:43:03
 Fel is írtam, hogy ennek a pontos dátuma október 30-tól november 3-ig, bár a 04-e még benne lehet, mert hajnalban keltem át a határon.
 
+2583
 00:43:03 - 00:43:05
 2023. október...
 
+2585
 00:43:05 - 00:43:07
 ...30-tól 03.
 
+2587
 00:43:07 - 00:43:09
 Oké, ott volt Kievben.
 
+2589
 00:43:09 - 00:43:16
 Kievben kivel találkozott, akivel találkozott, milyen módon tartották a kontaktust,
 
+2596
 00:43:16 - 00:43:21
 hogy itt vagyok, ha ho?
 
+2601
 00:43:21 - 00:43:34
 Volt egy kapcsolattartó, aki a csoportot vezette. Davidov volt a neve, ami egy valós név is lehet, de nem tudjuk persze.
 
+2614
 00:43:34 - 00:43:39
 Davidovként mutatkozott. Igen, vele élőben is találkoztam.
 
+2619
 00:43:39 - 00:43:41
 Hány éves, hogy nézett ki?
 
+2621
 00:43:41 - 00:44:11
 Hát nagyjából... Hát úgy tudnám leírni, mint egy nehézsúlyú bokszolót. Talán egy rövid leírás: Egyébként tényleg olyan volt, mint egy ilyen sztereotipikus maffiózó, ilyen nagyon rövidre nyírt haja volt. És viszonylag nem volt túl sűrű, a rövid haja sem különleges. Nagy fejű, nagy testű, kigyúrt csávó volt, viszonylag mély hangja volt, érződött rajta, hogy szláv.
 
+2651
 00:44:11 - 00:44:41
 és ezt lehetett hallani. De egyébként nem volt ilyen tahó, vagy ilyesmi, amit mondjuk esetleg gondolnának az emberi első ránézése. És ő volt tulajdonképpen egy ilyen kapcsolattartó, aki... Hát ezt is még próbáltam előkeresni valamilyen hivatalos... elvileg valamilyen ukrán állami szervnek volt a kapcsolattartója, ami a kibervédelemmel foglalkozik, és hozzá a Ragnaron keresztül jutottam el.
 
+2681
 00:44:41 - 00:45:11
 Ő volt a fő észt mentor, és nekem úgy volt beállítva, hogy recruiting officer volt a posztja, elvileg, és ő kötött össze vele Matrixon, és megbeszéltük, hogy hol fogunk találkozni, a Majdan téren. Azt mondom, a tér neve is Majdan, az a főtér Ukrajnában, ahol a majdani forradalom volt, és ott van egy ilyen nagy szobor egy oszlopon, egy ilyen háborús emlékmű, vagy nem is tudom micsoda, és ott találkoztunk igazából.
 
+2711
 00:45:11 - 00:45:18
 egy ilyen háborús emlékmény, vagy nem is tudom micsoda, és ott találkoztunk igazából.
 
+2718
 00:45:18 - 00:45:39
 Jó, önön kívül akkor voltak ott, más külföldiek is ebben az időben? Igen, voltak más külföldiek. Volt egy lengyel srác, és volt még két másik ukrán, akik szintén ott voltak.
 
+2739
 00:45:39 - 00:45:47
 Jó, a lengyel srácot ott hogy hívták? Lengyel? Nem, neki annyi volt a neve, hogy Lev. Lev? Lev, igen. Lev.
 
+2747
 00:45:47 - 00:45:52
 És a Davidovnak? Ennyi, hogy Davidov így mutatkozott be.
 
+2752
 00:45:52 - 00:45:58
 hogy igen, ez sajnos egy téma, hogy nem nagyon volt ilyen hivatalos identifikáció.
 
+2758
 00:45:58 - 00:46:00
 Névjegyet senki nem adott?
 
+2760
 00:46:00 - 00:46:10
 De erre is ki akarok térni, mert egyedül a Ragnar volt az, aki mutatott nekem bármit is, amikor Észtországban találkoztunk.
 
+2770
 00:46:10 - 00:46:18
 Mutatott egy ilyen igazolványt, ami nekem realisztikusnak nézett ki, bár nem bámultam ilyen nagyon sokáig,
 
+2778
 00:46:18 - 00:46:48
  megmutatta ezt az igazolványt, és az úgy nézett ki, hogy egy ilyen kis standard igazolvány méretű kis valami, egy ilyen színes portréval róla, majd a Ragnarról is mindjárt adok, hogyan néz ki, hogyan kell elképzelni. Egy színes portré, ami megjegyezett azzal, hogy hogy néz ki. Aztán középen volt egy ilyen CCDCOE logó, ami ilyen körkörös cucc, ilyen kék, kékes színű, és akkor ott volt a neve, meg azt, hogy NATO,
 
+2808
 00:46:48 - 00:47:18
 volt jobb felső sarokban egy ilyen NATO-s logó, illetve volt egy ilyen, talán az ilyen mágneses strip, ami a jobb oldalán volt az igazolványnak, ami ilyen csillogós, ilyen kis valami, azt hiszem ilyen mágneses funkciót lát el a kártyában, nem tudom pontosan, arra emlékszem, hogy volt egy ilyen csillogós valami, meg a hátul ilyen nagy szöveg volt, meg ilyen, szerintem ilyen identifikáció, tehát ilyen egyedi azonosító, de azokat nem jegyeztem meg sajnos, úgyhogy csak arra emlékszem, hogy kb. hogy nézett ki.
 
+2838
 00:47:18 - 00:47:23
 Jó, ez egy tokban volt az igazolvány, vagy így meztelenül?
 
+2843
 00:47:23 - 00:47:29
 Egy ilyen tokban volt, ahonnan így kihúztak, és ott más kártyák voltak benne.
 
+2849
 00:47:29 - 00:47:31
 Tehát ilyen kártyaserű, kártyaméretű?
 
+2851
 00:47:31 - 00:47:36
 Igen, kártyák, mint egy ilyen hangkártya, vagy mint egy ilyen tajkártya, vagy valakivel.
 
+2856
 00:47:36 - 00:47:40
 Jó, tehát nem tartozott hozzá jelvény, fémből készült jelvény.
 
+2860
 00:47:40 - 00:47:51
 hogy nem tartozott hozzá, de volt egy ilyen bőrtokszerűségben benne, amin szintén volt valami ilyen körkörös szimbólum, ami nem a CCDCOE logó volt,
 
+2871
 00:47:51 - 00:48:02
 hanem nem tudom mi volt, mert nem nagyon látszódott, mert csak így bele volt így gravírozva, vagy nem tudom, láttam, hogy valami logó, vagy valami ilyen,
 
+2882
 00:48:02 - 00:48:09
 hogy ez egy olyan komplexnek tűnt, nem tudom, hogy pontosan milyen volt, de hogy egy ilyen bőrtoppal volt.
 
+2889
 00:48:09 - 00:48:16
 Több valami volt, mert láttam, ahogy kinyitotta hogy több kártya volt, de nem láttam, hogy azok micsodák.
 
+2896
 00:48:16 - 00:48:19
 De azok ugyanilyen, mondom személyes dokumentumok.
 
+2899
 00:48:19 - 00:48:36
 Ok tehát ott volt ez a Ragnar ott volt a Lev nevű srác? Nem, nem, ez most két különböző sztori. Ez Észtországban volt.  Ragnar nem volt velem Ukrajánban.  Nem volt, csak... Igen, de az már digitálisan, csak kérdezem, hogy ki volt ilynen névjegyes vagy valami, még ott, vagy valami.
 
+2916
 00:48:36 - 00:48:43
 Oké, értem. Jó, akkor Ragnar nem volt ott, de ott volt ez a lengyel srác, illetve voltak még ukránok?
 
+2923
 00:48:43 - 00:48:49
 Hogy ukránok voltak? Igen, ukrán, és hát eléggé ukrán akcentussal beszélő srácok,
 
+2929
 00:48:49 - 00:48:55
 és hát tényleg, tényleg ukrának voltak. Borisnak és Denisnek hívták őket.
 
+2935
 00:48:55 - 00:49:04
 Legalábbis ez volt a dolog. És hát velem nagyjából egykorúak voltak.
 
+2944
 00:49:04 - 00:49:09
 Nagyon jó fiatalok voltak. Igen, igen.
 
+2949
 00:49:09 - 00:49:22
 és velük beszélgettünk, egyébként nem sok szakmai dologról beszéltünk ott, hanem inkább ilyen általános, magamfajta generációnak a nehézségeiről.
 
+2962
 00:49:22 - 00:49:28
 Pedig úgy mentünk ki, hogy ilyen nagy szakmai beszélgetések lesznek, de nagyrészt nem volt erről szó.
 
+2968
 00:49:28 - 00:49:58
 és ez a Davidov beszélt arról, hogy lehetne akár egy ilyen csapatot belőlünk csinálni, aki kifejezetten tovább segíti komplexebb módokon Ukrajnát, és felmerült az is akkor egyébként, hogy akár ilyen kibertámadásokban részt venni, meg ilyesmi. És ott egyébként mindenki vonakodott ettől, de úgy látszik, hogy ez a Davidov nagyon is be akart ebbe rántani minket.
 
+2998
 00:49:58 - 00:50:03
 és egyébként elmondtam Ragnarnak, hogy volt egy ilyen kisebb nézeteltérés, és mondta, hogy ez nem teljesen oké.
 
+3003
 00:50:03 - 00:50:08
 Még egy érdekes dolog, hogy Ķiért is volt ez a dolog Ukrajnában.
 
+3008
 00:50:08 - 00:50:16
 Elméletileg a képzés során volt egy kötelező jellegű dolog, hogy két NATO- vagy NATO-szövetséges országba ki kell menni,
 
+3016
 00:50:16 - 00:50:20
  aztán kitört az ukrajnai háború, elvileg ez választható lett volna,
 
+3020
 00:50:20 - 00:50:27
 viszont kitört a háború, és akkor kötelezővé tették, hogy az egyiknek Ukrajnának kell lennie, tehát nyilván nem NATO-ország.
 
+3027
 00:50:27 - 00:50:36
 és érdekes módon a Ragnar azt szerette volna, hogy utána meg Izraelbe menjek ki.
 
+3036
 00:50:36 - 00:50:46
 Én meg ezzel nagyon vonakodtam, mert nem akartam kimenni Izraelbe, mert nem tartottam biztonságos helynek, kevésbé tartottam biztonságosnak, mint Ukrajnát,
 
+3046
 00:50:46 - 00:50:51
 és nem mentem ki Izraelbe végül, de nagyon szerette volna, hogy ez lenne a második hely.
 
+3051
 00:50:51 - 00:51:02
 Elvileg az volt az elején a mondás, hogy ez választható. Aztán ugye kiderült, hogy mégsem annyira választható, mert nélküle nem lesz bizonyítvány. És akkor mindig az volt, hogy jó, akkor később visszatérünk rá.
 
+3062
 00:51:02 - 00:51:06
 Izrael ráadásul NATO-tag vagy NATO-szövetséges?
 
+3066
 00:51:06 - 00:51:10
 Hát mint NATO-szövetséges így volt beállítva, nyilván nem NATO-tag.
 
+3070
 00:51:10 - 00:51:12
 Meg nem is NATO-szövetséges, csak azért kérdezem.
 
+3072
 00:51:12 - 00:51:17
 Hát ez volt, mint NATO-szövetséges, ilyen külső állami, így volt beállítva.
 
+3077
 00:51:17 - 00:51:20
 Szerintem még partnerség sincs talán a NATO-val.
 
+3080
 00:51:20 - 00:51:25
 Az 52 országban talán benne van, de erre most így nem emlékezem.
 
