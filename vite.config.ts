@@ -29,8 +29,8 @@ export default defineConfig({
     svelte(),
   ],
   build: {
-    outDir: 'docs',
-    emptyOutDir: false,
+    outDir: 'dist',
+    emptyOutDir: true,
     rollupOptions: {
       output: {
         entryFileNames: 'assets/index.js',
