@@ -1,7 +1,3 @@
-Transcription (model: whisper-large-v3)
-Global offset: 00:00:00
-================================================================================
-
 00:00:00 - 00:00:19
 Megkereste önt ez az ember, ez az ismeretlen, V.E. nevezzük V.E-nek, erről összeült a *** és még egyéb okos barátaival, és így megállapították, hogy ez semmiképpen nem lehet más, csak a mocskos magyar titkosszolgálat, vagy annak valamilyen árnyéka.
 
