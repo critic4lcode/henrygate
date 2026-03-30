@@ -1,0 +1,29 @@
+---
+date: "2026-02-20"
+title: "Szabó Bence NNI-nyomozó nyilvánosság elé lép"
+tags: ["szabo-bence", "nni", "nyilatkozat", "direkt36"]
+---
+
+2026 februárjában Szabó Bence, az NNI Kiberbűnözési Főosztályának kiemelt főnyomozója (százados rendfokozatban) **interjút adott a Direkt36-nak** — felvállalva a várható következményeket.
+
+## Miért lépett a nyilvánosság elé?
+
+> „Egy ideális helyzetben én nem ülnék itt. Én valószínűleg az irodámban ülnék, vagy a helyszínen lennék, és azon dolgoznék, hogy minél több gyereken tudjunk segíteni. Azonban 2025 nyarán egy olyan ügy került a nyomozóosztályhoz, ami miatt sajnos most úgy tűnik, erre sort kellett keríteni."
+
+Szabó Bence szerint a rendszeren belül nem maradt más lehetőség — az ügyészség tud az ügyről, de nem tesz semmit, az AH tagadja az érintettségét, a Belügyminisztériumban is tudnak róla.
+
+> „Egyik szerv sem tesz semmit, hogy kiderüljön, ki az a Henry. Akkor hova tudok én fordulni ezzel? Se szervezeten belül, se külső szervezetnél nem tudok mit kezdeni ezzel az információval, mert nekem lesz belőle problémám. Nyilván maradt csak a nyilvánosság."
+
+## Az ügy jelenlegi állása (2026 február)
+
+- A **gyermekpornográfia-ügy** (az NNI nyomozóosztályán): áll, az üzenetváltásokat tartalmazó összefoglaló jelentést csak februárban engedték az iratok közé helyezni.
+- A **haditechnikai eszköz-ügy** (az NNI felderítő osztályán): Gundalf és Buddha gyanúsítottak, az ügy folyamatban van.
+- **Henry kiléte**: egyetlen nyomozati cselekmény sem irányult kiderítésére.
+
+## Szabó Bence várható sorsa
+
+> „Ez a felvétel azért születik meg, mert úgy gondolom, hogy azért, mert én ezeket az információkat átadtam a sajtó részére, valószínűleg minimum fegyelmi eljárást vagy méltatlansági eljárást kezdeményeznek ellenem. Rosszabb esetben valószínűleg büntetőeljárást. […] Gondolom, bármi megtörténhet."
+
+## A lelkiismereti döntés
+
+> „Én tudom, hogy milyen esküt tettem, amikor felszereltem, és szeretném is tartani, hogy én a hazámat szolgálom, nem pedig bizonyos emberek csoportját, mint egy párt. […] Egy magyar titkosszolgálat a magyar emberek 40%-ának képviseleti joga ellen küzd. Tulajdonképpen az emberek 40%-a ellen fordul egy magyar titkosszolgálat. Ez nem egy normális rendszer, ahol ez megtörténhet."
