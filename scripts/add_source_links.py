@@ -22,7 +22,7 @@ SOURCES = {
 }
 
 def replace_source_links(content):
-    """Replace [forrás](pattern&t=XXs) with actual URLs."""
+    """Replace [*](pattern&t=XXs) with actual URLs."""
     
     def replacer(match):
         pattern = match.group(1)
@@ -31,14 +31,14 @@ def replace_source_links(content):
         # Find matching source
         for key, url in SOURCES.items():
             if key in pattern:
-                return f"[forrás]({url}&t={timestamp})"
+                return f"[*]({url}&t={timestamp})"
         
         # If no match found, return original
         return match.group(0)
     
-    # Match [forrás](keyword_pattern&t=XXs) or [forrás](keyword_pattern&t=XXs)
+    # Match [forrás N](keyword_pattern&t=XXs) where N is optional number
     return re.sub(
-        r'\[forrás\]\(([^&]+)&t=(\d+)s?\)',
+        r'\[\*+\s*\d*\]\(([^&]+)&t=(\d+)s?\)',
         replacer,
         content
     )
