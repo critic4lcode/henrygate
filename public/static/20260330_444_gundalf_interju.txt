@@ -1,0 +1,5163 @@
+00:00:00 - 00:00:04
+Hát röviden összefoglalva azt gondolom,
+
+00:00:01 - 00:00:06
+hogy hogy a herryék azt mérték fel, hogy
+
+00:00:04 - 00:00:09
+egy gyenge, könnyen behálható, fiatal,
+
+00:00:06 - 00:00:10
+tapasztalatlan informatikussal van
+
+00:00:09 - 00:00:13
+dolguk, akinek adott esetben vannak
+
+00:00:10 - 00:00:14
+olyan hozzáférési lehetőségei, amiket
+
+00:00:13 - 00:00:16
+mondjuk ez így olcsóbban, mint mondjuk
+
+00:00:14 - 00:00:19
+egy kénprogramban be tudnak szerezni, és
+
+00:00:16 - 00:00:24
+hogy hogy én nem fogok ellenállni a a
+
+00:00:19 - 00:00:24
+pressziónak, ezt ezt rosszul mérték föl.
+
+00:00:26 - 00:00:30
+A Tiszapárt körüli titkosszolgálati
+
+00:00:28 - 00:00:31
+ügyben vált ismerté egy fiatal
+
+00:00:30 - 00:00:33
+informatikus, akit a történetben
+
+00:00:31 - 00:00:36
+Gundalfnak neveztek. Ő volt az, akinél a
+
+00:00:33 - 00:00:37
+Nemzeti Nyomozóiroda házkutatást tartott
+
+00:00:36 - 00:00:39
+gyerekek elleni bűncselekmények
+
+00:00:37 - 00:00:41
+gyanújával. Aztán kiderült róla, hogy
+
+00:00:39 - 00:00:43
+korábban a Tisza párt informatikusaként
+
+00:00:41 - 00:00:46
+dolgozott, és a pártól való távozása
+
+00:00:43 - 00:00:48
+után 2025-ben egy Henry nevű ismeretlen
+
+00:00:46 - 00:00:50
+megpróbálta rávenni arra, hogy a Tisza
+
+00:00:48 - 00:00:51
+ellen dolgozzon. Emiatt az ügy miatt
+
+00:00:50 - 00:00:54
+állt a nyilvánosság elé Szabó Bence
+
+00:00:51 - 00:00:55
+százados. Gundarfról a kormány azt
+
+00:00:54 - 00:00:57
+állítja, ukrán titkosszolgálati
+
+00:00:55 - 00:00:59
+kapcsolatai vannak, és valójában
+
+00:00:57 - 00:01:01
+kémelhárító akció zajlott ellene.
+
+00:00:59 - 00:01:03
+Közzétették az alkotmányvédelmi
+
+00:01:01 - 00:01:05
+hivatalban lezajlott meghallgatásának
+
+00:01:03 - 00:01:07
+felvételét is. Itt van velünk az az
+
+00:01:05 - 00:01:10
+ember, akit az elmúlt egy hétben az
+
+00:01:07 - 00:01:12
+ország nyilvánossága gondolfként ismert
+
+00:01:10 - 00:01:14
+meg. Elmondod, hogy ki vagy és hogy
+
+00:01:12 - 00:01:14
+miért döntöttél úgy, hogy a nyilvánosság
+
+00:01:14 - 00:01:17
+elé állsz?
+
+00:01:14 - 00:01:20
+>> Igen. Hát nekem a valós nevem az Rabki
+
+00:01:17 - 00:01:23
+Dániel, és
+
+00:01:20 - 00:01:25
+én vagyok ez aff.
+
+00:01:23 - 00:01:28
+Azért gondoltam, hogy a nyilvánosság elé
+
+00:01:25 - 00:01:30
+állok, ugyanis amikor az
+
+00:01:28 - 00:01:32
+alkotmányvédelmi hivatal még ősszel több
+
+00:01:30 - 00:01:34
+alkalommal is kihallgatott,
+
+00:01:32 - 00:01:36
+tájékoztattak arról, hogy a
+
+00:01:34 - 00:01:39
+kihallgatáson elhangzó dolgok azok mind
+
+00:01:36 - 00:01:42
+államtitoknak minősülnek, és hogy ezeket
+
+00:01:39 - 00:01:44
+senkinek nem adhatom a tuttára, senkinek
+
+00:01:42 - 00:01:47
+nem beszélhetek róla, mert az
+
+00:01:44 - 00:01:50
+bűncselekmény. Azonban a kedden
+
+00:01:47 - 00:01:54
+megjelent nemzetbiztonsági jelentéssel
+
+00:01:50 - 00:01:56
+már elkezdték, és a szombaton kirakott
+
+00:01:54 - 00:01:59
+kihallgatási videóval úgy vélem, hogy
+
+00:01:56 - 00:02:01
+teljesen felrúgták ezt a ezt az
+
+00:01:59 - 00:02:03
+államtitok dolgot, és ők maguk sem
+
+00:02:01 - 00:02:05
+veszik komolyan, vagy az egész egy
+
+00:02:03 - 00:02:08
+hazugság volt azzal, hogy befenyítsenek.
+
+00:02:05 - 00:02:10
+>> A kérdéseinkkel időrendi sorrendben
+
+00:02:08 - 00:02:13
+fogunk haladni, úgyhogy kezdjük azzal,
+
+00:02:10 - 00:02:15
+hogy te mikor és miért kezdtél el
+
+00:02:13 - 00:02:18
+kibervédelemmel foglalkozni?
+
+00:02:15 - 00:02:20
+Engem már nagyon kiskoromtól kezdve
+
+00:02:18 - 00:02:23
+érdekelt a kiberbiztonság. Körülbelül 13
+
+00:02:20 - 00:02:25
+éves korom óta.
+
+00:02:23 - 00:02:29
+Az egész onnan kezdődött, hogy volt egy
+
+00:02:25 - 00:02:30
+informatika óra, ahol számítógépes
+
+00:02:29 - 00:02:34
+vírusokról és ilyen nagyon alap
+
+00:02:30 - 00:02:36
+dolgokról kellett volna szóban felelnem.
+
+00:02:34 - 00:02:40
+Én akkor még semmit nem konyítottam
+
+00:02:36 - 00:02:43
+ehhez a témához, és éppen ezért
+
+00:02:40 - 00:02:46
+hát egy elég nagy egyesre feleltem.
+
+00:02:43 - 00:02:49
+viszont érdekesnek hangzottak azok a a
+
+00:02:46 - 00:02:53
+dolgok, amikről szó esett kapcsán, és
+
+00:02:49 - 00:02:55
+elhatároztam, hogy után nézek ezeknek a
+
+00:02:53 - 00:02:55
+dolgoknak, és
+
+00:02:56 - 00:03:02
+meglepődbe tapasztaltam azt, hogy
+
+00:02:59 - 00:03:03
+hát vannak hasonlóságok így a a
+
+00:03:02 - 00:03:05
+számítógépes vírusok és mondjuk a
+
+00:03:03 - 00:03:08
+biológiai vírusok között. Ez volt az
+
+00:03:05 - 00:03:09
+első ilyen 13 éves fejemmel az első
+
+00:03:08 - 00:03:13
+ilyen érdeklődési
+
+00:03:09 - 00:03:16
+dolog. És hát elkezdett nagyon érdekelni
+
+00:03:13 - 00:03:18
+a dolog. Ö elkezdtem ezeknek utánanézni
+
+00:03:16 - 00:03:21
+és úgy döntöttem, hogy mi is belevettem
+
+00:03:18 - 00:03:23
+magam, mert ez egy olyan dolog, amiből
+
+00:03:21 - 00:03:27
+később akár
+
+00:03:23 - 00:03:29
+munkaként is tevékenykedhetek benne.
+
+00:03:27 - 00:03:32
+Autodetaktor módon kezdtem el tanulni
+
+00:03:29 - 00:03:35
+különböző online fórumon fórumokon, mint
+
+00:03:32 - 00:03:38
+például a Hack the Box, Let's Defend,
+
+00:03:35 - 00:03:40
+Tryhack Me ilyesmi fórumokon, ahol
+
+00:03:38 - 00:03:44
+tulajdonképpen virtuális laborokban
+
+00:03:40 - 00:03:45
+lehet tesztelni a tudásodat, illetve
+
+00:03:44 - 00:03:47
+tanulni.
+
+00:03:45 - 00:03:48
+>> Mikor találtak meg azok az emberek, vagy
+
+00:03:47 - 00:03:50
+mikor kerültél kapcsolatba azokkal az
+
+00:03:48 - 00:03:52
+emberekkel, akik akik azt mondták
+
+00:03:50 - 00:03:54
+magukról, hogy a hogy a NATO
+
+00:03:52 - 00:03:57
+kibervédelmi központjának a képviselői?
+
+00:03:54 - 00:03:59
+Az igazság az ezzel kapcsolatban, hogy
+
+00:03:57 - 00:04:02
+hogy az alkotmányvédelmi hivatalnál
+
+00:03:59 - 00:04:04
+történt kihallgatásomon
+
+00:04:02 - 00:04:07
+nagyon sok valótlanságot állítottam és
+
+00:04:04 - 00:04:11
+dezinformációt
+
+00:04:07 - 00:04:15
+tettem. Ennek az oka az volt, hogy a az
+
+00:04:11 - 00:04:17
+első házkutatás után minket megkeresett
+
+00:04:15 - 00:04:20
+egy ember, aki Teo név névként
+
+00:04:17 - 00:04:22
+hivatkozott magára, és azt állította,
+
+00:04:20 - 00:04:24
+hogy az alkotmányvédelmi hivatalnál
+
+00:04:22 - 00:04:26
+dolgozik.
+
+00:04:24 - 00:04:28
+és figyelmeztetett bennünket, hogy az
+
+00:04:26 - 00:04:32
+alkotmányvédelmi hivatal része ennek az
+
+00:04:28 - 00:04:32
+eljárásnak, és beleavatkozik
+
+00:04:32 - 00:04:36
+ebbe a ebbe az eljárásba.
+
+00:04:34 - 00:04:38
+És
+
+00:04:36 - 00:04:39
+amikor figyelmeztetett minket, arra is
+
+00:04:38 - 00:04:41
+figyelmeztetett, hogy mi minket meg
+
+00:04:39 - 00:04:43
+fognak keresni az alkotmányvédelmi
+
+00:04:41 - 00:04:45
+hivataltól és be fognak hívni
+
+00:04:43 - 00:04:48
+kihallgatásra.
+
+00:04:45 - 00:04:51
+A kihallgatásal kapcsolatban is kaptunk
+
+00:04:48 - 00:04:55
+előzetesen információkat.
+
+00:04:51 - 00:04:57
+És én azt tudtam, hogy hogy ezt az egész
+
+00:04:55 - 00:05:00
+kihallgatást arra akarják felfűzni,
+
+00:04:57 - 00:05:02
+hogyha az egész Tiszapárt elleni
+
+00:05:00 - 00:05:05
+akcióból egy későbbi nyilvánossági
+
+00:05:02 - 00:05:10
+botrány legyen, akkor lenne, akkor
+
+00:05:05 - 00:05:12
+felhúzzák ezt, mint mint védekezés, és
+
+00:05:10 - 00:05:14
+hogy olyan dolgokat akarnak velünk ott
+
+00:05:12 - 00:05:16
+kimondatni, vagy megtudni rólunk adott
+
+00:05:14 - 00:05:18
+esetben, amiket ellenünk tudnak
+
+00:05:16 - 00:05:22
+fordítani.
+
+00:05:18 - 00:05:24
+Tehát akkor mi volt igaz abból, ami ami
+
+00:05:22 - 00:05:26
+elhangzott ott a ezen a ezen a
+
+00:05:24 - 00:05:27
+kihallgatáson? Ez mikor történt
+
+00:05:26 - 00:05:30
+egyébként? Hol?
+
+00:05:27 - 00:05:32
+>> Ez ez 25 szeptemberében történt, és az
+
+00:05:30 - 00:05:35
+alkotmányvédelmi hivatal épületében
+
+00:05:32 - 00:05:37
+történt az egyik hát tárgyalójában,
+
+00:05:35 - 00:05:39
+ahogy ők hivatkoztak erre.
+
+00:05:37 - 00:05:42
+>> És mit mondtak arról, hogy ez micsoda?
+
+00:05:39 - 00:05:43
+Ez egy beszélgetés? Ez egy ez egy
+
+00:05:42 - 00:05:45
+>> Igen. Hát engem engem ugye telefonon
+
+00:05:43 - 00:05:48
+kerestek meg,
+
+00:05:45 - 00:05:50
+>> és telefonon tájékoztatott arról a az
+
+00:05:48 - 00:05:52
+illető, hogy ő az alkotmányvédelmi
+
+00:05:50 - 00:05:55
+hivataltól van, hivatalos ügyben keres
+
+00:05:52 - 00:05:59
+és hogy nem egy nem hivatalos
+
+00:05:55 - 00:06:00
+beszélgetésre invitálnának
+
+00:05:59 - 00:06:02
+amely
+
+00:06:00 - 00:06:05
+polgári tájékoztatásként is hivatkoztak
+
+00:06:02 - 00:06:07
+erre a erre a beszélgetésre,
+
+00:06:05 - 00:06:09
+és
+
+00:06:07 - 00:06:12
+és azt mondták, hogy
+
+00:06:09 - 00:06:14
+hogy amennyiben nem jövök el erre ö a
+
+00:06:12 - 00:06:15
+megbeszélésre, akkor ellenem
+
+00:06:14 - 00:06:17
+nemzetbiztonsági eljárást fognak
+
+00:06:15 - 00:06:18
+indítani.
+
+00:06:17 - 00:06:19
+>> És akikkel ott beszélgettél, ők az
+
+00:06:18 - 00:06:20
+alkotmányvédelmi hivatalnak a
+
+00:06:19 - 00:06:20
+munkatársai.
+
+00:06:20 - 00:06:23
+>> Igen.
+
+00:06:20 - 00:06:25
+>> Azt mondod, hogy hogy dezinformáltál,
+
+00:06:23 - 00:06:28
+mit jelent ez pontosan? Miről állítot?
+
+00:06:25 - 00:06:32
+>> Ezt tulajdonképpen azt azt jelenti, hogy
+
+00:06:28 - 00:06:34
+hogy azt már láttam, hogy hogy abba
+
+00:06:32 - 00:06:37
+akarják átvinni a dolgot, hogy hogy a
+
+00:06:34 - 00:06:39
+Tiszapárt ugye összeukránozzák és a
+
+00:06:37 - 00:06:41
+mindenféle
+
+00:06:39 - 00:06:43
+Ukrajnával kapcsolatos narratívájukat
+
+00:06:41 - 00:06:45
+építsék. És ehhez engem is fel akarnak
+
+00:06:43 - 00:06:48
+használni, sőt erre kifejezetten jelzést
+
+00:06:45 - 00:06:51
+is kaptunk ettől a Teo nevű személytől
+
+00:06:48 - 00:06:54
+már előre. És
+
+00:06:51 - 00:06:56
+úgy döntöttem, hogy ha ha nem is lenne
+
+00:06:54 - 00:06:59
+rólunk semmi dolog, akkor is
+
+00:06:56 - 00:07:01
+kitalálnának valamit, amit amit
+
+00:06:59 - 00:07:03
+felhasználnak ellenünk. Viszont úgy
+
+00:07:01 - 00:07:05
+döntöttem, hogy én kezembe veszem az
+
+00:07:03 - 00:07:07
+irányítást, és tulajdonképpen én fogom
+
+00:07:05 - 00:07:10
+megírni a saját propagandámat. Ennek a
+
+00:07:07 - 00:07:11
+az volt a célja, hogy a későbbiekben,
+
+00:07:10 - 00:07:13
+hogyha ezeket a felvételeket vagy
+
+00:07:11 - 00:07:15
+beszélgetéseket, vagy bármilyen anyagot
+
+00:07:13 - 00:07:17
+nyilvánosságra hoznak, akkor ezeket
+
+00:07:15 - 00:07:19
+tudjam cáfolni.
+
+00:07:17 - 00:07:21
+azt tisztázzuk, hogy ugye azt mondod,
+
+00:07:19 - 00:07:23
+hogy még a kihallgatásod előtt
+
+00:07:21 - 00:07:24
+kapcsolatban lépett veletek valaki, aki
+
+00:07:23 - 00:07:25
+azt mondta magáról, hogy az
+
+00:07:24 - 00:07:28
+alkotmányvédelmi hivatalnál dolgozik,
+
+00:07:25 - 00:07:30
+ugye? Ő az, akit Theónak nevezel. Ti
+
+00:07:28 - 00:07:30
+honnan tudjátok, hogy ez a
+
+00:07:30 - 00:07:32
+>> Igen,
+
+00:07:30 - 00:07:33
+>> ez aki megkeresett titeket, ez a TOEO,
+
+00:07:32 - 00:07:35
+ez valóban az alkotmányvédelmi
+
+00:07:33 - 00:07:37
+hivatalnál dolgozik.
+
+00:07:35 - 00:07:38
+>> 100%-ig nem lehetünk benne biztosak, de
+
+00:07:37 - 00:07:40
+abból biztosak vagyunk, hogy rálátott a
+
+00:07:38 - 00:07:43
+az ügyünkre és az alkotmányvédelmi
+
+00:07:40 - 00:07:44
+hivatalon belül folyó dolgokra. E ö
+
+00:07:43 - 00:07:48
+ebben erre arra következtet azért
+
+00:07:44 - 00:07:49
+következtettünk erre ö mert olyan
+
+00:07:48 - 00:07:51
+dolgokat
+
+00:07:49 - 00:07:53
+mondott és olyan dolgokat jósolt meg
+
+00:07:51 - 00:07:55
+amik bekövetkeztek a valóságban, illetve
+
+00:07:53 - 00:07:57
+ugye előre megmondta, hogy minket be
+
+00:07:55 - 00:07:59
+fognak hívni, illetve azt is megmondta,
+
+00:07:57 - 00:08:01
+hogy elő előre megmondta, hogy lesz egy
+
+00:07:59 - 00:08:04
+következő házkutatás, amit el fognak
+
+00:08:01 - 00:08:06
+rendelni nálunk. Ez még ősszel volt őssz
+
+00:08:04 - 00:08:08
+elején, és ugye decemberben pedig
+
+00:08:06 - 00:08:09
+fogatosították is ezt a második
+
+00:08:08 - 00:08:13
+házkutatást.
+
+00:08:09 - 00:08:15
+Ti ez alapján úgy íteltétek meg, hogy ő
+
+00:08:13 - 00:08:18
+mindenképpen rálát arra, hogy mi
+
+00:08:15 - 00:08:19
+történik az alkotmányvédelmi hivatalban.
+
+00:08:18 - 00:08:21
+>> Azt is állította egyébként, hogy ebben
+
+00:08:19 - 00:08:23
+az egész ügyben és az ügy
+
+00:08:21 - 00:08:25
+megszervezésében a maga az
+
+00:08:23 - 00:08:27
+alkotmányvédelmi hivatal is is részt
+
+00:08:25 - 00:08:29
+vesz, ami egybehangzik ugye azokkal,
+
+00:08:27 - 00:08:31
+amiket Szabó Bence elmondott.
+
+00:08:29 - 00:08:34
+>> Értem. Erre még mindenképpen
+
+00:08:31 - 00:08:36
+visszatérünk, de előbb
+
+00:08:34 - 00:08:40
+próbáljuk meg felvenni a fonalat megint
+
+00:08:36 - 00:08:43
+időrendben. Ezek szerint akkor ez a NATO
+
+00:08:40 - 00:08:45
+kibervédelmi központ, ez a képzés, ez
+
+00:08:43 - 00:08:47
+akkor ez nem létezett?
+
+00:08:45 - 00:08:48
+>> Hát ugye nyilván maga a látó kibervéd
+
+00:08:47 - 00:08:51
+központ az létezik, csak ugye én nem
+
+00:08:48 - 00:08:54
+voltam semmilyen képzésben, ami hozzájuk
+
+00:08:51 - 00:08:56
+köthető. Én amíg autóidakta módon
+
+00:08:54 - 00:08:59
+tanultam kibervédelemmel kapcsolatos
+
+00:08:56 - 00:09:02
+dolgokról, sok fiatallal megismerkedtem,
+
+00:08:59 - 00:09:04
+akik akik hasonlóan tanultak, vagy akár
+
+00:09:02 - 00:09:06
+mondjuk egyetemre jártak, technikumba
+
+00:09:04 - 00:09:08
+jártak, és ezek közül sok külföldi
+
+00:09:06 - 00:09:10
+fiatal is volt. Ezek közül volt olyan,
+
+00:09:08 - 00:09:12
+aki aki
+
+00:09:10 - 00:09:15
+több több európai országbeli vagy
+
+00:09:12 - 00:09:17
+amerikai, adott esetben nézt is, ukrán
+
+00:09:15 - 00:09:19
+fiatalok is voltak,
+
+00:09:17 - 00:09:22
+és
+
+00:09:19 - 00:09:25
+velük találkoztam.
+
+00:09:22 - 00:09:27
+Talinban is és Kievben is. Az, amit ott
+
+00:09:25 - 00:09:29
+elmondok az alkotmányvédelmi hivatalnál,
+
+00:09:27 - 00:09:31
+az tulajdonképpen
+
+00:09:29 - 00:09:33
+egy olyan sztori, ami minél inkább
+
+00:09:31 - 00:09:35
+próbálja kiszolgálni a propagandának az
+
+00:09:33 - 00:09:37
+érdekeit, és minél inkább egy olyan
+
+00:09:35 - 00:09:40
+narratívát
+
+00:09:37 - 00:09:43
+akartam ott nekik számokra felépíteni,
+
+00:09:40 - 00:09:45
+amit aztán később
+
+00:09:43 - 00:09:47
+kidobnak a nyilvánosságba, ha terveznek
+
+00:09:45 - 00:09:50
+ilyet. viszont én ezeket meg tudom
+
+00:09:47 - 00:09:54
+cáfolni több dologgal is, illetve azt
+
+00:09:50 - 00:09:58
+még nem hozták nyilvánosságra, hogy én
+
+00:09:54 - 00:10:00
+poligráfiás vizsgálaton is átestem a
+
+00:09:58 - 00:10:01
+az alkotmányvédelmi hivatalban,
+
+00:10:00 - 00:10:04
+és ezen a poligráfiás vizsgálaton
+
+00:10:01 - 00:10:05
+átmentem. Ezt nem tudom, hogy miért nem
+
+00:10:04 - 00:10:07
+érezték szükségesnek, hogy
+
+00:10:05 - 00:10:10
+nyilvánosságra hozzák, hogyha mégis csak
+
+00:10:07 - 00:10:11
+állítólag tisztességes dolgokról
+
+00:10:10 - 00:10:13
+beszélnek.
+
+00:10:11 - 00:10:15
+És hogyan mentél át a poligráfus
+
+00:10:13 - 00:10:16
+vizsgálaton, hogyha azt mondod, hogy
+
+00:10:15 - 00:10:18
+valótlanságokat
+
+00:10:16 - 00:10:20
+>> a poligráfus vizsgálaton a következő
+
+00:10:18 - 00:10:22
+kérdéseket tették föl. Az első az az
+
+00:10:20 - 00:10:25
+volt, hogy állok-e kapcsolatban külföldi
+
+00:10:22 - 00:10:25
+titkosszolgálatokkal.
+
+00:10:25 - 00:10:28
+E ezzel ez nyilván nem volt igaz, mert
+
+00:10:27 - 00:10:29
+nem állok kapcsolatban, és nem is álltam
+
+00:10:28 - 00:10:31
+kapcsolatban külföldi
+
+00:10:29 - 00:10:33
+titkosszolgálatokkal, úgyhogy ezen
+
+00:10:31 - 00:10:35
+átmentem. A második kérdés pedig az
+
+00:10:33 - 00:10:38
+volt, hogy én végzek-e vagy részt
+
+00:10:35 - 00:10:40
+veszek-e kibertámadásokban.
+
+00:10:38 - 00:10:41
+Erre is ugye azt a választottam, hogy
+
+00:10:40 - 00:10:44
+nem én nem veszek részt és ez is igaz
+
+00:10:41 - 00:10:47
+volt. Harmadik kérdés az az volt, hogy
+
+00:10:44 - 00:10:49
+jártam-e az észt nagykövetségen.
+
+00:10:47 - 00:10:50
+Erre is nemleges választ adtam, és ez is
+
+00:10:49 - 00:10:53
+igaznak bizonyult. Erről ők maguk
+
+00:10:50 - 00:10:54
+tájékoztattak a második kihallgatásom
+
+00:10:53 - 00:10:55
+során.
+
+00:10:54 - 00:10:56
+>> Arról, hogy nem jártál az észt
+
+00:10:55 - 00:10:58
+nagykövetségen.
+
+00:10:56 - 00:11:00
+>> Hát arról, hogy a poligráf ugye
+
+00:10:58 - 00:11:02
+beigazolta az állításaimat. De ettől
+
+00:11:00 - 00:11:05
+függetlenül te voltál Talinban, illetve
+
+00:11:02 - 00:11:08
+voltál Kievben is, ugye, ahol olyan
+
+00:11:05 - 00:11:10
+emberekkel találkoztál, akikkel ezeken a
+
+00:11:08 - 00:11:11
+fórumokon, vagy ezek vagy mindenféle
+
+00:11:10 - 00:11:13
+platformokon ismerkedtél össze.
+
+00:11:11 - 00:11:15
+>> Igen, igen. Ezek ugye velem egykorú
+
+00:11:13 - 00:11:17
+fiatalok, akik hasonló érdeklődéskörrel
+
+00:11:15 - 00:11:19
+rendelkeznek.
+
+00:11:17 - 00:11:20
+Voltak közös projektjeink, amik
+
+00:11:19 - 00:11:22
+egyébként teljesen ártalmatlan dolgok,
+
+00:11:20 - 00:11:23
+például közösen üzemeltettünk Minecraft
+
+00:11:22 - 00:11:29
+szervert
+
+00:11:23 - 00:11:31
+meg beszélgettünk szakmabeli dolgokról.
+
+00:11:29 - 00:11:34
+Nyilván érdekelt minket a az az ukrajnai
+
+00:11:31 - 00:11:35
+háború
+
+00:11:34 - 00:11:38
+és
+
+00:11:35 - 00:11:40
+és Ukrajnában pedig kifejezetten
+
+00:11:38 - 00:11:44
+NAFOsokkal találkoztam. A Nafó az
+
+00:11:40 - 00:11:47
+tulajdonképpen egy ilyen egy ilyen mém
+
+00:11:44 - 00:11:51
+mém aktivista csoport, akik az oroszokat
+
+00:11:47 - 00:11:53
+figurázzák ki gyakorlatilag a a háború
+
+00:11:51 - 00:11:55
+kapcsán, és mémeket gyártanak. És ott
+
+00:11:53 - 00:11:57
+találkoztam egyrészt ukrán, másrészt
+
+00:11:55 - 00:11:58
+lengyel nafósokkal, akik velem
+
+00:11:57 - 00:12:00
+egykorúak.
+
+00:11:58 - 00:12:03
+>> És pontosan tehát ott az orosz-ukrán
+
+00:12:00 - 00:12:05
+háború kitörése után te milyen szerepet
+
+00:12:03 - 00:12:07
+vállaltál ott ebben a ebben a
+
+00:12:05 - 00:12:07
+konfliktusban, vagy hogyan kapcsolódtál
+
+00:12:07 - 00:12:08
+be?
+
+00:12:07 - 00:12:09
+>> Az igazság az, hogy én nem vállaltam
+
+00:12:08 - 00:12:11
+semmilyen szerepet ebben a
+
+00:12:09 - 00:12:12
+konfliktusban.
+
+00:12:11 - 00:12:14
+Ott az ugye az alkotmányvédelmi
+
+00:12:12 - 00:12:17
+hivatalnál ott a kihallgatáson azokat
+
+00:12:14 - 00:12:19
+mondom, hogy én ugye végeztem elsősorban
+
+00:12:17 - 00:12:21
+defenzív kiberműveleteket. Én nem
+
+00:12:19 - 00:12:23
+végeztem semmilyen kiberműveleteket. Én
+
+00:12:21 - 00:12:25
+figyelemmel kísértem az eseményeket,
+
+00:12:23 - 00:12:28
+mert szerettem volna belőle tanulni,
+
+00:12:25 - 00:12:30
+hiszen az látható volt, hogy hogy egy
+
+00:12:28 - 00:12:32
+háborús országban a kibervédelem az még
+
+00:12:30 - 00:12:34
+inkább egy felfokozottabb téma, és sokat
+
+00:12:32 - 00:12:36
+lehet belőle tanulni. Ezért kapcsolatba
+
+00:12:34 - 00:12:39
+kerültem olyan emberekkel, akik adott
+
+00:12:36 - 00:12:42
+esetben részt vettek ezekben a ezekben a
+
+00:12:39 - 00:12:43
+folyamatokban. Ezek általában szintén
+
+00:12:42 - 00:12:46
+velem egykorúak voltak, nem állami
+
+00:12:43 - 00:12:49
+rendszereket védtek egyébként. Így
+
+00:12:46 - 00:12:51
+kerültem kapcsolatba az MB65-tel is,
+
+00:12:49 - 00:12:55
+aminek én nem voltam tagja.
+
+00:12:51 - 00:12:58
+És velük élőben soha nem is találkoztam.
+
+00:12:55 - 00:12:59
+És és hát figyelemmel kísértem azt, hogy
+
+00:12:58 - 00:13:01
+ezek hogyan működnek így a valóságban
+
+00:12:59 - 00:13:04
+ezek a kiberműveletek.
+
+00:13:01 - 00:13:05
+>> Találkoztál bárkivel Ukrajnában, akiről
+
+00:13:04 - 00:13:07
+feltételezhető, hogy valamilyen
+
+00:13:05 - 00:13:09
+titkosszolgálatnak dolgozik? Nem, nem
+
+00:13:07 - 00:13:11
+találkoztam, és nem is gondolom, hogy
+
+00:13:09 - 00:13:13
+bárki ott titkosszolgáltnak dolgozott
+
+00:13:11 - 00:13:15
+volna. Ugye említem a az AHS-s
+
+00:13:13 - 00:13:18
+kihallgatáson ezt a bizonyos Davidov
+
+00:13:15 - 00:13:21
+nevű szereplőt, ugye ezt a ezt a kigyúrt
+
+00:13:18 - 00:13:24
+maffiózú ilyen ilyen skinheadet kvázi. Ö
+
+00:13:21 - 00:13:25
+hát az ugye az én kitalációm volt, mert
+
+00:13:24 - 00:13:27
+szerettem volna adni ennek egy még
+
+00:13:25 - 00:13:29
+inkább egy olyan olyan részt, amit a
+
+00:13:27 - 00:13:31
+kormánypropaganda tud tolni, hogy hát
+
+00:13:29 - 00:13:33
+igen, itt a nagy maffiózóval találkozott
+
+00:13:31 - 00:13:35
+a a Gundf, és hogy akkor ez is mekkora
+
+00:13:33 - 00:13:37
+nagy bizonyíték, hogy hát igen, itt a
+
+00:13:35 - 00:13:39
+itt a mindenféle ukrán titkos
+
+00:13:37 - 00:13:40
+szolgálattal tartja a kapcsolatot.
+
+00:13:39 - 00:13:43
+>> És te mit reméltél ettől a
+
+00:13:40 - 00:13:44
+dezinformációs,
+
+00:13:43 - 00:13:46
+>> nem is tudom, megoldástól vagy
+
+00:13:44 - 00:13:48
+megközelítés? Hát én pont amit amint
+
+00:13:46 - 00:13:50
+elmondtam, azt azt reméltem, hogyha
+
+00:13:48 - 00:13:53
+esetleg ebből nyilvánosságra kerülő ügy
+
+00:13:50 - 00:13:55
+lesz ebből az egészből, akkor én tudom
+
+00:13:53 - 00:13:57
+ezeket cáfolni, és azt is kijelenthetem,
+
+00:13:55 - 00:14:00
+hogy a továbbiakban is fogom vállalni a
+
+00:13:57 - 00:14:01
+poligráfiás, hazugságvizsgálós
+
+00:14:00 - 00:14:03
+vizsgálatot azokkal azokkal az
+
+00:14:01 - 00:14:08
+állításokkal kapcsolatban, hogy én ott
+
+00:14:03 - 00:14:10
+az alkotmányvédelmi hivatal ban ugye
+
+00:14:08 - 00:14:13
+nem nem igazakat mondtam. Az is
+
+00:14:10 - 00:14:15
+hozzájárult ehhez egyébként, hogy ugye
+
+00:14:13 - 00:14:16
+amikor felhívtak, akkor mint már
+
+00:14:15 - 00:14:18
+említettem, azt mondták, hogy ha nem
+
+00:14:16 - 00:14:20
+jövök el, akkor akkor nemzetbiztonsági
+
+00:14:18 - 00:14:22
+eljárást indítanak ellenem. azt is
+
+00:14:20 - 00:14:25
+közölték velem, hogy ugye ez se nem
+
+00:14:22 - 00:14:27
+kihallgatás, se nem se nem tanú
+
+00:14:25 - 00:14:29
+kihallgatás, hanem ez ez egy ilyen
+
+00:14:27 - 00:14:30
+beszélgetés vagy polgári tájékoztatás,
+
+00:14:29 - 00:14:32
+amikor megkérdeztem, hogy jelen lehet-e
+
+00:14:30 - 00:14:33
+az ügyvédem, akkor azt mondták, hogy nem
+
+00:14:32 - 00:14:35
+nem lehet jelen.
+
+00:14:33 - 00:14:36
+>> Tehát azt remélted ettől a ettől a
+
+00:14:35 - 00:14:38
+dezinformációs
+
+00:14:36 - 00:14:41
+taktikától,
+
+00:14:38 - 00:14:44
+hogyha később megkérdezik, hogy amit
+
+00:14:41 - 00:14:47
+akkor állítottál, az igaz-e, azt akkor
+
+00:14:44 - 00:14:49
+tudod cáfolni, de ebből mi köv mi
+
+00:14:47 - 00:14:53
+következik, vagy miért előnyös ez? Hát
+
+00:14:49 - 00:14:56
+ez azért előnyös, én úgy gondolom, mert
+
+00:14:53 - 00:14:59
+mert ugye most itt a a propaganda az már
+
+00:14:56 - 00:15:00
+gyakorlatilag kihozott mindenfélét azzal
+
+00:14:59 - 00:15:01
+kapcsolatban, hogy én ilyen-olyan
+
+00:15:00 - 00:15:04
+ukránkén vagyok, ilyen-olyan
+
+00:15:01 - 00:15:05
+kiképzésekre jártam. Egyébként ez
+
+00:15:04 - 00:15:08
+érdekes, hogy ugye azt mondják, hogy
+
+00:15:05 - 00:15:10
+engem kiképeztek az ukrán titkoszolgák
+
+00:15:08 - 00:15:13
+Kievben. Én Kievben összesen öt napot
+
+00:15:10 - 00:15:14
+voltam. Ebből kettő az utazással telt.
+
+00:15:13 - 00:15:16
+Én nem tudom, hogy három nap alatt mire
+
+00:15:14 - 00:15:18
+lehet engem kiképezni. Ö meg az, hogy
+
+00:15:16 - 00:15:20
+azt azt se fogalmazták meg, hogy
+
+00:15:18 - 00:15:23
+pontosan mi mivel képeztek ki, hogy most
+
+00:15:20 - 00:15:25
+kémykedésre vagy vagy így vagy így mire
+
+00:15:23 - 00:15:26
+pontosan.
+
+00:15:25 - 00:15:28
+És hát pontosan azt reméltem, hogy
+
+00:15:26 - 00:15:31
+ezeket a ezeket a hazugságokat, amiket
+
+00:15:28 - 00:15:33
+most most tolnak már egy pár napja,
+
+00:15:31 - 00:15:35
+ezeket ezeket én meg fogom tudni
+
+00:15:33 - 00:15:39
+cáfolni, és ezzel is rávilágítok arra,
+
+00:15:35 - 00:15:40
+hogy hogyan működik ma Magyarországon az
+
+00:15:39 - 00:15:44
+állampárti propaganda. És te abból
+
+00:15:40 - 00:15:46
+indultál ki, hogy bármit mondasz, azt
+
+00:15:44 - 00:15:47
+utána fel fogja ellened használni a
+
+00:15:46 - 00:15:48
+propaganda, vagy fel fogja használni a
+
+00:15:47 - 00:15:51
+Tisza párt ellen a propaganda. Az
+
+00:15:48 - 00:15:53
+alkotmányvédelmi hivatal főigazgatójának
+
+00:15:51 - 00:15:55
+a héten megjelent egy levele, egy
+
+00:15:53 - 00:15:56
+jelentése, amiben rólad van szó. Ezt
+
+00:15:55 - 00:16:00
+olvastad?
+
+00:15:56 - 00:16:03
+>> Igen, a jelentést azt olvastam.
+
+00:16:00 - 00:16:05
+A jelentésben ugye gyakorlatilag azt
+
+00:16:03 - 00:16:07
+írják le, amit én mondok, és ugye ott
+
+00:16:05 - 00:16:09
+arról is beszélnek, hogy már egy hosszas
+
+00:16:07 - 00:16:12
+nyomozás folyik ellenünk, merthogy mi
+
+00:16:09 - 00:16:13
+már rég a látókörükbe kerültünk a
+
+00:16:12 - 00:16:16
+titkosszolgálatoknak. Én ezt nem tartom
+
+00:16:13 - 00:16:18
+valósnak, hogy régóta a látókörébe
+
+00:16:16 - 00:16:20
+kerültünk.
+
+00:16:18 - 00:16:22
+És hát ugye bizonyos szempontból
+
+00:16:20 - 00:16:24
+készpénznek vették azt, amit én mondok,
+
+00:16:22 - 00:16:26
+ami egy elég nagy hiba. Többek között
+
+00:16:24 - 00:16:29
+például azt, hogy ugye ott le van írva,
+
+00:16:26 - 00:16:31
+hogy 2023-ban jártam Talinban. Én 22-ben
+
+00:16:29 - 00:16:32
+jártam Tallénba, tehát ilyen ilyen
+
+00:16:31 - 00:16:34
+dolgoknak, hogyha annyira nagy nyomozást
+
+00:16:32 - 00:16:36
+végeztek, azért azért utánan nézhettek
+
+00:16:34 - 00:16:38
+volna, hogy akkor most mikor is voltam
+
+00:16:36 - 00:16:40
+Tallinban, meg meddig, de hát ugye
+
+00:16:38 - 00:16:42
+készpénzek vették, amit mondok, és ezt
+
+00:16:40 - 00:16:45
+lehozták és a nevüket adták hozzá.
+
+00:16:42 - 00:16:47
+>> Most ebben a jelentésben
+
+00:16:45 - 00:16:48
+az is szerepel, hogy te többször jártál
+
+00:16:47 - 00:16:49
+Ukrajin budapesti nagykövetségén, akkor
+
+00:16:48 - 00:16:51
+ez sem igaz?
+
+00:16:49 - 00:16:53
+>> Nem, én nem jártam se Ukrajna, se
+
+00:16:51 - 00:16:58
+Észtország nagykövetségén. Egyszer
+
+00:16:53 - 00:17:00
+előfordult az, hogy egy barátommal
+
+00:16:58 - 00:17:02
+találkozót szerveztünk, akinek egyébként
+
+00:17:00 - 00:17:05
+semmi köze se a Tiszapárthoz, se ezekhez
+
+00:17:02 - 00:17:07
+a az informatikai dolgokhoz. Aki a ott
+
+00:17:05 - 00:17:09
+az istenhegyi út környékén lett volna a
+
+00:17:07 - 00:17:12
+találkozó, és arrafele jártam, és útba
+
+00:17:09 - 00:17:16
+esett az ukrán nagykövetség, ami egy hát
+
+00:17:12 - 00:17:17
+egy érdekes érdekes épületnek találtam.
+
+00:17:16 - 00:17:19
+És
+
+00:17:17 - 00:17:21
+ott volt egy ilyen emlékmű, azt azt
+
+00:17:19 - 00:17:22
+megnéztem, és igazából elmentem
+
+00:17:21 - 00:17:23
+mellette. Tehát egy mondjuk egy ilyen
+
+00:17:22 - 00:17:25
+térfigyelő kamerás felvétel az lehet,
+
+00:17:23 - 00:17:27
+hogy én ott elhaladok az ukrán
+
+00:17:25 - 00:17:30
+nagykövetség előtt. Ezt nyugodtan
+
+00:17:27 - 00:17:32
+keressék ki majd a a megfelelő szervek,
+
+00:17:30 - 00:17:34
+de én nem megyek be oda, és nem is
+
+00:17:32 - 00:17:36
+találkozok ott végül senkivel, mert
+
+00:17:34 - 00:17:40
+máshol találkoztunk ezzel a barátommal.
+
+00:17:36 - 00:17:42
+>> És ezt nem gondoltad, hogy ezzel te is
+
+00:17:40 - 00:17:43
+aláásod a bizalmat a magyar
+
+00:17:42 - 00:17:46
+titkosszolgálatókkal szemben?
+
+00:17:43 - 00:17:49
+>> H ezt hogy érted? Pontosan, hogy
+
+00:17:46 - 00:17:53
+>> hát úgy gond úgy értem, hogy
+
+00:17:49 - 00:17:56
+olyan ez egy olyan helyzet most, ahol az
+
+00:17:53 - 00:17:58
+történik, hogy te tulajdonképpen egy
+
+00:17:56 - 00:18:01
+ilyen dezinformációs,
+
+00:17:58 - 00:18:03
+nem is tudom, műveletelt
+
+00:18:01 - 00:18:06
+ben vettél részt, vagy azt, vagy úgy
+
+00:18:03 - 00:18:07
+alakítottad ezt a ezt az egészet, hogy
+
+00:18:06 - 00:18:10
+hogy olyan, hogy valótlanságokat
+
+00:18:07 - 00:18:13
+állítson rólad a magyar titkosszolgálat.
+
+00:18:10 - 00:18:15
+Ö egyrészt egyrészt nekem meg kellett
+
+00:18:13 - 00:18:17
+védenem magamat, mert ugye fenyegettek
+
+00:18:15 - 00:18:20
+ezzel a nemzetbiztonsági eljárással.
+
+00:18:17 - 00:18:22
+Másrészt nem én hoztam nyilvánosságra
+
+00:18:20 - 00:18:25
+egyébként semmit. Tehát nem az én
+
+00:18:22 - 00:18:28
+döntésem volt az, hogy
+
+00:18:25 - 00:18:31
+hogy hogy ugye megjelenjen ez a direkt
+
+00:18:28 - 00:18:34
+36 cikk. Nem a nem én irányítottam, mint
+
+00:18:31 - 00:18:36
+egy ilyen Zelenszki féle bábmester a a
+
+00:18:34 - 00:18:37
+Szabó Bencét, hogy ő kiálljon. És nem én
+
+00:18:36 - 00:18:39
+döntöttem el azt, hogy egy ilyen
+
+00:18:37 - 00:18:41
+dokumentumot nyilvánosságra hozok, és
+
+00:18:39 - 00:18:43
+nem én döntöttem el azt, hogy ezt a ezt
+
+00:18:41 - 00:18:46
+a videót egyébként ők hozzák
+
+00:18:43 - 00:18:50
+nyilvánosságra. Egyébként szerintem én
+
+00:18:46 - 00:18:52
+nem a titkoszolgálatokba vetett bizalmat
+
+00:18:50 - 00:18:54
+stam alá, és nem is efelé készültem.
+
+00:18:52 - 00:18:57
+Szerintem ez az egész ügy, ez azt
+
+00:18:54 - 00:18:59
+bizonyítja, hogy hogy az állampárt
+
+00:18:57 - 00:19:01
+politikai komisszárjai azok teljesen
+
+00:18:59 - 00:19:04
+behálózták a magyar titkosszolgálatokat
+
+00:19:01 - 00:19:07
+és az egyébként jó szakmai embereket,
+
+00:19:04 - 00:19:09
+akik ott dolgoznak. irányítják és
+
+00:19:07 - 00:19:12
+politikai célokra használják fel őket.
+
+00:19:09 - 00:19:15
+>> Rendben. Beszéljünk akkor arról, hogy
+
+00:19:12 - 00:19:16
+hogyan kerültél a Tiszapárt hozz, mikor
+
+00:19:15 - 00:19:19
+csatlakoztál hozzájuk, miért
+
+00:19:16 - 00:19:20
+csatlakoztál hozzájuk, és hogy ki volt
+
+00:19:19 - 00:19:24
+ott a nem is tudom a közvetlen
+
+00:19:20 - 00:19:26
+felettesed? Ö hát én a Tiszapárthoz
+
+00:19:24 - 00:19:28
+2024 tavaszán csatlakoztam, akkor még
+
+00:19:26 - 00:19:31
+nem is volt Tiszapárt, hanem ugye a
+
+00:19:28 - 00:19:34
+Talpraok mozgalomhoz volt a 24-ben az
+
+00:19:31 - 00:19:36
+április 6-ai
+
+00:19:34 - 00:19:38
+tüntetés rendezvény, ahol egyszerűen
+
+00:19:36 - 00:19:40
+olyan olyan sokan jelentek meg, hogy én
+
+00:19:38 - 00:19:42
+is elcsodálkoztam rajta, és örültem,
+
+00:19:40 - 00:19:45
+hogy végre van egy ilyen politikai erő,
+
+00:19:42 - 00:19:48
+ami ami esetleg tényleg képes felvenni a
+
+00:19:45 - 00:19:49
+kesztyűt az állampárttal,
+
+00:19:48 - 00:19:52
+és
+
+00:19:49 - 00:19:54
+és egy napra ráláttam, hogy egy Discord
+
+00:19:52 - 00:19:56
+szervert is csinált már a Tiszapart. És
+
+00:19:54 - 00:19:59
+mivel korábban én Discord szervereket is
+
+00:19:56 - 00:20:01
+üzemeltettem, ezért elhatároztam, hogy
+
+00:19:59 - 00:20:04
+ebbe szeretném segíteni a Tisz pártot,
+
+00:20:01 - 00:20:06
+mert van erre ezzel kapcsolatos tudásom,
+
+00:20:04 - 00:20:09
+és ott jelentkeztem önkéntesként,
+
+00:20:06 - 00:20:11
+először moderátornak ott felvettek, majd
+
+00:20:09 - 00:20:13
+később egy rövid ideig a az egész
+
+00:20:11 - 00:20:17
+Discordos önkéntes csapatot fogtam
+
+00:20:13 - 00:20:19
+össze, aztán pedig végül a a Discordnak
+
+00:20:17 - 00:20:21
+a technikai dolgait vezettem és
+
+00:20:19 - 00:20:25
+fejlesztettem a Discord szervert. A
+
+00:20:21 - 00:20:27
+direkt 36 cikk szerint valamikor 2025
+
+00:20:25 - 00:20:29
+elején elküldtek a pártól, erre majd még
+
+00:20:27 - 00:20:31
+kitérünk, de
+
+00:20:29 - 00:20:35
+ezelőtt
+
+00:20:31 - 00:20:37
+kaptál-e olyan gyanús megkereséseket
+
+00:20:35 - 00:20:39
+mint később, tehát ebben az első
+
+00:20:37 - 00:20:40
+időszakban?
+
+00:20:39 - 00:20:45
+>> Ilyen jellegű megkeresést nem kaptam,
+
+00:20:40 - 00:20:48
+mint mint Henrytől. Ö azonban
+
+00:20:45 - 00:20:50
+voltak gyanús ö hát fellépések meg
+
+00:20:48 - 00:20:53
+gyanús emberek így a Tiszapart
+
+00:20:50 - 00:20:55
+környékén. És mivel a Tiszapártnál
+
+00:20:53 - 00:20:57
+elsősorban IT assisztens voltam, tehát
+
+00:20:55 - 00:21:00
+olyan feladatokat is elvégeztem, amik
+
+00:20:57 - 00:21:02
+ilyen nagyon egyszerű
+
+00:21:00 - 00:21:04
+tehát a pártot támogató informatikai
+
+00:21:02 - 00:21:06
+rendszerek fejlesztése, fenntartása,
+
+00:21:04 - 00:21:08
+oktatóanyagok gyártása ezekkel
+
+00:21:06 - 00:21:10
+kapcsolatban meg ez ilyen mindennapos IT
+
+00:21:08 - 00:21:12
+problémák megoldása. Ugyanakkor egy
+
+00:21:10 - 00:21:14
+információbiztonsági feladatot is
+
+00:21:12 - 00:21:17
+elláttam.
+
+00:21:14 - 00:21:19
+Ennek a része volt az is, hogy ne csak a
+
+00:21:17 - 00:21:22
+technikai kockázatokat tárjam fel, hanem
+
+00:21:19 - 00:21:23
+az emberi kockázatokat.
+
+00:21:22 - 00:21:25
+És ezekkel kapcsolatban gyűjtöttem
+
+00:21:23 - 00:21:28
+információkat.
+
+00:21:25 - 00:21:30
+Ilyen konkrét beszervezési kísérletet
+
+00:21:28 - 00:21:32
+egyébként nem nem láttam akkoriban
+
+00:21:30 - 00:21:33
+bárkinél, de voltak olyan dolgok,
+
+00:21:32 - 00:21:35
+amikkel kapcsolatban nyilván
+
+00:21:33 - 00:21:37
+értesítettem a vezetőséget
+
+00:21:35 - 00:21:40
+jelentésekkel. Azt mondtad az előbb,
+
+00:21:37 - 00:21:42
+hogy voltak gyanús figurák, vagy jól jól
+
+00:21:40 - 00:21:45
+jól emlékszem, vagy gyanús alakokat isza
+
+00:21:42 - 00:21:46
+körül, hogy milyen értelemben gyanúsak,
+
+00:21:45 - 00:21:48
+vagy mire gondolsz ezzel?
+
+00:21:46 - 00:21:50
+>> Hát volt voltak olyanok, akik adott
+
+00:21:48 - 00:21:52
+esetben nem feltétlenül a Tiszapárt
+
+00:21:50 - 00:21:56
+érdekeit szolgálták, vagy esetleg
+
+00:21:52 - 00:21:58
+próbáltak beépülni. ö hátsó szándékuk
+
+00:21:56 - 00:22:01
+lehetett, illetve a nyilvánosságba
+
+00:21:58 - 00:22:02
+felmerültek, tehát ugye nyilván osint
+
+00:22:01 - 00:22:05
+munkát és ilyen nyílt forrású
+
+00:22:02 - 00:22:07
+hírszerzést is végeztem, és meg mások is
+
+00:22:05 - 00:22:09
+végeztek, és hát ugye kiderültek ilyen
+
+00:22:07 - 00:22:11
+valótlan állítások, hogy mondjuk
+
+00:22:09 - 00:22:13
+valótlanságokat állítottak magukról
+
+00:22:11 - 00:22:15
+adott esetben szakmai értelemben, és és
+
+00:22:13 - 00:22:16
+nyilván ez is egy ilyen problémás dolog
+
+00:22:15 - 00:22:18
+volt.
+
+00:22:16 - 00:22:20
+>> Ühüm.
+
+00:22:18 - 00:22:23
+>> A direkt 36 cé szerint egy belső
+
+00:22:20 - 00:22:24
+konfliktus miatt küldtek el a pártból.
+
+00:22:23 - 00:22:27
+Mi volt ez a Mi volt ez a belső
+
+00:22:24 - 00:22:29
+konfliktus? Igen, hát ugye 2024
+
+00:22:27 - 00:22:32
+novembere vége felé, és hát leginkább
+
+00:22:29 - 00:22:35
+decemberben nekem erősen romlott akkor
+
+00:22:32 - 00:22:36
+az egészségügyi állapotom
+
+00:22:35 - 00:22:39
+és
+
+00:22:36 - 00:22:43
+és nem tudtam teljes mértékben ellátni a
+
+00:22:39 - 00:22:45
+munkámat megfelelően. Ölletve később az
+
+00:22:43 - 00:22:47
+is kiderült, hogy valószínűleg a Henryék
+
+00:22:45 - 00:22:49
+vagy valamilyen hozzájuk köthető csapat
+
+00:22:47 - 00:22:52
+dezinformációkat terjesztett rólam azzal
+
+00:22:49 - 00:22:55
+kapcsolatban, hogy én adott esetben
+
+00:22:52 - 00:22:58
+valakik külső szereplőknek információkat
+
+00:22:55 - 00:23:00
+adok ki a a Tiszapárttal kapcsolatban.
+
+00:22:58 - 00:23:01
+És emiatt egy egy közös megegyezéssel
+
+00:23:00 - 00:23:04
+ugye megszakítottuk a
+
+00:23:01 - 00:23:06
+munkakapcsolatomat, de nem haragban
+
+00:23:04 - 00:23:08
+váltunk el, és felajánlották, hogy
+
+00:23:06 - 00:23:11
+önkéntesként folytathatom a a munkámat.
+
+00:23:08 - 00:23:12
+Ebbe én bele is egyeztem, és majd később
+
+00:23:11 - 00:23:14
+erre visszatérünk még.
+
+00:23:12 - 00:23:17
+>> A napokban a a Magyar Péter arról
+
+00:23:14 - 00:23:19
+beszélt nekünk egy interjúban, hogy a a
+
+00:23:17 - 00:23:21
+Gundalf nevű srácot is mi tettük ki,
+
+00:23:19 - 00:23:24
+mert azt gondoltuk, hogy ő is valakiknek
+
+00:23:21 - 00:23:25
+dolgozik. Utóla kiderült, hogy nem. Ez
+
+00:23:24 - 00:23:26
+az akkor, amire gondolsz.
+
+00:23:25 - 00:23:28
+>> Igen, igen. Igen.
+
+00:23:26 - 00:23:31
+>> Kapcsolatban maradtál bárkivel a
+
+00:23:28 - 00:23:32
+pártból, miután már nem dolgoztál ott
+
+00:23:31 - 00:23:33
+hivatalosan csak önkéntes.
+
+00:23:32 - 00:23:35
+>> Vol, volt, voltam, voltam. Igen.
+
+00:23:33 - 00:23:37
+Kapcsolatban.
+
+00:23:35 - 00:23:39
+>> Miért maradtál kapcsolatban velük?
+
+00:23:37 - 00:23:42
+Egyrészt baráti szempontokból, másrészt
+
+00:23:39 - 00:23:45
+ugye terveztük a ugye az, hogy
+
+00:23:42 - 00:23:47
+önkéntesként továbbiakban is segítem a a
+
+00:23:45 - 00:23:48
+munkákat.
+
+00:23:47 - 00:23:50
+Másrészt ugye nyilván voltak olyan
+
+00:23:48 - 00:23:52
+feladatköreim, amiket ugye át kellett
+
+00:23:50 - 00:23:53
+adnom másoknak, meg le kellett tiszta.
+
+00:23:52 - 00:23:55
+volt olyan, amit mondjuk csak én
+
+00:23:53 - 00:23:56
+végeztem, és akkor nyilván új arcokat
+
+00:23:55 - 00:23:59
+kellett beavatnom, hogy akkor ez itt
+
+00:23:56 - 00:24:01
+hogy is volt meg meg minden. Ez ezeket
+
+00:23:59 - 00:24:04
+végül ugye meghí meghiósított a Harrynek
+
+00:24:01 - 00:24:07
+ezek a ez a beszervezési kísérlete.
+
+00:24:04 - 00:24:09
+>> Ezzel egy időben történt még valami,
+
+00:24:07 - 00:24:11
+legalábbis az AHA főigazgatójának a
+
+00:24:09 - 00:24:13
+levele szerint. Ezt felolvasom most ezt
+
+00:24:11 - 00:24:15
+a részletet, és akkor tudsz tudsz erre
+
+00:24:13 - 00:24:19
+is reagálni.
+
+00:24:15 - 00:24:21
+HD ugye 2021 februárban az ügyben
+
+00:24:19 - 00:24:22
+szintén érintett MT-vel közösen vette
+
+00:24:21 - 00:24:24
+fel a kapcsolatot egy ismert kém
+
+00:24:22 - 00:24:27
+szoftvert gyártó és forgalmazó cég
+
+00:24:24 - 00:24:29
+képviselőivel, amely szoftvert ő maga
+
+00:24:27 - 00:24:30
+meg is próbált beszerezni. Ebben
+
+00:24:29 - 00:24:33
+állítása szerint segítségére volt egy
+
+00:24:30 - 00:24:34
+európai uniós ország titkosszolgálata.
+
+00:24:33 - 00:24:37
+Hogyha mit mit jelent ez? És milyen
+
+00:24:34 - 00:24:40
+szoft? Igen. Hát ugye ezt ez egy kicsit
+
+00:24:37 - 00:24:43
+vicces kijelentésnek tartom, hogy hogy
+
+00:24:40 - 00:24:45
+hogy akkor még 19 évesen, vagy talán
+
+00:24:43 - 00:24:47
+akkor már pont 20 éves voltam. Még
+
+00:24:45 - 00:24:49
+megpróbálok kame szoftwert beszerezni és
+
+00:24:47 - 00:24:53
+ebbe egy titkos szolgálat is asszisztál
+
+00:24:49 - 00:24:55
+nekem, mert hogy miért is? Mert tehát ez
+
+00:24:53 - 00:24:58
+egy azért egy fura kijelentés itt, mert
+
+00:24:55 - 00:25:01
+a valóság az, hogy ugye felmerült a
+
+00:24:58 - 00:25:03
+Tiszapártnál egy konkrét konkrét
+
+00:25:01 - 00:25:05
+kame szoftvernek a hogy bevetik bevetik
+
+00:25:03 - 00:25:08
+a Tiszapártnál és ezzel kapcsolatban én
+
+00:25:05 - 00:25:10
+nyomozást végeztem a Tiszapárthoz. Ugye
+
+00:25:08 - 00:25:12
+különböző felületeken rengeteg jelzés
+
+00:25:10 - 00:25:14
+érkezik ilyesmikkel kapcsolatban. egy
+
+00:25:12 - 00:25:16
+csomó valótlanság is érkezik, de voltak
+
+00:25:14 - 00:25:18
+olyan dolgok, amik amik
+
+00:25:16 - 00:25:20
+arra engedtek következtetni, hogy fenn
+
+00:25:18 - 00:25:22
+áll a gyanú, hogy hogy esetleg tényleg
+
+00:25:20 - 00:25:24
+egy ilyen ezt az adott kame szoftvert
+
+00:25:22 - 00:25:26
+használják, és ennek a ennek az
+
+00:25:24 - 00:25:28
+informátornak állításai szerint voltak
+
+00:25:26 - 00:25:31
+tudott volna erről információkat
+
+00:25:28 - 00:25:33
+szerezni erről a kame programról. Nem
+
+00:25:31 - 00:25:36
+beszerezni akartuk a kame programot,
+
+00:25:33 - 00:25:38
+mert egyrészt ezek euró milliókba
+
+00:25:36 - 00:25:40
+kerülnek. Ö tehát nekem nincsenek euró
+
+00:25:38 - 00:25:43
+millióim biztos azért, mert hogy
+
+00:25:40 - 00:25:44
+lekapcsolták azt a ö azt a aranyszállító
+
+00:25:43 - 00:25:47
+komvolyt nemrég, biztos azért nem tudtam
+
+00:25:44 - 00:25:48
+beszerezni. És
+
+00:25:47 - 00:25:50
+és hát
+
+00:25:48 - 00:25:52
+tulajdonképpen afelé irányult az
+
+00:25:50 - 00:25:56
+információs szerzésünk, hogy
+
+00:25:52 - 00:25:59
+mire képes ez a kémprogram, hogy kik
+
+00:25:56 - 00:26:01
+tudják ezt beszerezni, mekkora
+
+00:25:59 - 00:26:03
+erőforrások kellenek hozzá, milyen
+
+00:26:01 - 00:26:05
+konkrét operációs rendszerek ellen
+
+00:26:03 - 00:26:06
+tudják ezt bevetni, és milyenek ellen
+
+00:26:05 - 00:26:08
+nem. Tehát nyilván ugye a biztonságunk
+
+00:26:06 - 00:26:10
+felépítése miatt is fontos volt, hogyha
+
+00:26:08 - 00:26:11
+mondjuk tudjuk, hogy ezt az adott kame
+
+00:26:10 - 00:26:13
+software nem lehet bizonyos operációs
+
+00:26:11 - 00:26:16
+rendszer ellenbe vetni, és ezt maga az a
+
+00:26:13 - 00:26:19
+cég állítja, aki gyártja, akkor akkor
+
+00:26:16 - 00:26:21
+nyilván azzal tudunk védekezni.
+
+00:26:19 - 00:26:23
+Tehát ebben a helyzetben nem az történt,
+
+00:26:21 - 00:26:26
+hogy te
+
+00:26:23 - 00:26:28
+hazudtál mondjuk erről az AHÁ-nak, hanem
+
+00:26:26 - 00:26:31
+az történt, hogy állításod szerint
+
+00:26:28 - 00:26:33
+legalábbis, hogy valóban
+
+00:26:31 - 00:26:35
+próbáltátok feltérképezni, hogy mire
+
+00:26:33 - 00:26:36
+képes ez a kame szoftver, de nem abból a
+
+00:26:35 - 00:26:38
+célból, hogy ezt megvásároljátok.
+
+00:26:36 - 00:26:40
+>> Így van. De egyébként az AHS
+
+00:26:38 - 00:26:41
+beszélgetésen én úgy emlékszem, hogy
+
+00:26:40 - 00:26:43
+esett szó erről a bizonyos kame
+
+00:26:41 - 00:26:45
+szoftverről, de nem arról, hol tehát ez
+
+00:26:43 - 00:26:47
+nem merült fel ott a beszélgetés során,
+
+00:26:45 - 00:26:48
+hogy hogy én azt megpróbáltam
+
+00:26:47 - 00:26:50
+beszerezni. Ez minden bizonnyal egy
+
+00:26:48 - 00:26:54
+lehallgatás miatt került ki ez az infó,
+
+00:26:50 - 00:26:55
+és most megpróbálják így elferdíteni.
+
+00:26:54 - 00:26:58
+Nyilván
+
+00:26:55 - 00:26:59
+az amikor ez a ez az információgyűjtés
+
+00:26:58 - 00:27:02
+ez ez
+
+00:26:59 - 00:27:04
+megvalósult, akkor bizonyos esetekben
+
+00:27:02 - 00:27:06
+hangozhatott el olyan mondat az én
+
+00:27:04 - 00:27:07
+számból is, hogy hogy ez egy titkos
+
+00:27:06 - 00:27:10
+szolgálat, aki megpróbál nekem abba
+
+00:27:07 - 00:27:12
+segíteni, hogy információt gyűjtsek.
+
+00:27:10 - 00:27:13
+De ez ugye nem volt igaz. Ezt az AH
+
+00:27:12 - 00:27:14
+egyébként nem kérdezte, hogy volt-e
+
+00:27:13 - 00:27:17
+ilyen, hogy én ezt megpróbálom
+
+00:27:14 - 00:27:19
+beszerezni.
+
+00:27:17 - 00:27:21
+Miért mondtál ilyet, ha ez nem igaz?
+
+00:27:19 - 00:27:23
+>> Hát tulajdonképpen ott, amivel
+
+00:27:21 - 00:27:25
+beszéltem,
+
+00:27:23 - 00:27:27
+meg kellett építeni azt a kredibilitást,
+
+00:27:25 - 00:27:30
+hogy hogy tényleg rálátok ezekre a az
+
+00:27:27 - 00:27:31
+információkra. Ö itt az különbség az
+
+00:27:30 - 00:27:33
+volt, hogy nem egy titkosszolgált
+
+00:27:31 - 00:27:34
+legalábbis soha nem hivatkozott magára
+
+00:27:33 - 00:27:36
+titkoszolgált, és az elmondottatok
+
+00:27:34 - 00:27:38
+alapján egyébként
+
+00:27:36 - 00:27:40
+egyáltalán nem tűnt egy titkosszolgálati
+
+00:27:38 - 00:27:42
+szereplőnek, és nem is tudott a végül
+
+00:27:40 - 00:27:45
+egyébként olyan sok érdemi információban
+
+00:27:42 - 00:27:47
+segítségül lenni, illetve
+
+00:27:45 - 00:27:48
+hát ugye folyamatosan dezinformáltunk
+
+00:27:47 - 00:27:51
+azzal kapcsolatban is, hogy nekünk
+
+00:27:48 - 00:27:53
+milyen milyen kapcsolataink vannak. Ö és
+
+00:27:51 - 00:27:56
+figyeltük azt is, hogy kihez milyen infó
+
+00:27:53 - 00:27:58
+jut vissza akár
+
+00:27:56 - 00:28:00
+akár a feltételezett ilyen beépített
+
+00:27:58 - 00:28:01
+emberekkel kapcsolatban.
+
+00:28:00 - 00:28:03
+>> Azt még el tudod mondani, hogy milyen
+
+00:28:01 - 00:28:05
+szoftverről és melyik titkoszolgál van
+
+00:28:03 - 00:28:07
+szó?
+
+00:28:05 - 00:28:11
+>> Hát ugye ez ugye a kandiru cégről van
+
+00:28:07 - 00:28:15
+szó és
+
+00:28:11 - 00:28:18
+az észt titkoszolgálatot mondtam de az
+
+00:28:15 - 00:28:20
+észtitkoszolgálat ebben a segítségemről.
+
+00:28:18 - 00:28:22
+Beszéljünk a Henryvel való
+
+00:28:20 - 00:28:25
+üzenetváltásokról. Ugye a Direkt 36 cike
+
+00:28:22 - 00:28:29
+szerint 2025 februárjában kaptad az első
+
+00:28:25 - 00:28:32
+üzenetet, akkor még V néven futó
+
+00:28:29 - 00:28:34
+Henrytől.
+
+00:28:32 - 00:28:37
+Mikor és és miért kerested meg ezzel
+
+00:28:34 - 00:28:39
+kapcsolatban Puthát? És miért pont őt?
+
+00:28:37 - 00:28:41
+>> Gyakorlatilag órákon belül kerestem meg
+
+00:28:39 - 00:28:44
+őt.
+
+00:28:41 - 00:28:46
+Azért őt kerestem meg, mert mert ő is
+
+00:28:44 - 00:28:48
+hasonló dolgokban tevékenykedett a
+
+00:28:46 - 00:28:49
+Tiszapártnál. információ biztonsággal
+
+00:28:48 - 00:28:51
+foglalkozott. Nyilván ő egy sokkal azért
+
+00:28:49 - 00:28:53
+szeniorabb ember, sokkal nagyobb
+
+00:28:51 - 00:28:56
+tapasztalat tapasztalattal rendelkezik,
+
+00:28:53 - 00:28:57
+úgyhogy ezért is fordultam hozzá, mert
+
+00:28:56 - 00:29:01
+neki nagyobb tapasztalata lehet az
+
+00:28:57 - 00:29:05
+ilyesmikben. Ö és
+
+00:29:01 - 00:29:07
+és hát nyilván ugye kirajzolódott az,
+
+00:29:05 - 00:29:10
+hogy ez egy beszervezési kísérlet, és
+
+00:29:07 - 00:29:12
+elhatároztuk, hogy belemegyünk abba a
+
+00:29:10 - 00:29:15
+játékba, hogy úgy teszek, mintogyha én a
+
+00:29:12 - 00:29:17
+Harrynek a beszervezett embere, ahogy ő
+
+00:29:15 - 00:29:19
+fogalmaz, bábja lennék. És ezáltal, hogy
+
+00:29:17 - 00:29:22
+ebbe belemegyek, minél több információt
+
+00:29:19 - 00:29:23
+igyekeztünk megtudni vele kapcsolatban.
+
+00:29:22 - 00:29:25
+Ezzel is ez nyilván ezeket az
+
+00:29:23 - 00:29:27
+információkat azért akartuk megszerezni,
+
+00:29:25 - 00:29:29
+mert adott esetben fel tudtuk volna
+
+00:29:27 - 00:29:30
+használni, vagy hát ugye nyilván a
+
+00:29:29 - 00:29:33
+Tiszapárt tudta volna felhasználni arra,
+
+00:29:30 - 00:29:36
+hogy a belső biztonságát megerősítse.
+
+00:29:33 - 00:29:38
+>> Te tudod, hogy kicsoda ez a Henry?
+
+00:29:36 - 00:29:41
+>> Nekem vannak tippjeim egyébként, hogy ki
+
+00:29:38 - 00:29:44
+lehet a Henry. Vagy legalábbis, hogy
+
+00:29:41 - 00:29:47
+milyen személyekkel áll kapcsolatban. Ö
+
+00:29:44 - 00:29:48
+de nyilván a valós identitására
+
+00:29:47 - 00:29:51
+végül nem került sor arra, hogy
+
+00:29:48 - 00:29:55
+felfedjük. Azonban egyszer állítottunk
+
+00:29:51 - 00:29:56
+neki egy csapdát a Harrynek amely során
+
+00:29:55 - 00:29:58
+sikerült szereznünk egy IP címet, ami
+
+00:29:56 - 00:29:59
+feltehetően az ő IP címe.
+
+00:29:58 - 00:30:00
+>> És ebből jutottatok valamilyen
+
+00:29:59 - 00:30:03
+következtetésre?
+
+00:30:00 - 00:30:05
+>> Nem, mert most nem tudtunk annak olyan
+
+00:30:03 - 00:30:07
+formába utána menni, hogy ez az IPC most
+
+00:30:05 - 00:30:08
+konkrétan hogy kihez köthető.
+
+00:30:07 - 00:30:10
+>> Mit tudsz te Henryről és miről
+
+00:30:08 - 00:30:12
+beszélgettetek?
+
+00:30:10 - 00:30:14
+Hát Harry nekem egy nagyon-nagyon furcsa
+
+00:30:12 - 00:30:17
+személyiségnek tűnt. Egyszerre egyszerre
+
+00:30:14 - 00:30:20
+tűnt úgy, hogy valami tényleg valami
+
+00:30:17 - 00:30:24
+profi csapat része. Ugyanakkor ő kicsit
+
+00:30:20 - 00:30:26
+talán elbízta magát, és
+
+00:30:24 - 00:30:28
+azt gondolta, hogy a hogy a 19 éves
+
+00:30:26 - 00:30:30
+Gundalfal majd nagyon könnyen el fog
+
+00:30:28 - 00:30:32
+bánni, könnyen be fog szervezni, könnyen
+
+00:30:30 - 00:30:35
+be fog fenyíteni, és ebből nem lesz
+
+00:30:32 - 00:30:37
+semmiféle problémája. Ö igazából nagyon
+
+00:30:35 - 00:30:40
+sokszor hencegett azzal, hogy ő mikre
+
+00:30:37 - 00:30:42
+lát rá, meg megjósolt dolgokat. Ugye ott
+
+00:30:40 - 00:30:44
+már elhangzott, hogy megjósolt
+
+00:30:42 - 00:30:46
+adatszivárgást, meg voltak belső dolgok
+
+00:30:44 - 00:30:47
+is, amiket megjósolt, de ugyanakkor azt
+
+00:30:46 - 00:30:49
+azt ki kell jelenteni, hogy volt egy
+
+00:30:47 - 00:30:51
+csomó olyan dolog, amit amit megjósolt,
+
+00:30:49 - 00:30:53
+és végül nem következ például adott
+
+00:30:51 - 00:30:55
+cikkek megjelenését belső emberekkel
+
+00:30:53 - 00:30:58
+kapcsolatban. Így konkrétumok
+
+00:30:55 - 00:31:00
+elhangoztak, de végül ezek nem jelentek
+
+00:30:58 - 00:31:03
+meg. Tehát a úgy látszott, hogy azért a
+
+00:31:00 - 00:31:05
+Henry sincs minden nem ural teljesen a
+
+00:31:03 - 00:31:06
+helyzetnek, vagy neki sincs meg minden
+
+00:31:05 - 00:31:08
+információ.
+
+00:31:06 - 00:31:11
+>> Hol jelentek volna meg ezek a cikkek?
+
+00:31:08 - 00:31:14
+>> Hát elsősorban ugye a kormánymédiában.
+
+00:31:11 - 00:31:16
+>> Eleet tettél bármilyen kérésének, vagy
+
+00:31:14 - 00:31:18
+adtál át neki érdemi információt a
+
+00:31:16 - 00:31:20
+pártról?
+
+00:31:18 - 00:31:23
+Amikor ezek a ezeket a kéréseket
+
+00:31:20 - 00:31:26
+megfogalmazta, akkor minden esetben
+
+00:31:23 - 00:31:28
+egyeztettem ugye Budhával
+
+00:31:26 - 00:31:30
+illetve ő megegyeztetett másokkal azzal
+
+00:31:28 - 00:31:32
+kapcsolatban, hogy esetleg milyen
+
+00:31:30 - 00:31:34
+információ adható ki, mert hogyha soha
+
+00:31:32 - 00:31:36
+semmit nem adunk a Harrynek, akkor
+
+00:31:34 - 00:31:38
+nyilván nem működött volna ez a játék,
+
+00:31:36 - 00:31:40
+úgyhogy mindig mérlegeltük azt, hogy mi
+
+00:31:38 - 00:31:42
+az az információ, amit adott esetben
+
+00:31:40 - 00:31:44
+átadhatunk neki, ami mondjuk nem jelent
+
+00:31:42 - 00:31:46
+veszélyt, vagy esetleg pont, hogy profit
+
+00:31:44 - 00:31:49
+úgymond profitálni tudunk biztonságilag
+
+00:31:46 - 00:31:51
+az információs szerzés szempontjából.
+
+00:31:49 - 00:31:53
+Úgyhogy
+
+00:31:51 - 00:31:54
+minimális információamlás ugye történt
+
+00:31:53 - 00:31:56
+az ő irányában, és kvázi jelentettem
+
+00:31:54 - 00:31:59
+neki bizonyos dolgokról, de ezek olyan
+
+00:31:56 - 00:32:01
+olyan jelentőségűek voltak, hogy hogy
+
+00:31:59 - 00:32:02
+egyébként érdemben nem kapott
+
+00:32:01 - 00:32:04
+tulajdonképpen segítséget. Mindig is
+
+00:32:02 - 00:32:05
+találkoztam, hogy ezekre az
+
+00:32:04 - 00:32:06
+információkra azért mindig úgy
+
+00:32:05 - 00:32:09
+reagáltam, hogy ez nagyszerű, meg ez
+
+00:32:06 - 00:32:10
+milyen remek információ. Aztán még soha
+
+00:32:09 - 00:32:12
+nem esett róla szó, hogy egyébként ez
+
+00:32:10 - 00:32:14
+miért annyira jó. Tehát akkor azt kérték
+
+00:32:12 - 00:32:17
+a Tisza oldaláról, hogy viselkedj úgy
+
+00:32:14 - 00:32:19
+ebben a helyzetben, mintogyha te valóban
+
+00:32:17 - 00:32:23
+be lennél kvázi szervezve így a Henry
+
+00:32:19 - 00:32:25
+által. Néha csepegtesnek információkat,
+
+00:32:23 - 00:32:27
+de semmi érdemit, és próbálj meg róla
+
+00:32:25 - 00:32:29
+minél többet megtudni, ugye?
+
+00:32:27 - 00:32:30
+>> Tulajdonképpen igen, ez volt a ez volt
+
+00:32:29 - 00:32:32
+az egésznek a lényege.
+
+00:32:30 - 00:32:35
+>> Mit jelent az, hogy be akarták dönteni a
+
+00:32:32 - 00:32:37
+pártot? Ez ugye egy ponton előkerül
+
+00:32:35 - 00:32:39
+ebben a ebben a levelezésben, vagy ebben
+
+00:32:37 - 00:32:41
+a ezekben az üzenetváltásokban? Ugye
+
+00:32:39 - 00:32:43
+Harry már akkor is tudott arról, meg már
+
+00:32:41 - 00:32:45
+akkor is előkészületekben volt a
+
+00:32:43 - 00:32:49
+Tiszavilág applikáció,
+
+00:32:45 - 00:32:50
+és és úgy tűnt, hogy Henry az en ezeknek
+
+00:32:49 - 00:32:53
+a csapatoknak kifejezetten egy
+
+00:32:50 - 00:32:55
+informatikára fókuszáló részét képezi,
+
+00:32:53 - 00:32:57
+de ugyanakkor voltak arra jelek, hogy
+
+00:32:55 - 00:32:59
+hogy nyilván nem csak az informatikával
+
+00:32:57 - 00:33:01
+kapcsolatban
+
+00:32:59 - 00:33:02
+foglalkoznak
+
+00:33:01 - 00:33:04
+a Herryék.
+
+00:33:02 - 00:33:06
+Tulajdonképpen a herriék arról arról
+
+00:33:04 - 00:33:09
+beszéltek, az derül ki a beszélgetésből,
+
+00:33:06 - 00:33:12
+hogy hogy úgy akarják bedönteni a
+
+00:33:09 - 00:33:14
+pártot, hogy az adatszivárgásokkal
+
+00:33:12 - 00:33:16
+csökkentik a pártnak a renoméját,
+
+00:33:14 - 00:33:17
+illetve egyéb botrányokat is ugye
+
+00:33:16 - 00:33:20
+kirobbanthatnak, ami mondjuk nem
+
+00:33:17 - 00:33:22
+informatikával kapcsolatos, és ezzel
+
+00:33:20 - 00:33:23
+csökkentik ugye a pártba vetett
+
+00:33:22 - 00:33:25
+bizalmat, ezzel ugye csökken a
+
+00:33:23 - 00:33:27
+támogatottság. adott esetben mondjuk
+
+00:33:25 - 00:33:29
+olyan információhoz
+
+00:33:27 - 00:33:31
+jutnak illegálisan,
+
+00:33:29 - 00:33:32
+amivel
+
+00:33:31 - 00:33:35
+bármi más botrányt tudnak csinálni, vagy
+
+00:33:32 - 00:33:39
+tudják úgy keretezni.
+
+00:33:35 - 00:33:41
+És és hát nyilván ugye e részben volt
+
+00:33:39 - 00:33:42
+abban a siker, hogy ezeket a
+
+00:33:41 - 00:33:44
+szivárgásokat ugye meg tudták
+
+00:33:42 - 00:33:46
+valósítani,
+
+00:33:44 - 00:33:47
+de de összességében úgy tűnik, hogy ez
+
+00:33:46 - 00:33:48
+ez nem hatotta meg annyira a
+
+00:33:47 - 00:33:49
+választókat.
+
+00:33:48 - 00:33:51
+>> És te tisztában vagy azzal, hogy végül
+
+00:33:49 - 00:33:54
+is hogyan szíván raktak ki ezek az
+
+00:33:51 - 00:33:55
+adatok. Tehát ugye a Direkt 30-et arról
+
+00:33:54 - 00:33:57
+is ír, hogy a Henryéknek és a
+
+00:33:55 - 00:33:58
+társaiknak, ahogy te is mondod, az egyik
+
+00:33:57 - 00:34:01
+legfontosabb célja a Tisza világ
+
+00:33:58 - 00:34:03
+applikációnak a feltörése volt. Ez ugye
+
+00:34:01 - 00:34:06
+végül is megtörtént.
+
+00:34:03 - 00:34:07
+Hogyan hogyan történt ez? Igen. Hát
+
+00:34:06 - 00:34:11
+erről ezzel kapcsolatban nincs sok
+
+00:34:07 - 00:34:13
+információm, mert a a tisztivággal
+
+00:34:11 - 00:34:14
+kapcsolatban
+
+00:34:13 - 00:34:18
+illetve a másik adott kisebb
+
+00:34:14 - 00:34:19
+adatárgással sem, én annyit tudok, hogy
+
+00:34:18 - 00:34:21
+hogy amikor a visszhangszivárgás volt,
+
+00:34:19 - 00:34:23
+akkor ugye ő ugye előrejelezte, ez benne
+
+00:34:21 - 00:34:27
+is volt a cikkben, az, hogy pontosan
+
+00:34:23 - 00:34:29
+hogyan szerezte meg
+
+00:34:27 - 00:34:31
+Henry ezeket a dolgokat. Ö arra
+
+00:34:29 - 00:34:35
+egyébként van vannak a visszhangnál
+
+00:34:31 - 00:34:36
+legalábbis vannak megalapozott
+
+00:34:35 - 00:34:38
+feltételezhető dolgok, de azokba most
+
+00:34:36 - 00:34:39
+nem szeretnék belemenni, mert ezek olyan
+
+00:34:38 - 00:34:41
+dolgok, amiket nyilván majd egy
+
+00:34:39 - 00:34:45
+független hatóságnak lenne érdemes
+
+00:34:41 - 00:34:47
+vizsgálnia. Ö a tiszavilágnál pedig ott
+
+00:34:45 - 00:34:48
+csak ahhoz csak annyit tudok hozzáfűzni,
+
+00:34:47 - 00:34:52
+mert akkor már nem álltam kapcsolatba
+
+00:34:48 - 00:34:54
+Henryvel, hogy hogy amikor ugye megvolt
+
+00:34:52 - 00:34:56
+a viszonszivárgás, pár napra rájelezte,
+
+00:34:54 - 00:34:57
+hogy ők ezt sikeres akcióként könyvelik
+
+00:34:56 - 00:34:59
+el, és hogy folytatni fogják az ilyen
+
+00:34:57 - 00:35:01
+jellegű műveteket.
+
+00:34:59 - 00:35:04
+>> És
+
+00:35:01 - 00:35:06
+miért nem kerestétek meg ezen a ponton a
+
+00:35:04 - 00:35:08
+magyar szolgálatokat Henryékkel
+
+00:35:06 - 00:35:11
+kapcsolatban? Hát ugye nyilván a abban a
+
+00:35:08 - 00:35:15
+kihallgatásos videóban is elmondom, hogy
+
+00:35:11 - 00:35:17
+erős gyanúink voltak arra, hogy ha nem
+
+00:35:15 - 00:35:17
+is teljes egészében, de részt vesz és
+
+00:35:17 - 00:35:21
+asszisztál ehhez a magyar
+
+00:35:17 - 00:35:23
+titkosszolgálat ezekhez az akciókhoz. És
+
+00:35:21 - 00:35:25
+ebből fakadóan, hogyha most megkeressük
+
+00:35:23 - 00:35:27
+őket, akkor annak sok értelme igazából
+
+00:35:25 - 00:35:30
+nem lenne, mert gyakorlatilag úgymond a
+
+00:35:27 - 00:35:32
+ahhoz azokhoz mennénk, akik akik ugye
+
+00:35:30 - 00:35:34
+ezeket végzik, ezeket a műveleteket.
+
+00:35:32 - 00:35:37
+Ebben nem voltunk biztosak, hogy mondjuk
+
+00:35:34 - 00:35:40
+konkrétan az ah csinálja ezeket az
+
+00:35:37 - 00:35:43
+akciókat. Viszont az azért elég elég
+
+00:35:40 - 00:35:47
+valószínűnek tartottuk, hogy asszisztál
+
+00:35:43 - 00:35:48
+ehhez, vagy tud róla, engedi ezeket.
+
+00:35:47 - 00:35:51
+És igazából innentől kezdve
+
+00:35:48 - 00:35:52
+értelmetlennek tartottuk.
+
+00:35:51 - 00:35:54
+>> Megint szóba kell hoznom az AHF
+
+00:35:52 - 00:35:58
+igazgatójának a levelét, mert a az
+
+00:35:54 - 00:35:59
+időrendben ide kapcsolódik.
+
+00:35:58 - 00:36:02
+Felolvastom ezt a részletet. Ja,
+
+00:35:59 - 00:36:04
+>> a HD 2025 májusában egy EU tagállam
+
+00:36:02 - 00:36:06
+nagykövetségén járt Budapesten, ahol
+
+00:36:04 - 00:36:08
+titkoszolgálati jellegű eszközöket
+
+00:36:06 - 00:36:10
+mutattak be számára, majd RM
+
+00:36:08 - 00:36:12
+közvetítésével találkozott egy Rodri
+
+00:36:10 - 00:36:13
+néven bemutatkozó férfival, aki egy
+
+00:36:12 - 00:36:15
+uniós ország titkosszolgálati
+
+00:36:13 - 00:36:18
+munkatársának adta ki magát, és
+
+00:36:15 - 00:36:21
+kérdéseket tett fel neki a magyarországi
+
+00:36:18 - 00:36:24
+belpolitikai helyzettől összefüggésben.
+
+00:36:21 - 00:36:27
+Igen, ez a ez a Rodri vagy Bodri, ez is
+
+00:36:24 - 00:36:29
+egy ez is egy ilyen kamu volt, amit az
+
+00:36:27 - 00:36:32
+AHÁ-nak ugye betoltam, és ezt most így
+
+00:36:29 - 00:36:34
+tégként közlik. Nem találkoztam ezzel a
+
+00:36:32 - 00:36:36
+Rodrival, és nem is jártam egyébként az
+
+00:36:34 - 00:36:37
+Ész nagykövetségnek még a közelébe se.
+
+00:36:36 - 00:36:38
+>> Tehát akkor ez is ennek a
+
+00:36:37 - 00:36:40
+dezinformálásnak a része.
+
+00:36:38 - 00:36:42
+>> Így van. Én nagyon nagyon nagyon
+
+00:36:40 - 00:36:43
+szívesen egyébként szeretném látni
+
+00:36:42 - 00:36:45
+azokat a felvételeket, mert biztos,
+
+00:36:43 - 00:36:46
+hogyha mindig azt mondták, hogy olyan
+
+00:36:45 - 00:36:48
+nagy nyomozást meg milyen nagy
+
+00:36:46 - 00:36:50
+kémhárítást csinálnak már évek óta,
+
+00:36:48 - 00:36:51
+akkor biztos vannak arról felvételeik,
+
+00:36:50 - 00:36:53
+hogy én az észn nagykövetségre bemegyek,
+
+00:36:51 - 00:36:55
+vagy ott találkozok valakivel, aztán
+
+00:36:53 - 00:36:57
+elmegyek valahova, és ott ott meg mással
+
+00:36:55 - 00:36:59
+találkozok. Tehát nyilván ezekről akkor
+
+00:36:57 - 00:37:00
+ezek biztos vannak felvételeik az ő
+
+00:36:59 - 00:37:02
+állításak alapján. Ezeket akkor hozzák
+
+00:37:00 - 00:37:02
+nyilvánosságra, és mutassák be a
+
+00:37:02 - 00:37:04
+nyilvánosságnak.
+
+00:37:02 - 00:37:05
+>> Kanyarodjunk vissza akkor a Henryvel
+
+00:37:04 - 00:37:07
+való kapcsolattartásra. Tehát mi
+
+00:37:05 - 00:37:09
+vezetett oda, hogy ezt az övet a rejtett
+
+00:37:07 - 00:37:10
+kamerával beszereztétek? Hogyan kell ezt
+
+00:37:09 - 00:37:13
+elképzelni ezt a folyamatot?
+
+00:37:10 - 00:37:16
+>> Igen. Hát ugye nekünk a célunk az mindig
+
+00:37:13 - 00:37:18
+is az volt, hogy a Harryről valami olyan
+
+00:37:16 - 00:37:21
+konkrét bizonyítékot tudjunk szerezni,
+
+00:37:18 - 00:37:23
+amivel ki tudunk állni a nyilvánosság
+
+00:37:21 - 00:37:25
+elé.
+
+00:37:23 - 00:37:27
+Hogy hogy bebizonyítsuk azt, hogy hogy
+
+00:37:25 - 00:37:29
+ez a ez a titkosszolgálati akció zajlik
+
+00:37:27 - 00:37:31
+a Tiszapárt ellen. Nyilván
+
+00:37:29 - 00:37:35
+chatüzenetekből ezt ezt nem tudtuk volna
+
+00:37:31 - 00:37:36
+önmagában megtenni. ö hangfelvételeket
+
+00:37:35 - 00:37:39
+esetleg készíthettünk volna, de hát ugye
+
+00:37:36 - 00:37:41
+azok azokat is már könnyű manipulálni
+
+00:37:39 - 00:37:42
+mesterséges intelligenciával a mai
+
+00:37:41 - 00:37:44
+világban.
+
+00:37:42 - 00:37:47
+És hogyha mondjuk még szakértő meg is
+
+00:37:44 - 00:37:48
+állapítaná azt, hogy hogy ez nem valósa,
+
+00:37:47 - 00:37:50
+akkor akkor nyilván a kormánymédia azt
+
+00:37:48 - 00:37:52
+mondaná, hogy az a szakértő az biztos az
+
+00:37:50 - 00:37:55
+is az is Zelenszki bábja vagy valami
+
+00:37:52 - 00:37:57
+ilyesmi. Úgyhogy mindenképp egy videós
+
+00:37:55 - 00:37:59
+felvételt, videós, hangos felvételt
+
+00:37:57 - 00:38:01
+szerettünk volna készíteni
+
+00:37:59 - 00:38:03
+Henryről, hogy látszódjon, hogy ő ki,
+
+00:38:01 - 00:38:07
+hogy tényleg egy egy ember, aki aki
+
+00:38:03 - 00:38:10
+létezik és mikről beszél, miket csinál.
+
+00:38:07 - 00:38:13
+Ö és úgy gondoltuk, hogy ez ez egy döntő
+
+00:38:10 - 00:38:15
+bizonyíték lenne ezzel kapcsolatban.
+
+00:38:13 - 00:38:17
+Nyilván
+
+00:38:15 - 00:38:19
+kellett ez egy rejtett eszköz, amivel
+
+00:38:17 - 00:38:20
+fel tudjuk őt venni, és ezért készült el
+
+00:38:19 - 00:38:22
+ez a kamerás öv.
+
+00:38:20 - 00:38:24
+>> Erre végül ugye nem került sor.
+
+00:38:22 - 00:38:26
+>> Hát ugye a az öv elkészítésére került
+
+00:38:24 - 00:38:27
+sor, de ugye magára a felvétel, tehát a
+
+00:38:26 - 00:38:27
+Henryvel való találkozóra nem került
+
+00:38:27 - 00:38:30
+sor.
+
+00:38:27 - 00:38:32
+>> És akkor most érkeztünk el az enn akció
+
+00:38:30 - 00:38:34
+napjáig.
+
+00:38:32 - 00:38:37
+Azt lehetett olvasni, hogy ti erről
+
+00:38:34 - 00:38:38
+tudtatok előre. Ez ez így van. Ezt jól
+
+00:38:37 - 00:38:41
+értettem.
+
+00:38:38 - 00:38:45
+>> Hát az legesleelső
+
+00:38:41 - 00:38:47
+akcióra, ami az Eni ugye július 8-án
+
+00:38:45 - 00:38:49
+volt 25-ben, arra, hogy nem tudtunk,
+
+00:38:47 - 00:38:52
+hogy most akkor azon a napon lesz meg
+
+00:38:49 - 00:38:55
+ilyesmi. Ha jól emlékszem erre Budha
+
+00:38:52 - 00:38:57
+tett utalásokat. Én nem tudtam azt, hogy
+
+00:38:55 - 00:38:59
+mondjuk ez így konkrétan lesz vagy
+
+00:38:57 - 00:39:02
+ilyesmi, de el tudtuk képzelni, hogy
+
+00:38:59 - 00:39:04
+ilyen fellépés történik
+
+00:39:02 - 00:39:07
+a dolgokkal kapcsolatban. Leginkább az
+
+00:39:04 - 00:39:09
+is egy jel volt, hogy a Henry egyébként
+
+00:39:07 - 00:39:12
+egyszer számon kérte rajtam egy néhány
+
+00:39:09 - 00:39:15
+nappal amúgy a bejelentés előtt, hogy
+
+00:39:12 - 00:39:19
+nincs-e valami amit esetleg eltitkolok
+
+00:39:15 - 00:39:21
+előle, vagy amit mondanom kéne neki.
+
+00:39:19 - 00:39:23
+>> És amikor ezt számon kérte, akkor így
+
+00:39:21 - 00:39:25
+kérdezgettem rá, hogy mire gondol, és
+
+00:39:23 - 00:39:27
+küldött egy cikket, ahol ugye Magyar
+
+00:39:25 - 00:39:29
+Péter a a Kandiruról beszélt, akkor
+
+00:39:27 - 00:39:31
+beszélt először, és hogy és hogy akkor
+
+00:39:29 - 00:39:32
+Henry úgy fogalmazott, hogy erről miért
+
+00:39:31 - 00:39:34
+miért beszélt a Magyar Péter? Ez ha jól
+
+00:39:32 - 00:39:37
+emlékszem három nappal azelőtt volt,
+
+00:39:34 - 00:39:39
+hogy megtörtént az NMH-s bejelentés
+
+00:39:37 - 00:39:41
+és úgy éreztük, hogy hát nyilván akkor
+
+00:39:39 - 00:39:44
+lehet, hogy lehet, hogy most már a
+
+00:39:41 - 00:39:45
+Henryéknél lebuktunk, és hogy már nem
+
+00:39:44 - 00:39:48
+átlátnak a szitán, és látják, hogy
+
+00:39:45 - 00:39:49
+egyébként nem működök velük együtt a
+
+00:39:48 - 00:39:50
+valóságban.
+
+00:39:49 - 00:39:52
+>> Elmesél, hogy hogyan zajlott az a nap,
+
+00:39:50 - 00:39:54
+amikor megérkeztek hozzád a ZNÉének a a
+
+00:39:52 - 00:39:57
+munkatársai, hogy hogyan viselkedtek a
+
+00:39:54 - 00:39:59
+rendőrök, mit mondtál el nekik az nap?
+
+00:39:57 - 00:40:02
+Igen, hát ugye reggel 6:00-kor ére
+
+00:39:59 - 00:40:05
+lesztek a rendőrök, a szüleink mentek ki
+
+00:40:02 - 00:40:07
+először hozzájuk, és akkor felkeltettek,
+
+00:40:05 - 00:40:09
+hogy hát ugye itt a rendőrség,
+
+00:40:07 - 00:40:11
+akkor ők jelezték, hogy ugye a nemzeti
+
+00:40:09 - 00:40:15
+nyomozóirodától vannak és házgozatást és
+
+00:40:11 - 00:40:16
+lefoglalást fognak itt végrehajtani. Ö
+
+00:40:15 - 00:40:19
+és akkor bejöttek a házba, ott
+
+00:40:16 - 00:40:21
+tájékoztattak a tényállással, hogy és
+
+00:40:19 - 00:40:24
+akkor ott ugye benne volt ez az NMH-s
+
+00:40:21 - 00:40:25
+bejelentés, és hogy ez alapján
+
+00:40:24 - 00:40:27
+megalapozott a gyanú, hogy én én
+
+00:40:25 - 00:40:30
+gyermekpornográf felvételekel
+
+00:40:27 - 00:40:30
+rendelkezek, vagy azt tervezek felvenni.
+
+00:40:30 - 00:40:33
+És
+
+00:40:30 - 00:40:36
+akkor bejöttek a szobámba, és
+
+00:40:33 - 00:40:38
+hát ugye nyilván kérdezték, hogy hol
+
+00:40:36 - 00:40:40
+vannak adathordozóim,
+
+00:40:38 - 00:40:43
+amiben igyekeztem együttműködni.
+
+00:40:40 - 00:40:45
+Egyébként a rendőrök teljesen normálisan
+
+00:40:43 - 00:40:46
+viselkedtek. Nyilván volt egy parancs,
+
+00:40:45 - 00:40:48
+amit teljesíteniük kellett, hogy
+
+00:40:46 - 00:40:51
+lefoglalják az eszközeimet. Nem nem
+
+00:40:48 - 00:40:53
+történt ott semmilyen fizikai atrocitás,
+
+00:40:51 - 00:40:54
+vagy bármi, vagy vagy fenyegetés,
+
+00:40:53 - 00:40:57
+ilyenekről egyáltalán nem volt szó.
+
+00:40:54 - 00:41:00
+Úgyhogy teljesen normálisan lefoglalták.
+
+00:40:57 - 00:41:02
+Ez eltartott egy néhány óráig. Utána
+
+00:41:00 - 00:41:04
+jegyzőkönyvet készítettek, ahol ugye
+
+00:41:02 - 00:41:07
+nyilván én is megfogalmazhattam dolgokat
+
+00:41:04 - 00:41:12
+a jegyzőkönyvvel kapcsolatban.
+
+00:41:07 - 00:41:12
+Becsomagolták a lefoglalt eszközöket.
+
+00:41:12 - 00:41:17
+És hát ja, igazából utána elmentek
+
+00:41:14 - 00:41:19
+>> a Szabó Bencével, a századossal, aki a
+
+00:41:17 - 00:41:21
+videóinterjút is adta direkt 36-nak vele
+
+00:41:19 - 00:41:22
+találkoztál bármikor az eljárás során?
+
+00:41:21 - 00:41:23
+>> Nem, és azóta sem.
+
+00:41:22 - 00:41:25
+>> Mit szóltak ehhez az egészhez akkor a
+
+00:41:23 - 00:41:27
+Tiszában?
+
+00:41:25 - 00:41:29
+Kaptál-e bármilyen segítséget a párttól
+
+00:41:27 - 00:41:33
+ebben az időszakban? Hát nyilván a
+
+00:41:29 - 00:41:35
+Tiszapártnál ez azért meg voltak lepődve
+
+00:41:33 - 00:41:37
+és volt kaptam kaptam ezzel
+
+00:41:35 - 00:41:40
+kapcsolatosan segítséget, de hogy most
+
+00:41:37 - 00:41:41
+ott konkrétan mikről beszéltünk, abba
+
+00:41:40 - 00:41:41
+most nem szeretnék olyan mélyen
+
+00:41:41 - 00:41:43
+belemenni.
+
+00:41:41 - 00:41:45
+>> Az AHF igazgatójának a lebre szerint a
+
+00:41:43 - 00:41:47
+rendőrség az most engedékköteles hadi
+
+00:41:45 - 00:41:49
+technikai eszközök gyártásával gyanúsít
+
+00:41:47 - 00:41:51
+téged. Hogyan áll ez az eljárás? Ö hát
+
+00:41:49 - 00:41:55
+igazából úgy jár az eljárás, hogy az
+
+00:41:51 - 00:41:58
+elsőkuttatás során ö ugye a BHÁánál
+
+00:41:55 - 00:41:59
+lefoglalták ezt a ezt a kamerasövet
+
+00:41:58 - 00:42:02
+és
+
+00:41:59 - 00:42:04
+és ugye ha jól emlékszem december 11-én
+
+00:42:02 - 00:42:06
+vagy 13-án
+
+00:42:04 - 00:42:08
+25-ben akkor jött a második házkutatás,
+
+00:42:06 - 00:42:09
+ahol már nem csak kijöttek és
+
+00:42:08 - 00:42:12
+lefoglaltak mindent, hanem meg is
+
+00:42:09 - 00:42:14
+gyanúsítottak és ugye az áll a vádban,
+
+00:42:12 - 00:42:16
+hogy ez egy
+
+00:42:14 - 00:42:17
+ez ez egy engedélyköteles haditechnikai
+
+00:42:16 - 00:42:20
+eszköz, titkosszolgálati eszköz ezen
+
+00:42:17 - 00:42:22
+belül, illetve, hogy az is egy
+
+00:42:20 - 00:42:23
+megalapozott gyanú, hogy mivel én úgy
+
+00:42:22 - 00:42:25
+fog hivatkozok egy hangfelvételen erre
+
+00:42:23 - 00:42:28
+az eszközre, hogy ez egy prototípus,
+
+00:42:25 - 00:42:30
+ezért megalapozott a gyanú, hogy én több
+
+00:42:28 - 00:42:31
+ilyen eszközt is tervezek gyártani,
+
+00:42:30 - 00:42:33
+elkészíteni.
+
+00:42:31 - 00:42:37
+>> Visszatérve még erre a a az eredeti
+
+00:42:33 - 00:42:37
+vádra, vagy hát gyanúsításra
+
+00:42:38 - 00:42:42
+a gyermekpnográfételek
+
+00:42:41 - 00:42:45
+szóval ez egy nagyon súlyos vád.
+
+00:42:42 - 00:42:46
+Megijedtél ettől, vagy hogyan kezelted
+
+00:42:45 - 00:42:49
+ezt?
+
+00:42:46 - 00:42:51
+Meg is ijedtem, de ugyanakkor inkább
+
+00:42:49 - 00:42:54
+csak egy nagyon hát ilyen nagyon rossz
+
+00:42:51 - 00:42:57
+és nagyon nyomasztó érzés ült bennem,
+
+00:42:54 - 00:42:59
+mert mertogy egy ilyen ilyen tényleg egy
+
+00:42:57 - 00:43:01
+olyan olyan dologgal, ami egy az ember
+
+00:42:59 - 00:43:02
+életét tönkreteheti, hogyha ezzel az egy
+
+00:43:01 - 00:43:04
+egész életre tönkre lehet ezzel valakit
+
+00:43:02 - 00:43:06
+tenni, és hogy egy ilyennel ilyennel
+
+00:43:04 - 00:43:09
+vádolnak.
+
+00:43:06 - 00:43:12
+Ez hát ez ez nagyon-nagyon nyomasztó
+
+00:43:09 - 00:43:14
+volt. És hát volt olyan pillanat, amikor
+
+00:43:12 - 00:43:16
+úgy éreztem, hogy gyakorlatilag ennyi
+
+00:43:14 - 00:43:18
+volt. Nekem most már nincs semmi remény
+
+00:43:16 - 00:43:20
+abban, hogy bármit is az életbe
+
+00:43:18 - 00:43:23
+elérhetek, mert mert még hogyha ugye le
+
+00:43:20 - 00:43:24
+is mosom magamról ezt a ezt a kamu hazug
+
+00:43:23 - 00:43:26
+vádat, akkor is ugye ott lesz, hogy
+
+00:43:24 - 00:43:26
+egyszerre én belekeveredtem egy ilyen
+
+00:43:26 - 00:43:28
+ügybe.
+
+00:43:26 - 00:43:30
+>> Tehát ezután történt az, hogy
+
+00:43:28 - 00:43:33
+meghallgatott téged az AHA, ahol ahol
+
+00:43:30 - 00:43:36
+ugye dezinformáciával készültél fel.
+
+00:43:33 - 00:43:37
+Ugye most azt látjuk ebben a az
+
+00:43:36 - 00:43:40
+interjúban, hogy te nagyon tudatosan
+
+00:43:37 - 00:43:42
+reagálsz egy beszervezési kísérletre és
+
+00:43:40 - 00:43:46
+egy áhás meghallgatásra is tudatos
+
+00:43:42 - 00:43:47
+dezinformációval készülsz fel.
+
+00:43:46 - 00:43:49
+Azt hiszem, hogy a nézők számára nehezen
+
+00:43:47 - 00:43:51
+lehet érthető, hogy egy egyszerű magyar
+
+00:43:49 - 00:43:53
+10éves az az hogyan viselkedik ilyen
+
+00:43:51 - 00:43:56
+tulatosan ezekben a helyzetekben.
+
+00:43:53 - 00:43:58
+Biztosan nincs semmilyen képzettséged
+
+00:43:56 - 00:44:00
+ezzel kapcsolatban? képzettségem az
+
+00:43:58 - 00:44:02
+nincsen. Ugyanakkor
+
+00:44:00 - 00:44:04
+én én egy ilyen szempontból egy kicsit
+
+00:44:02 - 00:44:06
+furcsa ember vagyok, mert mind a reál,
+
+00:44:04 - 00:44:09
+mind a humán tárgyak mindig is
+
+00:44:06 - 00:44:12
+érdekeltek. Leginkább a a történelem,
+
+00:44:09 - 00:44:14
+illetve a vitakultúra. És hát több
+
+00:44:12 - 00:44:16
+könyvet olvastam ezzel kapcsolatban,
+
+00:44:14 - 00:44:18
+illetve titkosszolgálatokkal kapcsolatos
+
+00:44:16 - 00:44:23
+könyveket vagy szereplőket is követtem.
+
+00:44:18 - 00:44:25
+Például John Kiriáku volt Cés ügynök, és
+
+00:44:23 - 00:44:30
+és hát nyilván van azért egy ilyen
+
+00:44:25 - 00:44:33
+tudásom, hogy hogy tudjak érvelni
+
+00:44:30 - 00:44:34
+és megfelelően ezt előadni. Meg korábban
+
+00:44:33 - 00:44:36
+voltam politikai vitaversenyen is,
+
+00:44:34 - 00:44:38
+országos politikai vitaversenyen, és
+
+00:44:36 - 00:44:40
+ahol ahol a csapatommal első helyet
+
+00:44:38 - 00:44:41
+értünk el. Tehát
+
+00:44:40 - 00:44:43
+nekem mindig is volt egy ilyen
+
+00:44:41 - 00:44:45
+érdeklődésem a vitakultúrával
+
+00:44:43 - 00:44:48
+kapcsolatban, úgyhogy ez ez nem kell egy
+
+00:44:45 - 00:44:50
+titkosszolgálati tudás. Ezek ezek olyan
+
+00:44:48 - 00:44:51
+pszichológiai dolgok meg olyan retorikai
+
+00:44:50 - 00:44:53
+dolgok, amiket egyébként bárki meg tud
+
+00:44:51 - 00:44:55
+tanulni online is. Nem kell nem
+
+00:44:53 - 00:44:57
+feltétlen kell. Hát nyilván a magasabb
+
+00:44:55 - 00:45:00
+szinthez, amit mondjuk a az AH-s
+
+00:44:57 - 00:45:02
+szakemberek tudnak, az ahhoz már kell,
+
+00:45:00 - 00:45:05
+de ez nem nem egy ilyen magas szint.
+
+00:45:02 - 00:45:08
+>> De azért mégis tudatosan hazudni a az
+
+00:45:05 - 00:45:10
+alkotmányvédelmi hivatalnak
+
+00:45:08 - 00:45:12
+tehát azért ez mégis csak egy nagy
+
+00:45:10 - 00:45:15
+falat, vagy nem is tudom, hogyan érzed
+
+00:45:12 - 00:45:17
+magad ezzel kapcsolatban? Hát én úgy úgy
+
+00:45:15 - 00:45:19
+érzem egyébként, hogy hogy nem volt
+
+00:45:17 - 00:45:23
+azért ez akkora nagy falat, mert azt
+
+00:45:19 - 00:45:24
+láttam, hogy hogy ezeket az embereket,
+
+00:45:23 - 00:45:28
+bár ők nem tudom, hogy ezt tudatosan, de
+
+00:45:24 - 00:45:29
+de a az AH-n belül a a politikai
+
+00:45:28 - 00:45:31
+komisszári azok gyakorlatilag meg
+
+00:45:29 - 00:45:32
+megbízták azzal, hogy mindenképp
+
+00:45:31 - 00:45:34
+találjanak
+
+00:45:32 - 00:45:37
+valamit rólam. Tehát azzal, hogy én
+
+00:45:34 - 00:45:39
+eltettem őket, azzal gyakorlatilag
+
+00:45:37 - 00:45:41
+hát nincs okuk arra, hogy mondjuk sokkal
+
+00:45:39 - 00:45:42
+inkább belekérdezzenek, vagy sokkal
+
+00:45:41 - 00:45:45
+nagyobb. Hát persze nyilván nyomást
+
+00:45:42 - 00:45:47
+helyeztek rám, és nincs nincs ok arra,
+
+00:45:45 - 00:45:48
+hogy egyébként olyan olyan olyan nyomást
+
+00:45:47 - 00:45:50
+helyezzenek rám, mert gyakorlatilag az
+
+00:45:48 - 00:45:53
+úgymond az ő érdeküket szolgálom,
+
+00:45:50 - 00:45:58
+legalábbis úgy tűnik, és és őszintének
+
+00:45:53 - 00:46:00
+tűnök ezen a ezen a kihallgatáson.
+
+00:45:58 - 00:46:02
+És mivel ez kicsit olyan helyzet, hogy
+
+00:46:00 - 00:46:04
+mint amikor azt akarja hallani egy egy
+
+00:46:02 - 00:46:05
+vezető, ami ami úgymond jó neki és nem a
+
+00:46:04 - 00:46:06
+valóságot,
+
+00:46:05 - 00:46:10
+>> de most már nem ez a helyzet, ugye,
+
+00:46:06 - 00:46:13
+hiszen bevallottad, hogy
+
+00:46:10 - 00:46:15
+hogy tudatosan félrevezetted őket. Mire
+
+00:46:13 - 00:46:17
+számítasz, mi fog most történni veled?
+
+00:46:15 - 00:46:19
+Hát én számítok arra, hogy hogy mivel ez
+
+00:46:17 - 00:46:21
+egy olyan kényesügy, úgy látszik a az
+
+00:46:19 - 00:46:23
+állampárt számára, hogy minden eszközt
+
+00:46:21 - 00:46:24
+bevetnek, ugye aktív nyomozás részleteit
+
+00:46:23 - 00:46:26
+is
+
+00:46:24 - 00:46:29
+közlik,
+
+00:46:26 - 00:46:31
+meg nyilván más ügyekben már előfordult,
+
+00:46:29 - 00:46:35
+hogy tényleg teljes hazugság kampányokat
+
+00:46:31 - 00:46:37
+indítanak. Itt van például ugye a a az
+
+00:46:35 - 00:46:39
+az ukrán
+
+00:46:37 - 00:46:40
+hamis zászlós művelet, vagy vagy ahogy
+
+00:46:39 - 00:46:42
+egyes
+
+00:46:40 - 00:46:43
+egyes egyesek fogalmaznának, idegen
+
+00:46:42 - 00:46:44
+zászlós művelet, amit amit
+
+00:46:43 - 00:46:47
+végrehajtottak. Én azt gondolom, hogy az
+
+00:46:44 - 00:46:49
+állampárt bármire képes, és
+
+00:46:47 - 00:46:51
+nyilvánvalóan meg fogják próbálni
+
+00:46:49 - 00:46:53
+diszkreditálni mindazt, amit én mondok.
+
+00:46:51 - 00:46:55
+Olyan információk is eljutottak hozzám
+
+00:46:53 - 00:46:59
+egyébként, hogy már megkeresték a
+
+00:46:55 - 00:47:01
+ismerőseimet, akik meg barátaimat, és és
+
+00:46:59 - 00:47:03
+ugye megpróbálják őket esetleg arra
+
+00:47:01 - 00:47:05
+bírni, hogy hogy tud tudna tudnak-e
+
+00:47:03 - 00:47:07
+rólam mondani valamit, ami ami rám a
+
+00:47:05 - 00:47:09
+nyilvánosságban ugye negatív negatív
+
+00:47:07 - 00:47:10
+lenne, vagy esetleg akár arra is
+
+00:47:09 - 00:47:13
+vállalkoznának, hogy mondjuk hazudjanak
+
+00:47:10 - 00:47:16
+rólam ilyen ilyen dolgokat? Ö erre még
+
+00:47:13 - 00:47:18
+nincsenek ö még csak egy folyam kezdeti
+
+00:47:16 - 00:47:21
+dolog, úgyhogy ebből még meglátjuk, hogy
+
+00:47:18 - 00:47:23
+mi lesz. És hát az ez az egy érdekes
+
+00:47:21 - 00:47:25
+dolog, hogy egyébként ugye nem cáfolta
+
+00:47:23 - 00:47:26
+eddig a az állampárt azt, hogy hogy
+
+00:47:25 - 00:47:28
+gyakorlatilag
+
+00:47:26 - 00:47:30
+állami titkosszolgálati eszközöket
+
+00:47:28 - 00:47:33
+használtak arra, hogy a Tiszapártot
+
+00:47:30 - 00:47:35
+megpróbálják bedönteni. Szerintem a
+
+00:47:33 - 00:47:36
+kormánykommunikációnak érdeke lenne az,
+
+00:47:35 - 00:47:39
+hogy ezt egyébként megpróbálja
+
+00:47:36 - 00:47:41
+megcáfolni, és de úgy látszik, hogy nem
+
+00:47:39 - 00:47:43
+nagyon a recáfolat. Gondolom most is
+
+00:47:41 - 00:47:44
+dolgoznak azon, hogy valami orbitális
+
+00:47:43 - 00:47:45
+nagy hazugságot kitaláljanak ezzel
+
+00:47:44 - 00:47:48
+kapcsolatban.
+
+00:47:45 - 00:47:49
+>> De ugye te se tudod biztosan, hogy hogy
+
+00:47:48 - 00:47:51
+állami titkosszolgálati forrásokat erre
+
+00:47:49 - 00:47:52
+felhasználtak-e vagy sem?
+
+00:47:51 - 00:47:54
+>> Én azt gondolom, hogy valamilyen
+
+00:47:52 - 00:47:56
+szempontból mindenképp voltak
+
+00:47:54 - 00:47:59
+kapcsolatban, hogy az, hogy ez mekkora
+
+00:47:56 - 00:48:01
+szint, azt nem tudom. Én nekem az a
+
+00:47:59 - 00:48:03
+gyanúm egyébként, hogy a Henry azok egy
+
+00:48:01 - 00:48:05
+olyan szervezet, akik akár az AH-ból
+
+00:48:03 - 00:48:08
+vagy más titkos szolgálatokból kibukott
+
+00:48:05 - 00:48:09
+olyan emberek, akik mondjuk nem feleltek
+
+00:48:08 - 00:48:12
+meg teljesen minden követelménynek, vagy
+
+00:48:09 - 00:48:15
+esetleg zsarolhatóak valamivel, és az
+
+00:48:12 - 00:48:18
+ilyen az ilyen mocskos dolgokat velük
+
+00:48:15 - 00:48:21
+intéztetik el, vagy akár együttműködnek
+
+00:48:18 - 00:48:22
+valami külföldi magántitkoszolgálati
+
+00:48:21 - 00:48:23
+szervvel.
+
+00:48:22 - 00:48:25
+>> Henrivel, mikor szakadt meg pontosan a
+
+00:48:23 - 00:48:27
+kapcsolatod? Ha jól emlékszem, július
+
+00:48:25 - 00:48:30
+3-án szakadt meg a kapcsolat, tehát két
+
+00:48:27 - 00:48:32
+nappal az NMHs bejelentés után.
+
+00:48:30 - 00:48:35
+Ez azért is érdekes, mert Henryvel
+
+00:48:32 - 00:48:36
+egyébként szinte minden egyes nap volt
+
+00:48:35 - 00:48:39
+kapcsolat, hogyha mondjuk én nem is
+
+00:48:36 - 00:48:41
+írtam neki, akkor ő mindig presszionált,
+
+00:48:39 - 00:48:42
+hogy na mondjak már valamit, hogy mi a
+
+00:48:41 - 00:48:43
+helyzet.
+
+00:48:42 - 00:48:45
+És az, hogy egy ilyen, tehát akkor egy
+
+00:48:43 - 00:48:48
+az egy négy-öt napra megszakadt a
+
+00:48:45 - 00:48:49
+kapcsolat, az már önmagában gyanús volt,
+
+00:48:48 - 00:48:51
+és nagyjából úgy szakadt meg a
+
+00:48:49 - 00:48:53
+kapcsolat, hogy akkor rámbízott valami
+
+00:48:51 - 00:48:55
+feladatot, hogy valakiről szerezzek neki
+
+00:48:53 - 00:48:56
+információkat.
+
+00:48:55 - 00:48:58
+És akkor nyilván átadtam olyan
+
+00:48:56 - 00:49:01
+információkat, amik amúgy a párt
+
+00:48:58 - 00:49:03
+szempontjából is nem voltak problémásak.
+
+00:49:01 - 00:49:05
+Ö meg nem derült ki olyan új dolog, ami
+
+00:49:03 - 00:49:08
+ami mondjuk ténylegesen érdemben tudná
+
+00:49:05 - 00:49:09
+használni a Harry a párt ellen. Ölletve
+
+00:49:08 - 00:49:11
+volt korábban egy másik feladat, amit
+
+00:49:09 - 00:49:14
+adott, és akkor mondtam, hogy akkor ezt
+
+00:49:11 - 00:49:15
+a feladatot megkezdem végbevinni.
+
+00:49:14 - 00:49:17
+azonban mondta, hogy hát hát ez már nem
+
+00:49:15 - 00:49:18
+kell foglalkozni, nem annyira lényeges,
+
+00:49:17 - 00:49:20
+ami ami szintén furcsa volt, mert ilyen
+
+00:49:18 - 00:49:23
+ilyen soha nem volt. Ez arra enged
+
+00:49:20 - 00:49:24
+következtetni, hogy ekkora már a Harry
+
+00:49:23 - 00:49:27
+is tudta, vagy legalábbis a felettesei
+
+00:49:24 - 00:49:30
+tudták, hogy ugye valójában én átvertem
+
+00:49:27 - 00:49:32
+őket, vagy hát mi átvertük őket, és hogy
+
+00:49:30 - 00:49:34
+emiatt már nem is akarnak így feladatot
+
+00:49:32 - 00:49:35
+adni nekem, de azért még fenntartják a
+
+00:49:34 - 00:49:38
+látszatot.
+
+00:49:35 - 00:49:41
+>> Szóval a te értelmezésed szerint mi
+
+00:49:38 - 00:49:44
+történt veled ebben a ebben a
+
+00:49:41 - 00:49:46
+történetben? Mi mi ez az mi ez az egész?
+
+00:49:44 - 00:49:48
+>> Hát röviden összefoglalva azt gondolom,
+
+00:49:46 - 00:49:51
+hogy hogy a Harryék azt mérték fel, hogy
+
+00:49:48 - 00:49:54
+egy gyenge, könnyen behálózható, fiatal,
+
+00:49:51 - 00:49:56
+tapasztalatlan informatikussal van
+
+00:49:54 - 00:49:58
+dolguk, akik akinek adott esetben vannak
+
+00:49:56 - 00:50:00
+olyan hozzáférési lehetőségei, amiket
+
+00:49:58 - 00:50:01
+mondjuk
+
+00:50:00 - 00:50:04
+egy így olcsóbban, mint mondjuk egy
+
+00:50:01 - 00:50:06
+kémprogrammal be tudnak szerezni.
+
+00:50:04 - 00:50:11
+És hogy én nem fogok ellenállni a a
+
+00:50:06 - 00:50:13
+pressziónak, ezt ezt rosszul mérték föl.
+
+00:50:11 - 00:50:17
+És hát gyakorlatilag belebuktak ebbe a
+
+00:50:13 - 00:50:19
+dologba. Most pedig ugye a
+
+00:50:17 - 00:50:21
+nyilván zajlik ez a ez az eljárás
+
+00:50:19 - 00:50:24
+ellenünk, amivel továbbra is próbálnak
+
+00:50:21 - 00:50:25
+megtörni, és
+
+00:50:24 - 00:50:27
+erről ebbe most nem szeretnék milyen
+
+00:50:25 - 00:50:30
+belemenni, de hogy arra is arra is
+
+00:50:27 - 00:50:32
+hogyha vannak jelek, hogy egyébként a az
+
+00:50:30 - 00:50:33
+időközben amíg tartott ez az eljárás és
+
+00:50:32 - 00:50:36
+mondjuk még nem volt meg a második
+
+00:50:33 - 00:50:37
+házkutatás, akkor szerették volna azt,
+
+00:50:36 - 00:50:39
+hogy gyakorlatilag egy még egy
+
+00:50:37 - 00:50:42
+próbálkozás azzal kapcsolatban, hogy
+
+00:50:39 - 00:50:43
+hogy mégis csak átállaljak hozzájuk
+
+00:50:42 - 00:50:44
+valamilyen formában. Ez mely milyen
+
+00:50:43 - 00:50:45
+időszakban történt ez, amit most az
+
+00:50:44 - 00:50:50
+előbb mondtál, ami
+
+00:50:45 - 00:50:51
+>> ez ez a ez a a az ahs kihallgatás és a
+
+00:50:50 - 00:50:53
+második házkutatás között.
+
+00:50:51 - 00:50:54
+>> És akkor nem Henry keresett meg, hanem
+
+00:50:53 - 00:50:57
+valaki más.
+
+00:50:54 - 00:50:58
+>> Nem a Henry keresett meg, vagy hát én
+
+00:50:57 - 00:51:00
+azt gondolom, hogy nem a Harry, de hogy
+
+00:50:58 - 00:51:02
+mindenképp a Harryékhez van köze.
+
+00:51:00 - 00:51:04
+>> És miljelek utaltak arra, hogy ez ez egy
+
+00:51:02 - 00:51:05
+újabb beszervezési kísérlet?
+
+00:51:04 - 00:51:07
+>> Ezt majd lehet, hogy később fogom
+
+00:51:05 - 00:51:09
+kifejteni egy másik interjú során.
+
+00:51:07 - 00:51:11
+>> Értem. És azt el tudod mondani, hogy
+
+00:51:09 - 00:51:14
+hogy a amikor azt mondod, hogy hogy
+
+00:51:11 - 00:51:16
+álljak át, akkor az az hova kellene
+
+00:51:14 - 00:51:19
+átállni? Ö hát tulajdonképpen ugye a
+
+00:51:16 - 00:51:21
+Henrik oldalára, hogyha nem is nem is
+
+00:51:19 - 00:51:23
+az, hogy hogy mondjuk én bármit csinálok
+
+00:51:21 - 00:51:26
+nekik, de legalább annyit, hogy hogy
+
+00:51:23 - 00:51:28
+ezzel az egész üggyel kapcsolatban ugye
+
+00:51:26 - 00:51:30
+ne legyen semmilyen nyilvánosságra
+
+00:51:28 - 00:51:33
+hozatal, mert nyilván amikor ez a
+
+00:51:30 - 00:51:34
+megtörtént ez az első házkutatás, akkor
+
+00:51:33 - 00:51:35
+volt volt ilyenről szó, amit adott
+
+00:51:34 - 00:51:37
+esetben egy lehallgatás során
+
+00:51:35 - 00:51:39
+megtudhattak, hogy hogy ezzel mi
+
+00:51:37 - 00:51:41
+nyilvánosság elé állnánk, és
+
+00:51:39 - 00:51:42
+valószínűleg arról akartak ugye leszedni
+
+00:51:41 - 00:51:44
+minket, hogy mi ezt ne tegyük meg. hogy
+
+00:51:42 - 00:51:47
+most röviden összefoglaltad azt, hogy a
+
+00:51:44 - 00:51:49
+te értelmezésed szerint mi történt veled
+
+00:51:47 - 00:51:50
+ebben az időszakban. Mi az, ami ebből
+
+00:51:49 - 00:51:52
+ebből bizonyítható, és mi az, ami a te
+
+00:51:50 - 00:51:55
+következtetésed?
+
+00:51:52 - 00:51:58
+Hát én azt gondolom, hogy az, hogy Szabó
+
+00:51:55 - 00:52:00
+Bence így kiállt névvel, arccal és a
+
+00:51:58 - 00:52:03
+gyakorlatilag az egész karrierjét meg az
+
+00:52:00 - 00:52:05
+egész jövőjét kockára tette, én azt
+
+00:52:03 - 00:52:08
+gondolom, hogy hogy
+
+00:52:05 - 00:52:10
+hogy megalapozott ez az egész, hogy itt
+
+00:52:08 - 00:52:12
+egy olyan titkosszolgálati akció
+
+00:52:10 - 00:52:15
+történt, amihez legalábbis asszisztált
+
+00:52:12 - 00:52:17
+vagy vagy elsíklott a figyelme a a
+
+00:52:15 - 00:52:20
+magyar államnak
+
+00:52:17 - 00:52:23
+efölött. Ö mégpedig azért, mert mert nem
+
+00:52:20 - 00:52:25
+hiszem, hogy Szabó Bence azért, tehát
+
+00:52:23 - 00:52:27
+hogy így oktalanul állt volna ki.
+
+00:52:25 - 00:52:29
+I illetve az is ugye igazolja ezt az
+
+00:52:27 - 00:52:32
+egész dolgot, hogy hogy ugye nyilván
+
+00:52:29 - 00:52:34
+ezek ezek a beszélgetések, illetve az
+
+00:52:32 - 00:52:36
+AH-s beszélgetés, vagy hát ugye a
+
+00:52:34 - 00:52:38
+TOON-nak a beszélgetései, amik amik ugye
+
+00:52:36 - 00:52:40
+azelőtt történtek, hogy a AH bármilyen
+
+00:52:38 - 00:52:43
+kapcsolatba lépett volna velünk
+
+00:52:40 - 00:52:45
+hivatalosan, azok ugye megvannak eredeti
+
+00:52:43 - 00:52:47
+formájukban a lefoglalt eszközökön.
+
+00:52:45 - 00:52:49
+Tehát a a rendőrségnél, az
+
+00:52:47 - 00:52:50
+alkotmánvédelmi hivatalnál, és én azt
+
+00:52:49 - 00:52:53
+tanácsolom nekik, hogy ne is próbálják
+
+00:52:50 - 00:52:55
+meg ezeket a bizonyítékokat eltüntetni.
+
+00:52:53 - 00:52:58
+Van-e bármi, amit utólag máshogy
+
+00:52:55 - 00:52:58
+csinálnál?
+
+00:52:59 - 00:53:03
+Hát nekem azért elég jelentősen
+
+00:53:01 - 00:53:05
+tönkretette el az életemet ez az egész
+
+00:53:03 - 00:53:07
+ügy. Én alapvetően nem terveztem azt,
+
+00:53:05 - 00:53:12
+hogy egy ilyen
+
+00:53:07 - 00:53:14
+beszervezési kísérletbe belekeveredek
+
+00:53:12 - 00:53:16
+és
+
+00:53:14 - 00:53:18
+és ilyenekbe részt veszek. Én, hogyha
+
+00:53:16 - 00:53:21
+másként csinálni adtam volna valamit,
+
+00:53:18 - 00:53:23
+akkor az az lett volna, hogy hogy nem
+
+00:53:21 - 00:53:25
+próbálok mondjuk olyan dolgoknak is
+
+00:53:23 - 00:53:28
+utánamenni így a Tiszapárt környékén,
+
+00:53:25 - 00:53:30
+ami aminek ilyen titkosszolgálati
+
+00:53:28 - 00:53:34
+vonulatai vannak. Ezek ezekkel nem
+
+00:53:30 - 00:53:36
+nyomoztam volna ezek után és kimaradtam
+
+00:53:34 - 00:53:38
+volna, és inkább csendben maradtam volna
+
+00:53:36 - 00:53:39
+sok mindennel kapcsolatban, ami végül
+
+00:53:38 - 00:53:40
+ahhoz vezetett, hogy hogy ezeket nem
+
+00:53:39 - 00:53:43
+tettem meg, hogy ugye a Henryék
+
+00:53:40 - 00:53:47
+megpróbáltak beszervezni. Ugye még egy
+
+00:53:43 - 00:53:51
+pillanatra visszatérve a a Theóra, a aki
+
+00:53:47 - 00:53:54
+ugye az a magát ahásnak mondó valaki,
+
+00:53:51 - 00:53:58
+aki megkeresett benneteket a házkutat a
+
+00:53:54 - 00:54:00
+az elsően is akció után, ugye
+
+00:53:58 - 00:54:01
+róla a Szabó Bence, hogyhogy nem
+
+00:54:00 - 00:54:04
+beszélt, hogyha ott vannak azok a
+
+00:54:01 - 00:54:06
+bizonyítékok a a az eszközökön,
+
+00:54:04 - 00:54:07
+>> mert hát ugye Szabó Bence, ha jól
+
+00:54:06 - 00:54:09
+emlékszem, elsősorban arról beszélt,
+
+00:54:07 - 00:54:11
+hogy ő az első
+
+00:54:09 - 00:54:13
+első nyomozásra látott rá leginkább.
+
+00:54:11 - 00:54:15
+másodikra már nem. Ugye ez a második
+
+00:54:13 - 00:54:16
+házutatás során került lefoglalásra
+
+00:54:15 - 00:54:17
+decemberben.
+
+00:54:16 - 00:54:20
+>> Nem tudom, hogy ezzel mennyit
+
+00:54:17 - 00:54:21
+foglalkoztak azóta.
+
+00:54:20 - 00:54:23
+És
+
+00:54:21 - 00:54:26
+nem emlékszem pontosan, hogy ott volt-e
+
+00:54:23 - 00:54:29
+olyan eszköz, ami esetleg fel van oldva
+
+00:54:26 - 00:54:30
+vagy vagy mindegyik eszköz, ami ezekkel
+
+00:54:29 - 00:54:33
+rajta van nincs feloldva, adott esetben
+
+00:54:30 - 00:54:35
+ezeket fel tudjuk oldani. De egyébként a
+
+00:54:33 - 00:54:37
+TEUs beszélgetéseket
+
+00:54:35 - 00:54:39
+korábban, mígmi megkeresett volna minket
+
+00:54:37 - 00:54:42
+az alkotmányvédelmi hivatal, meg ugye
+
+00:54:39 - 00:54:44
+közben közben is zajlott a beszélgetés,
+
+00:54:42 - 00:54:46
+aközben mi már átadtuk ugye több
+
+00:54:44 - 00:54:48
+embernek is így a Tiszapárton belül is,
+
+00:54:46 - 00:54:51
+tehát ők tudnak tanulskodni arról, hogy
+
+00:54:48 - 00:54:54
+ezek a beszélgetések megtörténtek. Ugye
+
+00:54:51 - 00:54:55
+ebben a történetben végig
+
+00:54:54 - 00:54:57
+tehát nem vagy egyedül abból a
+
+00:54:55 - 00:54:59
+szempontból, hogy ugye egyeztetsz
+
+00:54:57 - 00:55:01
+például a Budhával, illetve a
+
+00:54:59 - 00:55:03
+Tiszapárttal is valamilyen szinten
+
+00:55:01 - 00:55:06
+arról, hogy mi mi a mi a következő
+
+00:55:03 - 00:55:08
+lépés, mi a stratégia
+
+00:55:06 - 00:55:12
+például a Henry való kommunikációban.
+
+00:55:08 - 00:55:14
+Ezt a azt a döntést, hogy az AH-t
+
+00:55:12 - 00:55:16
+dezinformálod, azt egyedül hoztad meg,
+
+00:55:14 - 00:55:18
+vagy vagy valakivel közösen?
+
+00:55:16 - 00:55:20
+>> Azt azt egyedül hoztam meg. Egy olyan
+
+00:55:18 - 00:55:23
+újről beszélünk most, ami a az első
+
+00:55:20 - 00:55:26
+számú közérti téma és a magyar államnak
+
+00:55:23 - 00:55:29
+a az intézményeivel szembeni alapvető
+
+00:55:26 - 00:55:30
+bizalomról is van szó.
+
+00:55:29 - 00:55:33
+Te most azt mondod, hogy tudatosan
+
+00:55:30 - 00:55:36
+félrevezetted őket. De meg kell
+
+00:55:33 - 00:55:38
+kérdeznünk,
+
+00:55:36 - 00:55:40
+hogy itt most mindenben igazat mondtál,
+
+00:55:38 - 00:55:42
+érzékelve, hogy hogy mekkora súlya van
+
+00:55:40 - 00:55:44
+ennek.
+
+00:55:42 - 00:55:45
+Nyilván ezt meg kell kérdezni, és én
+
+00:55:44 - 00:55:49
+vállalni is fogom a számonkérést akár
+
+00:55:45 - 00:55:51
+mondjuk egy másik műsorban is, illetve
+
+00:55:49 - 00:55:53
+vállalom ugye további poligráfos
+
+00:55:51 - 00:55:55
+vizsgálatokat. A az Alhán egyébként
+
+00:55:53 - 00:55:57
+elhangzott, amikor ugye felajánlották a
+
+00:55:55 - 00:56:00
+poligráf lehetőségét. nem
+
+00:55:57 - 00:56:04
+kényszerítettek egyébként a poligráfra.
+
+00:56:00 - 00:56:06
+ö nem volt kötelező elfogadnom, ö hogy
+
+00:56:04 - 00:56:08
+tehát vállalom a további poligráfot, és
+
+00:56:06 - 00:56:12
+azt mondták, hogy egyébként az ő
+
+00:56:08 - 00:56:14
+meglátásuk szerint a poligráf az 99%-ban
+
+00:56:12 - 00:56:16
+biztos, tehát hogy hogy megá
+
+00:56:14 - 00:56:17
+>> ezt ők mondták egyébként, hogyha
+
+00:56:16 - 00:56:18
+nyilvánosságra hoznák az egész
+
+00:56:17 - 00:56:21
+felvételt, amit ugye nagyon szépen,
+
+00:56:18 - 00:56:24
+nagyon profin megvágattak
+
+00:56:21 - 00:56:25
+a a politikai komisszárijaik,
+
+00:56:24 - 00:56:27
+akkor ugye ez is benne kéne, hogy
+
+00:56:25 - 00:56:29
+legyen, mert ez a végén hangzik el. Még
+
+00:56:27 - 00:56:30
+azt is hozzátenném ehhez, hogy amikor a
+
+00:56:29 - 00:56:32
+ugye itt közölték velem ezt az
+
+00:56:30 - 00:56:34
+államtitkos dolgot, akkor érdekes módon
+
+00:56:32 - 00:56:37
+semmilyen titoktartási papírt nem
+
+00:56:34 - 00:56:38
+irattak alá velem. Amit aláítak velem,
+
+00:56:37 - 00:56:40
+az
+
+00:56:38 - 00:56:42
+az egy az ugye poligráffal kapcsolatos
+
+00:56:40 - 00:56:44
+papír, amin igazából a poligráffal
+
+00:56:42 - 00:56:46
+kapcsolatban vagy alávettem magam,
+
+00:56:44 - 00:56:47
+önkénteszem, nem vagyok kényszerítve,
+
+00:56:46 - 00:56:49
+ilyesmi. Volt a volt egy-két más dolog,
+
+00:56:47 - 00:56:51
+de azt lehet inkább nem mennék bele,
+
+00:56:49 - 00:56:53
+mert nem akarok mindent így felfedni
+
+00:56:51 - 00:56:54
+ezzel kapcsolatban. Lehet ezek szenzitív
+
+00:56:53 - 00:56:55
+dolgok.
+
+00:56:54 - 00:56:58
+De hát ugye ők maguk mondták, hogy a
+
+00:56:55 - 00:57:01
+poligráf az 99%-ban biztos, úgyhogy a
+
+00:56:58 - 00:57:03
+ezek ezek alapján akkor én fogom majd a
+
+00:57:01 - 00:57:06
+további poligráfiás vizsgálatokat is
+
+00:57:03 - 00:57:08
+vállalni, amennyiben az biztosítható,
+
+00:57:06 - 00:57:11
+hogy ugye ne legyenek ezek manipulálva.
+
+00:57:08 - 00:57:13
+Szerintem az első poligráfiás vizsgálat
+
+00:57:11 - 00:57:15
+legalábbis akkor nem volt manipulálva
+
+00:57:13 - 00:57:18
+>> ezen a a beszélgetésen az ahásokkal ott
+
+00:57:15 - 00:57:20
+azt mondod, hogy dezinformáltál, míg a
+
+00:57:18 - 00:57:22
+ugye a poligrafos vizsgálaton ott igazat
+
+00:57:20 - 00:57:25
+mondtál. Mind a kettőn szóba kerül ez az
+
+00:57:22 - 00:57:28
+ész nagy követség. dolog, akkor az ott
+
+00:57:25 - 00:57:30
+kibukott, hogy abban nem mondtál igazat
+
+00:57:28 - 00:57:31
+az AH-nak már akkor. Ezt jól értem?
+
+00:57:30 - 00:57:32
+>> Mármint, hogy
+
+00:57:31 - 00:57:34
+>> mert hogy azt mondta, mert hogy a a
+
+00:57:32 - 00:57:36
+beszélgetésen arról azt mondtad, hogy
+
+00:57:34 - 00:57:38
+jártál az éztkövetségén és utána a
+
+00:57:36 - 00:57:39
+poligráfus vizsgálaton erre rákérdeztő.
+
+00:57:38 - 00:57:42
+>> Igen, igen, igen. Ott az az kibukott és
+
+00:57:39 - 00:57:44
+ha jól jól emlékszem a ugye a ugye két
+
+00:57:42 - 00:57:46
+meghallgatás volt. Az első az egy ilyen
+
+00:57:44 - 00:57:48
+talán egy egy másfél órás volt, és a
+
+00:57:46 - 00:57:50
+második az ilyen három három és fél óra
+
+00:57:48 - 00:57:53
+körüli. És ugye az elsőnek a végén volt
+
+00:57:50 - 00:57:55
+a poligráf, és a második végén, egy hát
+
+00:57:53 - 00:57:58
+a második pedig már a poligráf után. És
+
+00:57:55 - 00:57:59
+akkor ott kérdezték azt, hogy hogy akkor
+
+00:57:58 - 00:58:02
+mégis miért mondtam azt, hogy én azért
+
+00:57:59 - 00:58:05
+nagykövetségen jártam ugye korábban.
+
+00:58:02 - 00:58:07
+Ekkora, amikor a második meghallgatás
+
+00:58:05 - 00:58:09
+volt, akkor ilyen taktikát váltottam egy
+
+00:58:07 - 00:58:11
+bizonyos részben, ugyanis nagyon arra
+
+00:58:09 - 00:58:13
+arrafele engedtek következteti,
+
+00:58:11 - 00:58:15
+legalábbis azt állították, hogy hogy
+
+00:58:13 - 00:58:17
+szerintük ugye engem így bepaliztak,
+
+00:58:15 - 00:58:19
+ahogy ők fogalmaztak, és és valójában
+
+00:58:17 - 00:58:21
+úgy képeztek ki egy titkosszolgálati
+
+00:58:19 - 00:58:23
+későbbi titkosszolgáati akcióra, hogy
+
+00:58:21 - 00:58:24
+hogy én arról nem tudok, és úgy voltam
+
+00:58:23 - 00:58:25
+vele, hogy megerősítem ezt a
+
+00:58:24 - 00:58:28
+narratívájukat, amit később nem tudnak
+
+00:58:25 - 00:58:30
+semmivel igazolni. Ö és eljátszottam ezt
+
+00:58:28 - 00:58:32
+a szerepet, hogy
+
+00:58:30 - 00:58:36
+hogy hogy én is így gondolom, és én is
+
+00:58:32 - 00:58:38
+így látom, erre következtetek.
+
+00:58:36 - 00:58:40
+És hogy a azért, hogy akkor megkérdezték
+
+00:58:38 - 00:58:41
+nyilván ezt az észt nagykövetséges
+
+00:58:40 - 00:58:43
+dolgot, hogy akkor miért mondtam azt
+
+00:58:41 - 00:58:44
+nekik korábban, hogy jártam, és akkor
+
+00:58:43 - 00:58:47
+elmondtam, hogy hát mert nem egészen
+
+00:58:44 - 00:58:48
+jártam ott, de hogy jártam ott, de nem
+
+00:58:47 - 00:58:51
+bent jártam ott találkoztam valakivel
+
+00:58:48 - 00:58:53
+ezzel a Rodrival, és akkor, hogy vele
+
+00:58:51 - 00:58:56
+beszélgettünk utána utána máshol.
+
+00:58:53 - 00:58:57
+egyébként azt azt láttam ezeken az alhás
+
+00:58:56 - 00:58:59
+szakembereken, hogy egyébként ők tényleg
+
+00:58:57 - 00:59:01
+profi szakemberek, és és láttam azt,
+
+00:58:59 - 00:59:03
+hogy egyébként nem egészen hiszik el ezt
+
+00:59:01 - 00:59:07
+az ilyen ezt azt a részét a dolognak,
+
+00:59:03 - 00:59:07
+hogy hogy akkor
+
+00:59:07 - 00:59:11
+ez a kapcsolattartó meg ez a maffiózó
+
+00:59:10 - 00:59:13
+ukrán Davidov meg ilyesmi, nekem úgy
+
+00:59:11 - 00:59:15
+tűnt, hogy nem egészen hiszik el, de
+
+00:59:13 - 00:59:17
+azért lejegyzetelték. És nyilván amikor
+
+00:59:15 - 00:59:20
+amikor már érezték, hogy ebből probléma
+
+00:59:17 - 00:59:22
+lesz, akkor az AHÁn belüli politikai
+
+00:59:20 - 00:59:23
+komisszárok ugye úgy döntöttek, hogy ezt
+
+00:59:22 - 00:59:26
+mégis csak akkor fel kell fel kell
+
+00:59:23 - 00:59:29
+használni az állampártnak.
+
+00:59:26 - 00:59:32
+egyébként szerintem az is az is igazolja
+
+00:59:29 - 00:59:35
+azt azt azokat az állításaimat
+
+00:59:32 - 00:59:37
+meg Szabó Bence állításait is azzal
+
+00:59:35 - 00:59:40
+kapcsolatban, hogy nem a szakmai illetve
+
+00:59:37 - 00:59:42
+nem Magyarország érdeke érvényesülnek
+
+00:59:40 - 00:59:46
+jelenleg a a titkosszolgálatokban,
+
+00:59:42 - 00:59:48
+hogy ami kibukott Szártó Péter kapcsán a
+
+00:59:46 - 00:59:50
+napokban, ugye Szártó Péter büszkén
+
+00:59:48 - 00:59:52
+vállalja, hogy ő nem védett vonalon
+
+00:59:50 - 00:59:54
+kommunikál Lavrovval, mert hogy az ő
+
+00:59:52 - 00:59:56
+véleménye felvállalható, és őt nem mond
+
+00:59:54 - 00:59:58
+semmi olyasmit, hogy hogy ami arra
+
+00:59:56 - 00:59:59
+engedn következtetni, hogy hogy az
+
+00:59:58 - 01:00:02
+mondjuk probléma lenne, tehát ő nem
+
+00:59:59 - 01:00:03
+beszélget a Lavrov problémás dolgokról.
+
+01:00:02 - 01:00:05
+Én ehhez csak annyit fűznék hozzá, hogy
+
+01:00:03 - 01:00:08
+az, hogy egy szerintem hogy egy magyar
+
+01:00:05 - 01:00:10
+külügyminiszter nem védettvonalon
+
+01:00:08 - 01:00:13
+beszélget
+
+01:00:10 - 01:00:14
+bárkivel, az önmagában nemzetbiztonsági
+
+01:00:13 - 01:00:16
+kockázat pláne, hogyha ilyen fontos
+
+01:00:14 - 01:00:19
+ügyekről beszélget, mint mint például az
+
+01:00:16 - 01:00:21
+energiabiztonság, mert egy külföldi
+
+01:00:19 - 01:00:23
+titkosszolgálatnak ez egy aranybánya,
+
+01:00:21 - 01:00:25
+aki esetleg mondjuk ellen érdekelt
+
+01:00:23 - 01:00:28
+Magyarországgal szemben. Úgyhogy,
+
+01:00:25 - 01:00:31
+úgyhogy és hogy és hogy az AH-nak vagy
+
+01:00:28 - 01:00:33
+nincs kapacitás arra, hogy egyébként
+
+01:00:31 - 01:00:36
+rábírja SAR-ot, hogy védettvonalon
+
+01:00:33 - 01:00:38
+kommunikáljon Laurval
+
+01:00:36 - 01:00:39
+vagy vagy egyszerűen nem hagyják, az
+
+01:00:38 - 01:00:41
+szerintem önmagában egy elég erős
+
+01:00:39 - 01:00:43
+bizonyíték, hogy hogy nem tud
+
+01:00:41 - 01:00:46
+érvényesülni az igazi titkosszolgálati
+
+01:00:43 - 01:00:50
+szakmaiság és a politikai érdekek. Meg
+
+01:00:46 - 01:00:51
+persze a kényelem is ö érvényesül,
+
+01:00:50 - 01:00:53
+illetve még annyit hozzátennék a
+
+01:00:51 - 01:00:55
+dolghoz, hogy biztos vagyok benne, hogy
+
+01:00:53 - 01:00:56
+előre tudtak arról, hogy ez a cikk meg
+
+01:00:55 - 01:00:58
+fog
+
+01:00:56 - 01:00:59
+el fog készülni. Talán Szabó Bencőről
+
+01:00:58 - 01:01:01
+pont nem tudtak, de arról tudtak
+
+01:00:59 - 01:01:03
+valószínűleg, hogy lesz egy ilyen cikk.
+
+01:01:01 - 01:01:05
+És biztos vagyok benne, hogy ez a Pany
+
+01:01:03 - 01:01:08
+Szabolcsos hangfelvételt, ezt azért
+
+01:01:05 - 01:01:11
+hozták ki előre ha jól emlékszem,
+
+01:01:08 - 01:01:13
+hétfőn, mert előre menekültek és
+
+01:01:11 - 01:01:15
+megpróbálták előzni ezt az egész dolgot
+
+01:01:13 - 01:01:17
+és a direkt 36-nak a cikkét. Vagy hát
+
+01:01:15 - 01:01:20
+nem magát a cikket, hanem a direkt 36-ot
+
+01:01:17 - 01:01:22
+próbálták hitelteleníteni azzal, hogy
+
+01:01:20 - 01:01:24
+hogy ugye képnek állítják be Panyu
+
+01:01:22 - 01:01:27
+Szabolcsot. A te értékelésed szerint
+
+01:01:24 - 01:01:30
+akár a karatodon kívül beszervezett
+
+01:01:27 - 01:01:32
+valaha bármilyen állam titkoszolgálata?
+
+01:01:30 - 01:01:34
+>> Nem gondolom, hogy ilyen történt volna.
+
+01:01:32 - 01:01:36
+azt mondod, hogy a a saját döntésed volt
+
+01:01:34 - 01:01:40
+az, hogy dezinformálod az ahát ezeken a
+
+01:01:36 - 01:01:41
+beszélgetéseken, és hogy erről
+
+01:01:40 - 01:01:44
+Igen. Hogy erről erről tudtak a a
+
+01:01:41 - 01:01:46
+Tiszapártban, vagy tudott erről
+
+01:01:44 - 01:01:48
+>> arról arról tudtak a
+
+01:01:46 - 01:01:51
+Tiszapártban, hogy nyilván lesz ez a ez
+
+01:01:48 - 01:01:53
+a kihallgatás, és hogy ott ugye erről a
+
+01:01:51 - 01:01:55
+nemzetbiztonsági fenyegetésről is, vagy
+
+01:01:53 - 01:01:57
+hát mondhatjuk fenyegetésnek, arról, ha
+
+01:01:55 - 01:02:00
+jól emlékszem, nem tudtak, hogy
+
+01:01:57 - 01:02:02
+kifejezetten ez a dezinformációs dolog
+
+01:02:00 - 01:02:04
+lesz. ezt a célom ezt
+
+01:02:02 - 01:02:06
+>> Magyar Péternek mennyire lesz új, ami
+
+01:02:04 - 01:02:08
+elhangzott most itt ebben az interjúben?
+
+01:02:06 - 01:02:11
+>> Szerintem az az új lesz egyébként ez a
+
+01:02:08 - 01:02:13
+ez a dezinformációs dolog, de hát azért
+
+01:02:11 - 01:02:15
+sok minden új Magyar Péternek nyilván ő
+
+01:02:13 - 01:02:18
+a kampánnyal foglalkozik, neki nem az a
+
+01:02:15 - 01:02:21
+feladata, hogy most minden ilyen
+
+01:02:18 - 01:02:25
+minden ilyen dologról folyamatosan ő
+
+01:02:21 - 01:02:28
+tudjon. Ö ez ez elképzelhető, hogy ez ez
+
+01:02:25 - 01:02:31
+új lesz neki, de ebbe én nem látok
+
+01:02:28 - 01:02:34
+problémát. És szerinted sikerült, amit
+
+01:02:31 - 01:02:35
+elterveztél, megvédeni magad?
+
+01:02:34 - 01:02:37
+>> Úgy gondolom, hogy részben sikerült.
+
+01:02:35 - 01:02:39
+Nyilván az lett volna a legjobb, hogyha
+
+01:02:37 - 01:02:41
+nem lesz ebből ekkora botrány. Én nem
+
+01:02:39 - 01:02:45
+szeretek szerepelni egyébként így
+
+01:02:41 - 01:02:46
+annyira. Nem is terveztem egyébként.
+
+01:02:45 - 01:02:48
+Nem, nem az volt a célom, hogy majd
+
+01:02:46 - 01:02:50
+akkor biztosan lesz ez a botrány, és
+
+01:02:48 - 01:02:53
+akkor majd ezzel az egész dologgal én
+
+01:02:50 - 01:02:55
+majd direkt így lejáratom ezt az egész
+
+01:02:53 - 01:02:57
+egész dolgot.
+
+01:02:55 - 01:03:00
+egyszerűen csak egy ilyen előre
+
+01:02:57 - 01:03:02
+bekészített védelmi dolog volt, hogy
+
+01:03:00 - 01:03:04
+hogyha ez megtörténik, akkor meg tudjam
+
+01:03:02 - 01:03:07
+védeni magam. És én azt egyébként nagyon
+
+01:03:04 - 01:03:08
+sajnálom, hogy hogy itt tartunk ma, hogy
+
+01:03:07 - 01:03:11
+hogy tényleg politikai komisszárok
+
+01:03:08 - 01:03:12
+irányítják a titkos szolgálatot. Ez ez
+
+01:03:11 - 01:03:15
+szerintem nagyon súlyos kérdés, amit
+
+01:03:12 - 01:03:17
+amit a amit a Tiszapártnak biztosan
+
+01:03:15 - 01:03:19
+tisztaznia kell a választások után.
+
+01:03:17 - 01:03:22
+>> Tehát akkor mindenben igazat mondtál
+
+01:03:19 - 01:03:22
+most. Igen.
+
