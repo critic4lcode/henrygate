@@ -6,6 +6,13 @@ tags: ["nmhh", "bejelentés", "ov", "ah", "nni"]
 
 Július 1-jén két párhuzamos esemény történt — amelyek a nyomozók szerint összefüggnek egymással.
 
+## A lehallgatás és a bejelentés
+
+Szabó Bence szerint július 1-én, amikor Gundalf szobájában beszélt erről a találkozóról (az övbe rejtett kamera mellett), valaki **lehallgatta ezt a beszélgetést**.[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4376)
+
+Még **aznap** érkezett egy bejelentés az NMH-hoz (Nemzeti Média- és Hírközlési Hatóság), amit **másnap** továbbítottak a rendőrségnek, és ez indította el a gyermekpornográfia miatti nyomozást.[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4384)
+ce értékelése:
+
 ## Az anonim bejelentés
 
 Az **NMHH** (Nemzeti Média- és Hírközlési Hatóság) gyermekpornográfia-bejelentő hotline-jára érkezett egy névtelen jelzés. Szövege szerint három férfi, köztük a „Gundalf" és a „Buddha" becenevűek, **övbe rejtett kamerával** akart gyerekekről pornográf felvételeket készíteni, majd ezeket „aberrált felnőtteknek" továbbadni.
@@ -37,4 +44,7 @@ Teo előrejelzései mind bekövetkeztek (a második házkutatás decemberben meg
 
 Szabó Bence:
 
-> „Valószínűleg történt lehallgatás Gundalf lakhelyén. Amikor ez elhangzik videón, még aznap érkezik egy bejelentés az NMHH-hoz, amit aztán másnap továbbítanak nekünk. Azt bizonyítottuk, hogy aki lehallgatta ezt az egész történetet, az megneszelte, hogy az övvel tulajdonképpen fel fognak tudni venni egy titkosszolgálati bevonó műveletet — és ez lehetett az az indok, amiért olyan sürgőssé vált a házkutatás."
+> „Valószínűleg történt lehallgatás Gundalf lakhelyén.  ... Aki lehallgatta ezt az egész történetet, az megneszelte, hogy az övvel tulajdonképpen fel fognak tudni venni egy titkos szolgálati bevonó műveletet, tehát egy találkozót. És ez lehetett az az indok, amiért olyan sürgőssé vált az, hogy bevonják a nemzeti nyomozóiroda egy osztályát, akik azonnal ki kell menjenek a helyszínre."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4398)
+
+> „Ez lehetett az a pillanat, amikor a szervezet számára nyilvánvaló vált, hogy Gundalf tulajdonképpen ellenük dolgozik — hogy folyamatosan tájékoztatta Buddhát, és így sikerült leleplezni őket."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4420)
+

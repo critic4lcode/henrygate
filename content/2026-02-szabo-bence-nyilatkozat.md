@@ -8,11 +8,11 @@ tags: ["szabo-bence", "nni", "nyilatkozat", "direkt36"]
 
 ## Miért lépett a nyilvánosság elé?
 
-> „Egy ideális helyzetben én nem ülnék itt. Én valószínűleg az irodámban ülnék, vagy a helyszínen lennék, és azon dolgoznék, hogy minél több gyereken tudjunk segíteni. Azonban 2025 nyarán egy olyan ügy került a nyomozóosztályhoz, ami miatt sajnos most úgy tűnik, erre sort kellett keríteni."
+> „Egy ideális helyzetben én nem ülnék itt. Én valószínűleg az irodámban ülnék, vagy a helyszínen lennék, és azon dolgoznék, hogy minél több gyereken tudjunk segíteni. Azonban 2025 nyarán egy olyan ügy került a nyomozóosztályhoz, ami miatt sajnos most úgy tűnik, erre sort kellett keríteni."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=52)
 
 Szabó Bence szerint a rendszeren belül nem maradt más lehetőség — az ügyészség tud az ügyről, de nem tesz semmit, az AH tagadja az érintettségét, a Belügyminisztériumban is tudnak róla.
 
-> „Egyik szerv sem tesz semmit, hogy kiderüljön, ki az a Henry. Akkor hova tudok én fordulni ezzel? Se szervezeten belül, se külső szervezetnél nem tudok mit kezdeni ezzel az információval, mert nekem lesz belőle problémám. Nyilván maradt csak a nyilvánosság."
+> „Egyik szerv sem tesz semmit, hogy kiderüljön, ki az a Henry. Akkor hova tudok én fordulni ezzel? Se szervezeten belül, se külső szervezetnél nem tudok mit kezdeni ezzel az információval, mert nekem lesz belőle problémám. Nyilván maradt csak a nyilvánosság."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5815)
 
 ## Az ügy jelenlegi állása (2026 február)
 
@@ -22,8 +22,8 @@ Szabó Bence szerint a rendszeren belül nem maradt más lehetőség — az ügy
 
 ## Szabó Bence várható sorsa
 
-> „Ez a felvétel azért születik meg, mert úgy gondolom, hogy azért, mert én ezeket az információkat átadtam a sajtó részére, valószínűleg minimum fegyelmi eljárást vagy méltatlansági eljárást kezdeményeznek ellenem. Rosszabb esetben valószínűleg büntetőeljárást. […] Gondolom, bármi megtörténhet."
+> „Ez a felvétel azért születik meg, mert úgy gondolom, hogy azért, mert én ezeket az információkat átadtam a sajtó részére, valószínűleg minimum fegyelmi eljárást vagy méltatlansági eljárást kezdeményeznek ellenem. Rosszabb esetben valószínűleg büntetőeljárást. […] Gondolom, bármi megtörténhet."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5882)
 
 ## A lelkiismereti döntés
 
-> „Én tudom, hogy milyen esküt tettem, amikor felszereltem, és szeretném is tartani, hogy én a hazámat szolgálom, nem pedig bizonyos emberek csoportját, mint egy párt. […] Egy magyar titkosszolgálat a magyar emberek 40%-ának képviseleti joga ellen küzd. Tulajdonképpen az emberek 40%-a ellen fordul egy magyar titkosszolgálat. Ez nem egy normális rendszer, ahol ez megtörténhet."
+> „Én tudom, hogy milyen esküt tettem, amikor felszereltem, és szeretném is tartani, hogy én a hazámat szolgálom, nem pedig bizonyos emberek csoportját, mint egy párt. […] Egy magyar titkosszolgálat a magyar emberek 40%-ának képviseleti joga ellen küzd. Tulajdonképpen az emberek 40%-a ellen fordul egy magyar titkosszolgálat. Ez nem egy normális rendszer, ahol ez megtörténhet."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5843)
