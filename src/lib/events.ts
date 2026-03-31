@@ -44,6 +44,7 @@ export function loadHomeConfig(): HomeConfig {
     title: String(data.title ?? 'Timeline'),
     subtitle: String(data.subtitle ?? ''),
     sourcesHtml: bodyHtml,
+    contributeUrl: data.contribute_url ? String(data.contribute_url) : undefined,
   };
 }
 
