@@ -46,7 +46,7 @@ Gundalf az AH-nak azt mondta, hogy védelmi kiberműveleteket végzett Ukrajna s
 
 ## A Tisza Pártnál betöltött szerep
 
-Gundalf 2024 tavaszán csatlakozott — akkor még a Talpra Magyarok mozgalomhoz. Az április 6-ai tüntetés után egy napra rálátta, hogy a párt Discord-szervert indított, és mivel korábban maga is üzemeltetett ilyeneket, önkéntesként jelentkezett. Moderátorként kezdte, majd a Discord technikai fejlesztését vezette.
+Gundalf 2024 tavaszán csatlakozott — akkor még a Talpra Magyarok mozgalomhoz. Az április 6-ai tüntetés után egy napra rá látta, hogy a párt Discord-szervert indított, és mivel korábban maga is üzemeltetett ilyeneket, önkéntesként jelentkezett. Moderátorként kezdte, majd a Discord technikai fejlesztését vezette.
 
 A párttól való távozás oka: egészségügyi problémák és Henry csapatának dezinformációs kampánya, amely szerint Gundalf külső szereplőknek szivárogtat információkat. Magyar Péter az interjú idején megerősítette: „a Gundalf nevű srácot mi tettük ki, mert azt gondoltuk, hogy ő is valakiknek dolgozik — utólag kiderült, hogy nem.”
 
