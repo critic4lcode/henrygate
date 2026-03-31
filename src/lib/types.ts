@@ -2,6 +2,7 @@ export interface HomeConfig {
   title: string;
   subtitle: string;
   sourcesHtml: string;
+  contributeUrl?: string;
 }
 
 export interface TimelineEvent {
