@@ -31,14 +31,14 @@ Ugyanezen a napon — július 1-jén — az övbe rejtett kamera **egy 77 perces
 
 > „…úgymond lebuktatni a Henryt, és a találkozójukon őt valahogy felvenni, és akkor mondta ezt a kiképzést, ami ugye több alkalom, és akkor bebiztosítani, hogy legyen egy lehetőség…"
 
-## Teo: AH-s kontakt figyelmezteti Gundalfot
+## Theo: AH-s kontakt figyelmezteti Gundalfot
 
-A 444-nek adott 2026. március 30-i interjúban ([videó](https://www.youtube.com/watch?v=xdlMnQsK_f0)) Gundalf elmondta: az első házkutatás után megkereste őket egy **Teo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Teo figyelmeztette őket:
+A 444-nek adott 2026. március 30-i interjúban ([videó](https://www.youtube.com/watch?v=xdlMnQsK_f0)) Gundalf elmondta: az első házkutatás után megkereste őket egy **Theo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Theo figyelmeztette őket:
 - az AH részt vesz az eljárásban
 - be fogják hívni őket kihallgatásra
 - lesz egy második házkutatás is
 
-Teo előrejelzései mind bekövetkeztek (a második házkutatás decemberben meg is történt), ezért Gundalf és Buddha arra következtett, hogy Teo valóban rálát az AH belső folyamataira. Teo azt is állította, hogy az AH maga is részt vesz a Tisza elleni művelet megszervezésében — ez egybehangzik Szabó Bence állításaival.
+Theo előrejelzései mind bekövetkeztek (a második házkutatás decemberben meg is történt), ezért Gundalf és Buddha arra következtett, hogy Theo valóban rálát az AH belső folyamataira. Theo azt is állította, hogy az AH maga is részt vesz a Tisza elleni művelet megszervezésében — ez egybehangzik Szabó Bence állításaival.
 
 ## A nyomozók következtetése
 

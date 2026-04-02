@@ -62,6 +62,53 @@ date: "2026-03-??" -> 2026 március környékén
 - Ha egy állítás vitatott: „X szerint..." vagy „Y tagadja, hogy..."
 - Kerüld az érzelmi töltetű szavakat és minősítéseket
 
+## Eszközök
+
+### `scripts/transcript_processor.py` — YouTube feliratok letöltése és feldolgozása
+
+Ez a script YouTube videók magyar nyelvű feliratait tölti le és alakítja át a projekt által használt formátumra. A kimenet minden szegmenshez tartalmazza a kezdési időt másodpercben, az időintervallumot és a szöveget — így közvetlenül használható timestampelt YouTube linkek generálásához.
+
+**Telepítés:**
+
+```bash
+pip install yt-dlp packaging
+```
+
+**Használat:**
+
+1. **Interaktív mód** — YouTube URL megadásával letölti és feldolgozza a feliratot:
+
+   ```bash
+   python scripts/transcript_processor.py
+   ```
+
+   A script bekéri a YouTube URL-t, letölti a magyar feliratot (`.srt`), majd átalakítja a projekt formátumára. Opcionálisan egybefolyó plain text verziót is készít.
+
+2. **Meglévő SRT fájl feldolgozása:**
+
+   ```bash
+   python scripts/transcript_processor.py input.srt              # stdout-ra ír
+   python scripts/transcript_processor.py input.srt --inplace     # helyben módosít
+   ```
+
+3. **Már feldolgozott fájl plain textre konvertálása** (timestamp-ek nélkül):
+
+   ```bash
+   python scripts/transcript_processor.py feldolgozott.srt --text-only
+   ```
+
+   Ez egy `_concat.txt` fájlt hoz létre az összes szöveggel egybefűzve.
+
+**Kimeneti formátum:**
+
+```
+80
+00:01:20 - 00:01:25
+én vagyok ez aff.
+```
+
+A kezdő szám (pl. `80`) a másodperc érték, amellyel YouTube link készíthető: `https://www.youtube.com/watch?v=VIDEO_ID&t=80`
+
 ## Kapcsolat
 
 [sssh38@proton.me](mailto:sssh38@proton.me)

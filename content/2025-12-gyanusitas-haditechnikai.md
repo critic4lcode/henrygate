@@ -20,6 +20,14 @@ Szabó Bence:
 
 A 444-nek adott 2026. március 30-i interjúban ([videó](https://www.youtube.com/watch?v=xdlMnQsK_f0)) Gundalf elmondta: a vádban az is szerepel, hogy egy hangfelvételen **„prototípusnak"** nevezte az övet — ebből a hatóság arra következtetett, hogy több ilyen eszközt tervez gyártani. Gundalf szerint ez félreértelmezés[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4757).
 
+## Orbán beismerése: a kamu vád bevett módszer
+
+Orbán Viktor a Hont András YouTube-csatornáján adott interjúban — amikor Hont rákérdezett, hogyan merülhet fel kémelhárítási ügyben gyermekekkel kapcsolatos visszaélés nyomainak keresése — elismerte, hogy a titkosszolgálatok szándékosan olyan fedőfeladatokat adnak más állami szerveknek, amelyek valódi céljáról az azokat végrehajtók nem tudnak:[*](https://www.youtube.com/watch?v=yp6ESNiGGBI)
+
+> „Nagyon helyes. Tehát a titkosszolgálatok olyan feladatokat adnak, aminek az értelmét végső soron csak ők látják át. Az információ, amit így megszereznek, viszont hasznos. Ez teljesen rendben van. Ha elolvas három ilyen típusú regényt, és megnézz két könyvet, esetekben iratkozik a az egyetemre, ahol a közszolgálatokat képzik, az ilyen titkosszolgálati munkákra készítik föl az embereket, ott ezt mind kézikönyvszerűen megtanulhatja."
+
+Ez a nyilatkozat lényegében megerősíti, hogy a gyermekpornográfia-vád fedősztoriként funkcionált — Orbán szerint ez kézikönyvszerű, elfogadott módszer.
+
 ## Jogi vita
 
 Az NNI osztályvezetője írásban rögzítette, hogy a vád jogilag nem állja meg a helyét:
@@ -37,6 +45,10 @@ Szabó Bence elmondása szerint arra kérték, hogy az AH által kierőszakolt g
 > „Fordítva ülünk a lovon. Nem akkor kell információt keresni a gyanúsításhoz, amikor meg van írva a gyanúsítás, hogy alátámasszuk — hanem összegyűjtjük az információt, és az alapján gyanúsítjuk, ha megáll."[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5612)
 
 A feladatot ezt követően másnak adták ki[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5628).
+
+## Theo előrejelzése a második házkutatásról
+
+A decemberi házkutatás lehetőségét **Theo** — a magát AH belső embernek mondó, Signalon kommunikáló ismeretlen — már szeptemberben előre jelezte Gundalfnak és Buddhának. Theo azt is figyelmeztette őket, hogy a második AH-s meghallgatás után „stratégiát váltanak", és azt javasolta, Gundalf ne menjen be többet. Gundalf nem fogadta meg a tanácsot — és a házkutatás decemberben valóban megtörtént.[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
 
 ## A nyomás háttere
 

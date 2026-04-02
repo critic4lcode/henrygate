@@ -1,22 +1,20 @@
 ---
 date: "2025-09-15"
 title: "Az AH kihallgatja Gundalfot — aki tudatosan dezinformálja a hatóságot"
-tags: ["gundalf", "ah", "kihallgatas", "dezinformacio", "teo", "poligraf"]
+tags: ["gundalf", "ah", "kihallgatas", "dezinformacio", "Theo", "poligraf"]
 ---
 
 2025 szeptemberében az **Alkotmányvédelmi Hivatal** behívta Gundalfot (Hrabóczki Dániel) egy „polgári tájékoztatásnak" nevezett meghallgatásra. Az AH telefonon kereste meg, és közölte: ha nem jelenik meg, nemzetbiztonsági eljárást indítanak ellene. Ügyvéd jelenléte nem volt engedélyezett.
 
 A 444-nek adott [2026. március 30-i interjúban](https://www.youtube.com/watch?v=xdlMnQsK_f0) Gundalf elmondta, hogy a kihallgatáson **tudatosan dezinformálta az AH-t**[*](https://www.youtube.com/watch?v=2tqZZL_Bv1w&t=249).
 
-## Előzmény: Teo figyelmeztetése
+## Előzmény: Theo figyelmeztetése
 
-Az első házkutatás (2025. július 8.) után megkereste őket egy **Teo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Teo figyelmeztette őket:
-- az AH részt vesz az eljárásban és bele fog avatkozni
-- be fogják hívni őket kihallgatásra
-- a kihallgatáson olyan dolgokat akarnak velük kimondatni, amiket ellenük fordíthatnak
-- lesz egy második házkutatás is (ami 2025 decemberében valóban meg is történt)
+2025. július 31-én — alig három héttel az első házkutatás után — egy **Theo** nevű ismeretlen személy kereste meg Gundalfot Signalon, aki azt állította, hogy az AH-nál dolgozik. Gundalf bevonta Buddhát is, és szűk két hónapon át hármas csoportban váltottak üzeneteket. Theo előrejelzései mind bekövetkeztek, és szervezeti képet is adott az operáció szereplőiről — köztük **Elda** főnökről, aki Henry fölött állt.[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
 
-Teo előrejelzései mind bekövetkeztek, ezért Gundalf arra következtetett, hogy Teo valóban rálát az AH belső folyamataira.
+→ Részletesen: [Theo kapcsolatfelvétele — 2025. július 31.](/henrygate/#2025-07-31-theo-kapcsolatfelvetel)
+
+Szeptember végén Theo eltűnt, és azóta sem jelentkezett.
 
 ## A dezinformációs stratégia
 
