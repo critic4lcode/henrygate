@@ -38,6 +38,10 @@ Szabó Bence elmondása szerint arra kérték, hogy az AH által kierőszakolt g
 
 A feladatot ezt követően másnak adták ki[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=5628).
 
+## Theo előrejelzése a második házkutatásról
+
+A decemberi házkutatás lehetőségét **Theo** — a magát AH belső embernek mondó, Signalon kommunikáló ismeretlen — már szeptemberben előre jelezte Gundalfnak és Buddhának. Theo azt is figyelmeztette őket, hogy a második AH-s meghallgatás után „stratégiát váltanak", és azt javasolta, Gundalf ne menjen be többet. Gundalf nem fogadta meg a tanácsot — és a házkutatás decemberben valóban megtörtént.[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
+
 ## A nyomás háttere
 
 Az AH a vezetői megbeszéléseken „bagatellizálta" a Henry-szálat[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4812).

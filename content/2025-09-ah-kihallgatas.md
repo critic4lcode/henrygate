@@ -10,13 +10,11 @@ A 444-nek adott [2026. március 30-i interjúban](https://www.youtube.com/watch?
 
 ## Előzmény: Theo figyelmeztetése
 
-Az első házkutatás (2025. július 8.) után megkereste őket egy **Theo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Theo figyelmeztette őket:
-- az AH részt vesz az eljárásban és bele fog avatkozni
-- be fogják hívni őket kihallgatásra
-- a kihallgatáson olyan dolgokat akarnak velük kimondatni, amiket ellenük fordíthatnak
-- lesz egy második házkutatás is (ami 2025 decemberében valóban meg is történt)
+2025. július 31-én — alig három héttel az első házkutatás után — egy **Theo** nevű ismeretlen személy kereste meg Gundalfot Signalon, aki azt állította, hogy az AH-nál dolgozik. Gundalf bevonta Buddhát is, és szűk két hónapon át hármas csoportban váltottak üzeneteket. Theo előrejelzései mind bekövetkeztek, és szervezeti képet is adott az operáció szereplőiről — köztük **Elda** főnökről, aki Henry fölött állt.[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
 
-Theo előrejelzései mind bekövetkeztek, ezért Gundalf arra következtetett, hogy Theo valóban rálát az AH belső folyamataira.
+→ Részletesen: [Theo kapcsolatfelvétele — 2025. július 31.](/henrygate/#2025-07-31-theo-kapcsolatfelvetel)
+
+Szeptember végén Theo eltűnt, és azóta sem jelentkezett.
 
 ## A dezinformációs stratégia
 
