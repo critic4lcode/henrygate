@@ -1,7 +1,7 @@
 ---
 date: "2026-03-30"
 title: "Gundalf a 444-nek: Dezinformáltam az Alkotmányvédelmi Hivatalt"
-tags: ["gundalf", "444", "interju", "ah", "dezinformacio", "teo", "hraboczki-daniel"]
+tags: ["gundalf", "444", "interju", "ah", "dezinformacio", "Theo", "hraboczki-daniel"]
 ---
 
 Március 30-án a **444** videóinterjút készített Gundalffal, aki először állt a nyilvánosság elé valódi nevén: **Hrabóczki Dániel**. Az interjúban részletesen elmagyarázta, miért döntött a nyilvánosság felé fordulás mellett, és — ami a legfontosabb új információ — hogy az Alkotmányvédelmi Hivatal kihallgatásán **tudatosan dezinformálta** a hatóságot.
@@ -16,7 +16,7 @@ Hrabóczki Dániel elmondta: az AH kihallgatásakor figyelmeztették, hogy az el
 
 A legfontosabb új információ: Gundalf az AH 2025 szeptemberi kihallgatásán **szándékosan valótlanságokat mondott**.
 
-Ennek oka: a házkutatás után megkereste őket egy **Teo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Teo figyelmeztette őket:
+Ennek oka: a házkutatás után megkereste őket egy **Theo** nevű személy, aki azt állította, hogy az AH-nál dolgozik. Theo figyelmeztette őket:
 - az AH részt vesz az eljárásban és bele fog avatkozni
 - be fogják hívni őket kihallgatásra
 - a kihallgatáson olyan dolgokat akarnak velük kimondatni, amiket ellenük fordíthatnak
