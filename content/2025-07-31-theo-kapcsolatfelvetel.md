@@ -4,7 +4,7 @@ title: "Theo kapcsolatfelvétele — egy AH-s belső ember figyelmezteti Gundalf
 tags: ["theo", "ah", "kapcsolatfelvetel", "signal", "gundalf", "buddha", "elda", "henry"]
 ---
 
-2025. július 31-én — alig három héttel az első házkutatás után — egy ismeretlen személy kereste meg Gundalfot a Signal titkosított üzenetküldőn:
+2025\. július 31-én — alig három héttel az első házkutatás után — egy ismeretlen személy kereste meg Gundalfot a Signal titkosított üzenetküldőn:
 
 > „Üdvözlöm Gundalf. Reméltem, hogy ezen a csatornán még elérhető. Fontos ügyben keresem, kérem, jelezzen vissza, ha megfelelő. Köszönöm."[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
 
@@ -63,4 +63,4 @@ Szeptember végén — miután Gundalf elvállalta a poligráfos vizsgálatot é
 
 A 444 leszögezi: sem az újság, sem a két informatikus nem tudott teljes bizonyossággal meggyőződni arról, hogy Theo valóban az AH munkatársa. Ugyanakkor az üzenetekben leírtak és az események egymást követő sorrendje alapján alappal lehet arra következtetni, hogy Theo — ha nem is AH-s — valamiképpen rálátott a kémelhárításnál az informatikusokkal szemben folyó eljárásra.[*](https://444.hu/2026/04/02/a-hivatalnal-dolgozom-hallottam-feloled-nem-tiszta-ugy-segiteni-szeretnek)
 
-Szabó Bence április elsején a Telexnek arra a feltevésre, hogy ő lenne Theo, nevetve azt mondta: „vannak konteók".
+Szabó Bence április elsején a Telexnek arra a feltevésre, hogy ő lenne Theo, nevetve azt mondta: „vannak konteók".[*](https://www.youtube.com/watch?v=aO4CpSTDWLg&t=1685)
