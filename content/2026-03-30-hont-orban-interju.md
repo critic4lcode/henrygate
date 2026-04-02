@@ -1,7 +1,7 @@
 ---
 date: "2026-03-30"
 title: "Orbán Viktor: Szabó Bence nem hős, hanem balek"
-tags: ["orban-viktor", "kormany", "hont-andras", "video",]
+tags: ["orban-viktor", "kormany", "hont-andras", "video","interju"]
 ---
 
 A Hont András YouTube-csatornáján adott interjúban Orbán Viktor miniszterelnök 2026 március végén úgy minősítette Szabó Bencét, hogy „balek" volt, mert politikai ügyet látott ott, ahol valójában kémelhárítás folyt:
