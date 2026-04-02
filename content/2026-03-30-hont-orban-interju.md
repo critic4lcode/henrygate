@@ -27,9 +27,7 @@ Ugyanakkor amikor Hont rákérdez az orosz befolyásra Fidesz oldalán:
 
 Kettős mérce: az ukrán befolyást bizonyítottnak kezeli, az orosz befolyás vádját tény nélkülinek minősíti – miközben korábban maga is elismerte, hogy a kettős mérce alkalmazása „nem szép dolog."
 
----
-
-### 5. A Szijjártó–Lavrov lehallgatás
+###  A Szijjártó–Lavrov lehallgatás
 
 Hont felveti, hogy szenzitív diplomáciai beszélgetések kerültek nyilvánosságra (pl. Szijjártó és Lavrov telefonbeszélgetése). Orbán válasza meglepő nyíltsággal ismeri el a lehallgatás általánosságát:
 
@@ -37,6 +35,6 @@ Hont felveti, hogy szenzitív diplomáciai beszélgetések kerültek nyilvánoss
 
 Majd büszkén közli:
 
-> „Én az egyetlen olyan miniszterelnök vagyok, aki úgy ül le a 27 miniszterelnökkel, hogy nálam nincs semmilyen adathordozó."[*](https://www.youtube.com/watch?v=yp6ESNiGGBI&t=2840)
+> „Én az egyetlen olyan miniszterelnök vagyok, aki úgy ül le a 27 miniszterelnökkel, hogy nálam nincs semmilyen adathordozó, amin keresztül a teremben történteket bárki lehallgathatná."[*](https://www.youtube.com/watch?v=yp6ESNiGGBI&t=2840)
 
 Orbán elismeri, hogy az EU-s csúcstalálkozók tartalma folyamatosan kiszivárog az okostelefonokon keresztül – de ezt nem tartja botrányosnak, csak a saját „Nokia-megoldását" emeli ki.
