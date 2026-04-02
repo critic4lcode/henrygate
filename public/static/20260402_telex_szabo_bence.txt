@@ -1,0 +1,4819 @@
+300
+00:05:00 - 00:05:05
+Állj ki a telexért adód 1%-ával.
+
+302
+00:05:02 - 00:05:05
+telex.hu/1%.
+
+307
+00:05:07 - 00:05:12
+Sziasztok! Ez a 206 a Telex választási
+
+309
+00:05:09 - 00:05:14
+műsora élőben. Én Rédi Balázs vagyok.
+
+312
+00:05:12 - 00:05:16
+Mai vendégünk Szabó Bence, a Nemzeti
+
+314
+00:05:14 - 00:05:18
+Nyomozóiroda volt nyomozója, aki arcát
+
+316
+00:05:16 - 00:05:21
+és nevét vállalva nyilatkozott a Direkt
+
+318
+00:05:18 - 00:05:23
+36-nak arról, hogyan zajlott a titkos
+
+321
+00:05:21 - 00:05:26
+szolgálati nyomásra indult házkutatás a
+
+323
+00:05:23 - 00:05:28
+Tiszapártot segítő informatikusak ellen.
+
+326
+00:05:26 - 00:05:29
+Szia! Nagyon szépen köszönöm, hogy
+
+328
+00:05:28 - 00:05:31
+elfogadtad a meghívásunkat.
+
+329
+00:05:29 - 00:05:32
+>> Szia! Üdvözlöm a nézőket.
+
+331
+00:05:31 - 00:05:34
+>> Mielőtt belevágnánk, arra szeretnénk
+
+332
+00:05:32 - 00:05:37
+kérni titeket, hogyha tehetitek,
+
+334
+00:05:34 - 00:05:38
+támogassátok a telexet. Ennek részleteit
+
+337
+00:05:37 - 00:05:41
+megtaláljátok a telex.hu/
+
+338
+00:05:38 - 00:05:44
+támogatásoldalon, és iratkozzatok fel a
+
+341
+00:05:41 - 00:05:47
+YouTube csatornánkra is. Köszönjük. No
+
+344
+00:05:44 - 00:05:50
+hát nehéz napokon vagy túl. Ezt mondtad
+
+347
+00:05:47 - 00:05:52
+is, amikor bejöttél ide a stúdióba. Az
+
+350
+00:05:50 - 00:05:55
+általad elmondottakon pörög a közösségi
+
+352
+00:05:52 - 00:05:58
+média sajtó. Mémekre kerül rá az arcod.
+
+355
+00:05:55 - 00:05:59
+politikusok mondanak rólad mindenfélét.
+
+358
+00:05:58 - 00:06:02
+Ennek a mentális terhét, ezt hogyan
+
+359
+00:05:59 - 00:06:04
+lehet elviselni?
+
+362
+00:06:02 - 00:06:06
+>> Én, ahogy mondtam is, itt amikor
+
+364
+00:06:04 - 00:06:09
+beléptem, ez a hét szava szürreális.
+
+366
+00:06:06 - 00:06:13
+Szürreális azt nézni otthon a tévében,
+
+369
+00:06:09 - 00:06:14
+hogy mindenhol az én arcom jelenik meg.
+
+373
+00:06:13 - 00:06:16
+Még még mindig nem tudtam igazán
+
+374
+00:06:14 - 00:06:19
+feldolgozni, egészségügyileg már
+
+376
+00:06:16 - 00:06:21
+teljesen rendben vagyok. És és és erőre
+
+379
+00:06:19 - 00:06:24
+kaptam, úgy érzem. De de feldolgozni
+
+381
+00:06:21 - 00:06:26
+azt, hogy most az országbeszéd témája
+
+384
+00:06:24 - 00:06:28
+lett az a dolog, azt azt az nem
+
+386
+00:06:26 - 00:06:30
+egyszerű. Tehát felfoghatatlan számomra.
+
+388
+00:06:28 - 00:06:32
+>> Tudtál pihenni?
+
+390
+00:06:30 - 00:06:33
+>> Pihenni abszolút. A hétvégét tudtam,
+
+392
+00:06:32 - 00:06:36
+csádommal tudtam tölteni. Elmentünk
+
+393
+00:06:33 - 00:06:38
+vidékre, konkrétan alpakákat simogattam.
+
+396
+00:06:36 - 00:06:39
+Tehát, hogy volt egy pár pillanat,
+
+398
+00:06:38 - 00:06:42
+amikor amikor sikerült elvonni a
+
+399
+00:06:39 - 00:06:44
+gondolataimat erről a témáról,
+
+402
+00:06:42 - 00:06:46
+de de nyilván visszaarcul csapott újra a
+
+404
+00:06:44 - 00:06:46
+valóság, amint elővettem a telefonomat.
+
+406
+00:06:46 - 00:06:48
+Szóval
+
+406
+00:06:46 - 00:06:49
+>> na ezt akartam kérdezni, hogy ilyenkor
+
+408
+00:06:48 - 00:06:51
+az ember így elrakja a telefonját, és
+
+409
+00:06:49 - 00:06:52
+akkor próbál olyan pillanatokat
+
+411
+00:06:51 - 00:06:54
+teremteni, amikor nem scrollozza a
+
+412
+00:06:52 - 00:06:56
+híreket, vagy vagy pont ellenkezőleg
+
+414
+00:06:54 - 00:06:57
+néha egyszerűen nem bírtad ki és nézted,
+
+416
+00:06:56 - 00:06:58
+hogy mi van?
+
+417
+00:06:57 - 00:07:01
+>> Nyilván nem is tehetem meg szerintem,
+
+418
+00:06:58 - 00:07:04
+mert
+
+421
+00:07:01 - 00:07:06
+előjöttem egy nagy hordererejű hírrel,
+
+424
+00:07:04 - 00:07:09
+tehát lenne lesznek ellen ellen
+
+426
+00:07:06 - 00:07:12
+vélemények, lesznek ellenarratívák, akár
+
+429
+00:07:09 - 00:07:13
+már akarnak cáfolni. Úgyhogy úgy voltam,
+
+432
+00:07:12 - 00:07:15
+hogy fel kell készüljek azért arra, hogy
+
+433
+00:07:13 - 00:07:17
+hogy meg kell védjem az álláspontomat
+
+435
+00:07:15 - 00:07:19
+ebben az ügyben, úgyhogy nem tudtam
+
+437
+00:07:17 - 00:07:21
+letenni mindig a telefont. Sajnos
+
+439
+00:07:19 - 00:07:23
+>> mit szólsz a sok kiálláshoz, a mémekhez,
+
+441
+00:07:21 - 00:07:27
+az üzenetekhez?
+
+443
+00:07:23 - 00:07:29
+>> M én úgy gondolom, hogy ez őszinte
+
+447
+00:07:27 - 00:07:32
+véleményem, nem?
+
+449
+00:07:29 - 00:07:33
+Tehát túlzás, túlzás akról beszélni
+
+452
+00:07:32 - 00:07:35
+velem kapcsolatban, hogy hős vagy
+
+453
+00:07:33 - 00:07:37
+ilyesmi. Itt nem egy ember felé kéne
+
+455
+00:07:35 - 00:07:39
+irányítani ezt a ezt a túl ezt a
+
+457
+00:07:37 - 00:07:41
+támogatást, hanem én úgy gondolom, hogy
+
+459
+00:07:39 - 00:07:43
+a gondolatmenet mentén kéne maradjunk.
+
+461
+00:07:41 - 00:07:44
+Tehát, hogy hogy mindenki én úgy
+
+463
+00:07:43 - 00:07:47
+gondolom, a támogatás nagy része is
+
+464
+00:07:44 - 00:07:50
+arról szól igazából, nem feltétlenül
+
+467
+00:07:47 - 00:07:53
+mindig nekem, hanem az, hogy
+
+470
+00:07:50 - 00:07:55
+igazat adnak nekem abban, hogy a
+
+473
+00:07:53 - 00:07:57
+rendvédelemnek, a rendőrségnek, a
+
+475
+00:07:55 - 00:07:59
+szolgálatóknak a politikamentesen
+
+477
+00:07:57 - 00:08:01
+kellene működniük. Amint a házkutatást
+
+479
+00:07:59 - 00:08:03
+tartottak nálad, és amióta kihallgattak,
+
+481
+00:08:01 - 00:08:05
+azóta milyen felmények történtek az
+
+483
+00:08:03 - 00:08:08
+eljárásban? Kerestek azóta?
+
+485
+00:08:05 - 00:08:09
+>> Nem igazán. Tegnapi napon visszakaptam a
+
+488
+00:08:08 - 00:08:11
+mobiltelefonomat, az első eszközömet már
+
+489
+00:08:09 - 00:08:14
+szerettem volna, minél előbb ugye mégis
+
+491
+00:08:11 - 00:08:15
+csak az ember élete benne van. Viszont
+
+494
+00:08:14 - 00:08:17
+kaptam egy határozatot, hogy az ügyet
+
+495
+00:08:15 - 00:08:19
+átrakták a központi nyomozó
+
+497
+00:08:17 - 00:08:21
+főügyészségről, a fővárosi nyomozóészség
+
+499
+00:08:19 - 00:08:23
+részére. Ez az én olvasatomban azt
+
+501
+00:08:21 - 00:08:26
+jelent így tapasztalat alapján, hogy
+
+503
+00:08:23 - 00:08:28
+kevésbé fontos lett az én ügyem, mivel a
+
+506
+00:08:26 - 00:08:29
+központi jomozó figyésének meglenne a
+
+508
+00:08:28 - 00:08:31
+jogköre arra, hogy elvonjon ügyet,
+
+509
+00:08:29 - 00:08:33
+hogyha illetékesség szerint máshol is
+
+511
+00:08:31 - 00:08:35
+tartozik.
+
+513
+00:08:33 - 00:08:36
+Ezt például a mi nyomozók is megszoktuk
+
+515
+00:08:35 - 00:08:38
+tenni, hogyha fontos az ügy és és a
+
+516
+00:08:36 - 00:08:41
+nagyobb szakértelem nélk maradjon az ügy
+
+518
+00:08:38 - 00:08:43
+nyomozása. Ebben az esetben lerakták egy
+
+521
+00:08:41 - 00:08:44
+kisebb szervhez, úgyhogy én úgy
+
+523
+00:08:43 - 00:08:46
+gondolom, hogy kevésé fontos most az én
+
+524
+00:08:44 - 00:08:47
+ügyem nekik.
+
+526
+00:08:46 - 00:08:49
+>> Nyomozónként nyilván pontosan tudod,
+
+527
+00:08:47 - 00:08:52
+hogy hogyan zajlik egy nyomozás.
+
+529
+00:08:49 - 00:08:53
+Szerinted most mi történik pontosan?
+
+532
+00:08:52 - 00:08:55
+>> Hát így, hogyha tegnap kaptam vissza
+
+533
+00:08:53 - 00:08:56
+mobiltelefonot, gondolom megkezdik a
+
+535
+00:08:55 - 00:08:58
+tartalmának az elemzését, és ez
+
+536
+00:08:56 - 00:08:59
+valószínűleg is fog tartani egy jó
+
+538
+00:08:58 - 00:09:01
+darabig, én úgy gondolom. És akkor
+
+539
+00:08:59 - 00:09:02
+utána, hogyha megállapítanak abból
+
+541
+00:09:01 - 00:09:04
+valamit, akkor meg fognak szólítani. Én
+
+542
+00:09:02 - 00:09:06
+azt is várnám, hogy tanúkat hallgassanak
+
+544
+00:09:04 - 00:09:09
+ki esetleg, hogy hogyan történhetett ez
+
+546
+00:09:06 - 00:09:11
+az egész, ugye az én ügyem, de igazából
+
+549
+00:09:09 - 00:09:13
+őszintén szóval a a az elbesztélésem
+
+551
+00:09:11 - 00:09:15
+tartalmában azt is vártam volna, hogy
+
+553
+00:09:13 - 00:09:17
+esetleg hivatalból elrendelnek egy
+
+555
+00:09:15 - 00:09:19
+második nyomozást, ugyebár a Henry
+
+557
+00:09:17 - 00:09:21
+csapata vonatkozásában. Én nem tudom,
+
+559
+00:09:19 - 00:09:21
+hogy ez megtörtént-e.
+
+561
+00:09:21 - 00:09:23
+Remélem
+
+561
+00:09:21 - 00:09:24
+>> eljut az információ egyébként, hogyha
+
+563
+00:09:23 - 00:09:26
+megtörténik.
+
+564
+00:09:24 - 00:09:27
+>> Nem feltétlenül, de nagyon remélem, hogy
+
+566
+00:09:26 - 00:09:29
+ez így történt.
+
+567
+00:09:27 - 00:09:30
+>> A leszerelésed folyamata az hol tart
+
+569
+00:09:29 - 00:09:33
+most?
+
+570
+00:09:30 - 00:09:34
+>> Befejeztem a tegnapi napon.
+
+573
+00:09:33 - 00:09:36
+Ezt úgy kell elképzelni, hogy ez
+
+574
+00:09:34 - 00:09:38
+tulajdonképpen egy grotesk
+
+576
+00:09:36 - 00:09:40
+teljesítménytúra. Az ember állomásra
+
+578
+00:09:38 - 00:09:42
+állomásra meg mind kap egy pecsétet,
+
+580
+00:09:40 - 00:09:44
+hogy minden elszámolt legyen az.
+
+582
+00:09:42 - 00:09:46
+>> Ez a lelépési papír ez amit így aki már
+
+584
+00:09:44 - 00:09:47
+váltott munkahelyt, az ismerheti, hogy
+
+586
+00:09:46 - 00:09:48
+körbejár és pecsét.
+
+587
+00:09:47 - 00:09:52
+>> Így van. Így van. fegyverzett, ugye
+
+588
+00:09:48 - 00:09:54
+ruházati ellátmány, pénzügyi juttatások,
+
+592
+00:09:52 - 00:09:56
+minősített iratok, ha vannak, tehát hogy
+
+594
+00:09:54 - 00:09:59
+végig kell menni minden egyes állomáson,
+
+596
+00:09:56 - 00:10:01
+minden akárgy gyűjteni egy pecsétet.
+
+599
+00:09:59 - 00:10:03
+>> Hogyan fogadtak?
+
+601
+00:10:01 - 00:10:05
+>> Ez egy nagyon érdekes szituáció volt. Én
+
+603
+00:10:03 - 00:10:08
+az elmúlt napokban nem mozdultam nagyon
+
+605
+00:10:05 - 00:10:10
+ki otthonról, kerültem a nyilvánosságot.
+
+608
+00:10:08 - 00:10:12
+Ez volt az első, hogy egy ugye egy olyan
+
+610
+00:10:10 - 00:10:15
+közegbe mentem be, ahol túlnyomó részt
+
+612
+00:10:12 - 00:10:17
+rendőrök vannak, és el kell mondjam,
+
+615
+00:10:15 - 00:10:19
+hogy minden egyes állomáson
+
+617
+00:10:17 - 00:10:22
+jutott részemre egy jó szó, egy
+
+619
+00:10:19 - 00:10:24
+kézfogás, vagy több, akár egy
+
+622
+00:10:22 - 00:10:26
+csapatember is körém gyűlt, és nagyon
+
+624
+00:10:24 - 00:10:28
+sok biztató szóvot hallottam,
+
+626
+00:10:26 - 00:10:29
+>> de hogy mondtak is konkrétan dolgokat?
+
+628
+00:10:28 - 00:10:31
+>> Miket mondtak mondasztál dolgot?
+
+629
+00:10:29 - 00:10:33
+>> Perszé, hogy köszönjük és hogy
+
+631
+00:10:31 - 00:10:36
+gratulálunk. Bár a gratuláció szóval nem
+
+633
+00:10:33 - 00:10:39
+értek egyet, de de sok biztatást kaptam
+
+636
+00:10:36 - 00:10:41
+igazából. Volt olyan, akin egyfajta
+
+639
+00:10:39 - 00:10:44
+tartózkodást éreztél, vagy akiről így
+
+641
+00:10:41 - 00:10:46
+láttad, hogy inkább nem annyira ért
+
+644
+00:10:44 - 00:10:48
+egyet azzal, ami történt? Nem, hát
+
+646
+00:10:46 - 00:10:51
+nyilván a voltosztályommal volt némi
+
+648
+00:10:48 - 00:10:55
+konfliktus, ugye ők nem kísérintettek
+
+651
+00:10:51 - 00:10:58
+ebben, és én úgy tudom, hogy voltak
+
+655
+00:10:55 - 00:10:59
+ellen érzések ezzel kapcsolatban, de de
+
+658
+00:10:58 - 00:11:01
+azt el tudom mondani, jaukra kell írni,
+
+659
+00:10:59 - 00:11:03
+hogy mindenki emberségesen viszonyult
+
+661
+00:11:01 - 00:11:06
+hozzám, még az is, aki esetleg nem
+
+663
+00:11:03 - 00:11:07
+értett egyet azzal, ami történt, de de
+
+666
+00:11:06 - 00:11:09
+mindenki nagyon nagyon normálisan állt
+
+667
+00:11:07 - 00:11:11
+az egész szituációhoz, hogy bementem,
+
+669
+00:11:09 - 00:11:13
+hogy ő már a dolgaimat összerakták, mire
+
+671
+00:11:11 - 00:11:17
+bementem, aztán mést cuccimat, mindenki
+
+673
+00:11:13 - 00:11:19
+tényleg nagyon készség esen állt hozzám.
+
+677
+00:11:17 - 00:11:20
+>> Amikor a leszerelés folyata zajlott,
+
+679
+00:11:19 - 00:11:22
+akkor egyébként a volt munkahelyet,
+
+680
+00:11:20 - 00:11:23
+tehát konkrétan az osztályra kellett
+
+682
+00:11:22 - 00:11:24
+bemenni, vagy a rendőrségnek egy másik
+
+683
+00:11:23 - 00:11:25
+részére?
+
+684
+00:11:24 - 00:11:27
+>> Hát több állomás is volt. A
+
+685
+00:11:25 - 00:11:30
+voltosztályomhoz is be kellett menjek,
+
+687
+00:11:27 - 00:11:32
+illetve minden egyes ilyen része a
+
+690
+00:11:30 - 00:11:34
+rendőrségnek akár külön címen is van,
+
+692
+00:11:32 - 00:11:35
+szóval sokat kellett járkálnom körbe.
+
+694
+00:11:34 - 00:11:37
+>> Arról tudsz mesélni egy kicsit, hogy
+
+695
+00:11:35 - 00:11:39
+amikor konkrétan arra az osztályra
+
+697
+00:11:37 - 00:11:42
+mentél be, ahol az elmúlt éveidet
+
+699
+00:11:39 - 00:11:46
+töltötted, ott milyen volt a hangulat?
+
+702
+00:11:42 - 00:11:50
+Ö sokat enyhült az első meglepetés óta,
+
+706
+00:11:46 - 00:11:52
+úgyhogy úgyhogy ott is ott ott is azért
+
+710
+00:11:50 - 00:11:54
+bíztató volt a hangulat. Támogatólag
+
+712
+00:11:52 - 00:11:56
+léptek fel a személyes részével
+
+714
+00:11:54 - 00:11:59
+kapcsolatban, hogy hogyan érzem magam és
+
+716
+00:11:56 - 00:12:01
+a többi. Tehát nem volt nem volt a én
+
+719
+00:11:59 - 00:12:03
+erre mondtam azt, hogy akiről tudom,
+
+721
+00:12:01 - 00:12:04
+hogy esetleg ellenézés táplál, az is
+
+723
+00:12:03 - 00:12:06
+normálisan állt hozzám az egész eljárás
+
+724
+00:12:04 - 00:12:07
+alatt.
+
+726
+00:12:06 - 00:12:10
+Nekem átsütött az interjúidon, hogy
+
+727
+00:12:07 - 00:12:12
+nagyon-nagyon szeretted, amit csináltál,
+
+730
+00:12:10 - 00:12:15
+és hogy nagyon elhivatottan nyomoztál
+
+732
+00:12:12 - 00:12:16
+azok után, akik a gyerekeknek ártanak.
+
+735
+00:12:15 - 00:12:20
+Hogyan éled azt meg, hogy ennek most
+
+736
+00:12:16 - 00:12:20
+egyszerre vége szakad?
+
+740
+00:12:20 - 00:12:23
+>> Hát
+
+744
+00:12:24 - 00:12:27
+én nem tudom, hogy fogok-e valaha
+
+745
+00:12:25 - 00:12:29
+találni olyan munkát, ami ennyire közel
+
+747
+00:12:27 - 00:12:33
+állt a szívemhez.
+
+749
+00:12:29 - 00:12:35
+Remélem, hogy lesz még módja annak, hogy
+
+753
+00:12:33 - 00:12:36
+hasonlót csináljak.
+
+755
+00:12:35 - 00:12:38
+Mindig is úgy voltam vele, hogyha
+
+756
+00:12:36 - 00:12:40
+esetleg a civil szférába kikerülök,
+
+758
+00:12:38 - 00:12:41
+akkor mondjuk ugyanennek a területnek a
+
+760
+00:12:40 - 00:12:43
+másik oldalt, aki mondjuk a a
+
+761
+00:12:41 - 00:12:45
+rendvédelemmel együttműködön, mondjuk
+
+763
+00:12:43 - 00:12:47
+egy adott szolgáltatónál válaszol a
+
+765
+00:12:45 - 00:12:48
+rendőrségi megkeresésekre, vagy ők maguk
+
+767
+00:12:47 - 00:12:50
+gyűjtik össze a megfelelő adatokat.
+
+768
+00:12:48 - 00:12:53
+Tehát, hogy van ennek civil oldala is
+
+770
+00:12:50 - 00:12:56
+nyilván.
+
+773
+00:12:53 - 00:12:58
+De de a nem számítok ilyesmire. Nem
+
+776
+00:12:56 - 00:12:59
+biztos, nem fogom úgy érezni
+
+778
+00:12:58 - 00:13:02
+valószínűleg magam egy új munkahelyen,
+
+779
+00:12:59 - 00:13:05
+ahogy ahogy a mostaniban, mármint így
+
+782
+00:13:02 - 00:13:08
+összesítve. Ö de remélem, hogy majd ez
+
+785
+00:13:05 - 00:13:10
+is jóra fordul. Ez még a jövő zenéje.
+
+788
+00:13:08 - 00:13:12
+>> Ez a feladatról szól, vagy a kollégákról
+
+790
+00:13:10 - 00:13:15
+ez a fajta elivatottság, amit amit
+
+792
+00:13:12 - 00:13:17
+>> a feladatról? Abszolút tehát, hogy az
+
+795
+00:13:15 - 00:13:19
+ember felkell reggel és azért megy be és
+
+797
+00:13:17 - 00:13:20
+tényleg nem győzöm hangsúlyozni, hogy
+
+799
+00:13:19 - 00:13:22
+egy-egy lépéssel közelebb kerüljünk
+
+800
+00:13:20 - 00:13:25
+ahhoz, hogy és most tényleg nem
+
+802
+00:13:22 - 00:13:28
+akarokentnek tűnni, de hogy hogyha
+
+805
+00:13:25 - 00:13:31
+lenne egy ilyen skála, hogy jó vagy
+
+808
+00:13:28 - 00:13:34
+rossz, ez a tetején van szerintem ez a
+
+811
+00:13:31 - 00:13:36
+munka és és nem nem tudom, hogy tehát és
+
+814
+00:13:34 - 00:13:38
+ráadásul én olyan is vagyok emellett,
+
+816
+00:13:36 - 00:13:41
+hogy én szeretem a a projektszerű
+
+818
+00:13:38 - 00:13:43
+munkákat, tehát nem a nem a bocsánat, a
+
+821
+00:13:41 - 00:13:44
+monotonitást
+
+823
+00:13:43 - 00:13:46
+Egy nyomozás is egy olyan, mint egy
+
+824
+00:13:44 - 00:13:48
+projekt. Különböző dolgai vannak. Hát
+
+826
+00:13:46 - 00:13:51
+egy nyomozónak azt szokták mondani, hogy
+
+828
+00:13:48 - 00:13:52
+mindehhez is értenie kell minden
+
+831
+00:13:51 - 00:13:54
+területhez. És és én szerettem
+
+832
+00:13:52 - 00:13:56
+gondolkodni, szerettem következtések
+
+834
+00:13:54 - 00:13:57
+levonni, logikai láncokat felépíteni,
+
+836
+00:13:56 - 00:13:59
+úgyhogy úgy összesítve minden együtt
+
+837
+00:13:57 - 00:14:01
+nyilván területből adódóan is
+
+839
+00:13:59 - 00:14:03
+nagyon-nagyon fog hiányozni ez a munka.
+
+841
+00:14:01 - 00:14:05
+>> Azt mondtad, hogy tűzbe tennéd a kezed
+
+843
+00:14:03 - 00:14:07
+azért az osztályért, ahol dolgoztál.
+
+845
+00:14:05 - 00:14:09
+Tudsz arról valamit, hogy mi lesz a
+
+847
+00:14:07 - 00:14:10
+sorsa? Mert volt olyan feltevés, meg te
+
+849
+00:14:09 - 00:14:12
+is utaltál rá a Partizánnak adott
+
+850
+00:14:10 - 00:14:14
+interjújában, hogy akár az utcára is
+
+852
+00:14:12 - 00:14:15
+mennél, hogyha átszerveznék vagy
+
+854
+00:14:14 - 00:14:19
+feldarabolnák.
+
+855
+00:14:15 - 00:14:21
+>> Igen. Én úgy tudom, hogy jelenleg
+
+859
+00:14:19 - 00:14:23
+nem nincsenek kitéve ilyen jellegű
+
+861
+00:14:21 - 00:14:25
+helyzetnek, tehát normalizáltak a
+
+863
+00:14:23 - 00:14:29
+körülmények.
+
+865
+00:14:25 - 00:14:31
+Viszont sajnos hallottam olyan olyan
+
+869
+00:14:29 - 00:14:34
+pletykát, hogy sok minden függ a
+
+871
+00:14:31 - 00:14:36
+választástól, és itt le is zárnám ezt a
+
+874
+00:14:34 - 00:14:38
+gondolatmenet. Tehát erről még nem nem
+
+876
+00:14:36 - 00:14:40
+akarsz többet mondani.
+
+878
+00:14:38 - 00:14:42
+Nem, világos.
+
+880
+00:14:40 - 00:14:45
+>> Kiállásokról beszéljünk még. Olyan
+
+882
+00:14:42 - 00:14:46
+kiállásokról, amik a szakmából érkeztek.
+
+885
+00:14:45 - 00:14:48
+Több korábbi rendőr és titkos szolga
+
+886
+00:14:46 - 00:14:52
+számolt be arról, hogy a munkájuk során
+
+888
+00:14:48 - 00:14:53
+politikai nyomásgyakorlást tapasztaltak.
+
+892
+00:14:52 - 00:14:55
+Barta Károly volt rendőrszázados,
+
+893
+00:14:53 - 00:14:56
+például kirakott egy fél órás videót,
+
+895
+00:14:55 - 00:14:58
+amiről arról beszél, hogy kényes
+
+896
+00:14:56 - 00:15:00
+ügyekben a kormány rendszeresen
+
+898
+00:14:58 - 00:15:01
+politikai elvárásokat támasztott, és azt
+
+900
+00:15:00 - 00:15:03
+is állította, hogy a menekült válság
+
+901
+00:15:01 - 00:15:05
+idején statisztikákat kellett
+
+903
+00:15:03 - 00:15:06
+hamisítaniuk.
+
+905
+00:15:05 - 00:15:08
+Az ilyen kijelentések mennyire leptek
+
+906
+00:15:06 - 00:15:10
+meg?
+
+908
+00:15:08 - 00:15:12
+>> Egyáltalán nem.
+
+910
+00:15:10 - 00:15:14
+>> Tapasztaltás volt? Ö
+
+912
+00:15:12 - 00:15:16
+>> nyilván ahogy mondtam, a mi osztályunkat
+
+914
+00:15:14 - 00:15:18
+elkerüli az a sok dolog, de
+
+916
+00:15:16 - 00:15:20
+elbeszélésekben mindig lehet hallani,
+
+918
+00:15:18 - 00:15:22
+hogy hogy a statisztikák nem le nem
+
+920
+00:15:20 - 00:15:25
+feltétlenül úgy szólnak, ahogy tehát
+
+922
+00:15:22 - 00:15:27
+hogy kozmetikáz van egy-két számára. Nem
+
+925
+00:15:25 - 00:15:29
+olyan például most arra gondolok, hogy
+
+927
+00:15:27 - 00:15:32
+milyen szintű feltöltöttség van az
+
+929
+00:15:29 - 00:15:32
+állományban.
+
+933
+00:15:33 - 00:15:36
+Ez például egy pont egy olyan dolog, ami
+
+934
+00:15:34 - 00:15:37
+ami érzékelhető szerintem egy
+
+936
+00:15:36 - 00:15:39
+állampolgár számára is, hogy van elég
+
+937
+00:15:37 - 00:15:42
+rendőr az utcán, vagy van elég rendőr
+
+939
+00:15:39 - 00:15:44
+szak szakképzett rendőr, és mégis mindig
+
+942
+00:15:42 - 00:15:47
+ugy ugyanaz a hír jön ki, hogy elég
+
+944
+00:15:44 - 00:15:49
+magas a feltöltöttség, tehát megfelelő,
+
+947
+00:15:47 - 00:15:53
+de van számtalan ilyen vetülete ennek az
+
+949
+00:15:49 - 00:15:55
+egésznek. Ön
+
+953
+00:15:53 - 00:15:57
+én én én úgy gondolom, hogy van vannak
+
+955
+00:15:55 - 00:15:59
+alapjai ezeknek a kijelentéseknek még
+
+957
+00:15:57 - 00:16:00
+úgy is, hogy én az osztályom nem
+
+959
+00:15:59 - 00:16:02
+feltétlenül
+
+960
+00:16:00 - 00:16:03
+közvetlenül tapasztaltam ezeket.
+
+962
+00:16:02 - 00:16:05
+>> Tehát hogy csak, hogy pontosan értsem,
+
+963
+00:16:03 - 00:16:08
+arra gondolsz, hogy a rendőrségi
+
+965
+00:16:05 - 00:16:10
+szervezeten belül hallottál olyasmiről,
+
+968
+00:16:08 - 00:16:12
+vagy volt egy ilyen általános benyomás,
+
+970
+00:16:10 - 00:16:13
+hogy a statisztikákkal kapcsolatban
+
+972
+00:16:12 - 00:16:14
+történhettek olyasmik, hogy nem
+
+973
+00:16:13 - 00:16:17
+feltétlenül azt türközték, ami a
+
+974
+00:16:14 - 00:16:19
+valóság?
+
+977
+00:16:17 - 00:16:21
+inkább az, hogy a statisztiká
+
+979
+00:16:19 - 00:16:23
+szempontjából ment a munkavégzés, tehát
+
+981
+00:16:21 - 00:16:25
+hogy hozzunk számokat satöbbi, ahelyett,
+
+983
+00:16:23 - 00:16:28
+hogy szakmai alapon lenne döntve arról,
+
+985
+00:16:25 - 00:16:29
+hogy mi lesz a következő lépés.
+
+988
+00:16:28 - 00:16:31
+>> Bartto Károly azt is mondta, hogy
+
+989
+00:16:29 - 00:16:33
+szerinte csak azért nem tartóztattak le,
+
+991
+00:16:31 - 00:16:36
+mert a választások közelsége miatt nem
+
+993
+00:16:33 - 00:16:37
+akartak mártírt csinálni belőled. Most
+
+996
+00:16:36 - 00:16:40
+joksz ezen erről?
+
+997
+00:16:37 - 00:16:42
+>> Igen. Tehát ahogy mondtam korábban,
+
+1000
+00:16:40 - 00:16:44
+egyszer nyilatkoztam, hogy hogy több
+
+1002
+00:16:42 - 00:16:46
+forgatókönyvt is felvázoltam a fejemben
+
+1004
+00:16:44 - 00:16:47
+arról, hogy mi fog történni.
+
+1006
+00:16:46 - 00:16:48
+És
+
+1007
+00:16:47 - 00:16:50
+és
+
+1008
+00:16:48 - 00:16:52
+amellett,
+
+1010
+00:16:50 - 00:16:56
+hogy hogy nem tartom nem tartottam a
+
+1012
+00:16:52 - 00:16:59
+jogszerűnek a őrizetbe vételemet,
+
+1016
+00:16:56 - 00:17:00
+mármint nem indokolta semmi. Amellett
+
+1019
+00:16:59 - 00:17:04
+azért is vetettem el ezt a
+
+1020
+00:17:00 - 00:17:06
+forgatókönyvet, tehát adtam neki kisebb
+
+1024
+00:17:04 - 00:17:07
+esélyt, hogy ez így fog történni, mert
+
+1026
+00:17:06 - 00:17:10
+arra gondoltam, hogy nagy lesz a
+
+1027
+00:17:07 - 00:17:12
+közfelháborodása ennek kapcsán.
+
+1030
+00:17:10 - 00:17:15
+Egy másik megszólaló Tót Bánint volt,
+
+1032
+00:17:12 - 00:17:18
+aki k 2025 októberéig volt az
+
+1035
+00:17:15 - 00:17:19
+alkotmányvédelmi hivatalnak a századosa.
+
+1038
+00:17:18 - 00:17:21
+Ő arról beszélt, hogy a
+
+1039
+00:17:19 - 00:17:23
+titkoszolgálatnál és a rendőrségnél is
+
+1041
+00:17:21 - 00:17:25
+sok jó szakember dolgozik, és rengetegen
+
+1043
+00:17:23 - 00:17:27
+akarnak közülük kormányváltást. Más
+
+1045
+00:17:25 - 00:17:28
+titkoszolgati dolgozóktól esetleg kaptál
+
+1047
+00:17:27 - 00:17:30
+valamilyen jelzést?
+
+1048
+00:17:28 - 00:17:31
+>> Nem ismerek sajnos titkoszolgati
+
+1050
+00:17:30 - 00:17:33
+dolgozókat, tehát nem voltam soha
+
+1051
+00:17:31 - 00:17:36
+munkakapcsolatban velük igazából,
+
+1053
+00:17:33 - 00:17:38
+úgyhogy nem.
+
+1056
+00:17:36 - 00:17:40
+Kormányhi hivatalos Facebook oldalára
+
+1058
+00:17:38 - 00:17:42
+szombaton kitettek egy videót.
+
+1060
+00:17:40 - 00:17:45
+Beszélgessünk erről egy kicsit. A
+
+1062
+00:17:42 - 00:17:48
+titkosszolgálat ezen azt a 19 éves
+
+1065
+00:17:45 - 00:17:50
+fiatalt hallgatja ki, aki korábban a
+
+1068
+00:17:48 - 00:17:52
+Tiszta párt informatikusaként dolgozott.
+
+1070
+00:17:50 - 00:17:54
+Ő Gundalf. Ő az, akinél a Nemzeti
+
+1072
+00:17:52 - 00:17:56
+Nyomozóirod házkutatást tartott, és ő
+
+1074
+00:17:54 - 00:17:58
+az, akit egy Henry nevű ismeretlen
+
+1076
+00:17:56 - 00:18:01
+megpróbált rávenni arra, hogy a tiszta
+
+1078
+00:17:58 - 00:18:03
+ellen dolgozzon. Mit gondolsz arról,
+
+1081
+00:18:01 - 00:18:05
+hogy kikerült ez a videó?
+
+1083
+00:18:03 - 00:18:08
+Hú, hát
+
+1085
+00:18:05 - 00:18:11
+hát amikor megl szóval
+
+1088
+00:18:08 - 00:18:14
+számos számos gondolat cikázott a
+
+1091
+00:18:11 - 00:18:17
+fejemben, amikor megláttam ezt a videót,
+
+1094
+00:18:14 - 00:18:20
+és még jegyzetelenni is elkezdtem, mert
+
+1097
+00:18:17 - 00:18:22
+olyan sok ponton ponton volt számomra ez
+
+1100
+00:18:20 - 00:18:25
+meglepő, hogy egy ilyen videót
+
+1102
+00:18:22 - 00:18:28
+közzétesznek a Magyarország kormánya
+
+1105
+00:18:25 - 00:18:30
+oldalon egy YouTube csatornán,
+
+1108
+00:18:28 - 00:18:31
+hogy hogy össze kell szedjem hirtelen a
+
+1110
+00:18:30 - 00:18:33
+gondolataimat. Egyrészt ez maga
+
+1111
+00:18:31 - 00:18:36
+>> legelső érzés mi volt, amikor megláttad,
+
+1113
+00:18:33 - 00:18:37
+hogy ezt kirakták?
+
+1116
+00:18:36 - 00:18:40
+>> Az a legelső érzésem az, hogy ez egy
+
+1117
+00:18:37 - 00:18:44
+válaszreakció az én történetemre, tehát
+
+1120
+00:18:40 - 00:18:48
+hogy valahogy magyarázkodni kell.
+
+1124
+00:18:44 - 00:18:50
+És ez a módja, az a módja. És tényleg
+
+1128
+00:18:48 - 00:18:53
+most csak szakmai szempontból mondom,
+
+1130
+00:18:50 - 00:18:55
+hogy én pont az ellen szólaltam fel,
+
+1133
+00:18:53 - 00:18:57
+hogy belefolyik a pártpitikai
+
+1135
+00:18:55 - 00:19:01
+tevékenys pártpolitikai érdek a
+
+1137
+00:18:57 - 00:19:03
+nyomozásba és mit látunk, hogy válaszol
+
+1141
+00:19:01 - 00:19:05
+politikai indít valószínűleg politikai
+
+1143
+00:19:03 - 00:19:07
+motívummal, politikai indítatásból
+
+1145
+00:19:05 - 00:19:11
+közesznek egy videót, amit hirtelen
+
+1147
+00:19:07 - 00:19:14
+fontosnak tartottak, hirtelen államérdek
+
+1151
+00:19:11 - 00:19:15
+érdekében áll, tehát államérdek, illetve
+
+1154
+00:19:14 - 00:19:17
+nemzetérdek az, hogy kiteggyék ezt a
+
+1155
+00:19:15 - 00:19:20
+vagy feláják a minősítés alól ezt az ezt
+
+1157
+00:19:17 - 00:19:22
+a videót közzétegyék Magyarország
+
+1160
+00:19:20 - 00:19:24
+kormánya oldalán. Tehát ez ez ez
+
+1162
+00:19:22 - 00:19:26
+abszurdum volt nekem meglepő nagyon.
+
+1164
+00:19:24 - 00:19:29
+Nyomozóként nyilván szakmai szemmel
+
+1166
+00:19:26 - 00:19:30
+nézel egy kihallgatást.
+
+1169
+00:19:29 - 00:19:32
+Mi az, amire szerinted ebben a videóban
+
+1170
+00:19:30 - 00:19:33
+érdemes figyelni?
+
+1172
+00:19:32 - 00:19:35
+>> Hát először is az, hogyha minősítes aló
+
+1173
+00:19:33 - 00:19:37
+feloldunk egy videót, akkor miért nem
+
+1175
+00:19:35 - 00:19:41
+tesszük egész éve közzé? Ez szerintem
+
+1177
+00:19:37 - 00:19:43
+egy nagyon fontos kérdés. Ö egyből azzal
+
+1181
+00:19:41 - 00:19:45
+indul a videó, hogy szuggesztív
+
+1183
+00:19:43 - 00:19:46
+kérdésekkel bombázzák ezt a ezt a
+
+1185
+00:19:45 - 00:19:49
+fiatalembert.
+
+1186
+00:19:46 - 00:19:51
+>> Az hiba egyébként szakmaizammel, hogy
+
+1189
+00:19:49 - 00:19:51
+olyan mintogyha szájába akarnának adni
+
+1191
+00:19:51 - 00:19:53
+valamit. Arra gondolsz?
+
+1191
+00:19:51 - 00:19:55
+>> Egy normális kihallgatáson? Én úgy
+
+1193
+00:19:53 - 00:19:57
+gondolom, hogy igen, mert nem lehet
+
+1195
+00:19:55 - 00:19:59
+olyan kérdést feltenni, illetve
+
+1197
+00:19:57 - 00:20:00
+etikátlan, ami ami magába hordozza a
+
+1199
+00:19:59 - 00:20:03
+választ. Tehát nem lehet győzködni
+
+1200
+00:20:00 - 00:20:05
+arról, hogy elmondja a kihallgató az
+
+1203
+00:20:03 - 00:20:07
+álláspontját, majd mögéteszi, hogy nem.
+
+1205
+00:20:05 - 00:20:09
+És tehát ezáltal suga egy egy választ,
+
+1207
+00:20:07 - 00:20:12
+főleg egy ilyen helyzetben, ugye, ahol
+
+1209
+00:20:09 - 00:20:14
+egy olyan környezetben ül a kihallgatás
+
+1212
+00:20:12 - 00:20:16
+alatt álló személy. Ez esetben ugye nem
+
+1214
+00:20:14 - 00:20:17
+kihallgatásról beszéltünk végül is, de
+
+1216
+00:20:16 - 00:20:19
+hogy ott ül egy ember, akit épp
+
+1217
+00:20:17 - 00:20:22
+meghallgatnak egy zárt környezetben,
+
+1219
+00:20:19 - 00:20:24
+ahol úgymond
+
+1222
+00:20:22 - 00:20:27
+a pszichológiai fölény a kihallgatónál
+
+1224
+00:20:24 - 00:20:28
+van, és szuggesztív kérdésekkel
+
+1227
+00:20:27 - 00:20:30
+bombázzuk. Úgyhogy egyébként ugyanúgy
+
+1228
+00:20:28 - 00:20:32
+úgy hallgattam meg, hogy néha választ
+
+1230
+00:20:30 - 00:20:34
+sem várták meg a kihallgatók.
+
+1232
+00:20:32 - 00:20:36
+Ez ez abszolút tehát egy egy
+
+1234
+00:20:34 - 00:20:38
+védekezésben egy egy mondjuk egy lenne
+
+1236
+00:20:36 - 00:20:40
+egy gyanúsított, annak a védekezésében
+
+1238
+00:20:38 - 00:20:41
+abszolút megállna az, hogy ez ez így ez
+
+1240
+00:20:40 - 00:20:44
+így ez így nem megfelelő ez a
+
+1241
+00:20:41 - 00:20:46
+kérdésfeltevés, mert az objektivitást
+
+1244
+00:20:44 - 00:20:49
+csorbítja az egészben.
+
+1246
+00:20:46 - 00:20:52
+>> Mire érdemes még figyelni?
+
+1249
+00:20:49 - 00:20:54
+Hát bűncselekmény elkövetésével
+
+1252
+00:20:52 - 00:20:56
+hamisan nem nem fenyegessünk meg meg az
+
+1254
+00:20:54 - 00:20:59
+embert. Tehát, hogy én úgy gondoltam,
+
+1256
+00:20:56 - 00:21:01
+hogy a az, hogy kémkedéssel fenyegetik,
+
+1259
+00:20:59 - 00:21:03
+tehát hogy ő erre előkészül
+
+1261
+00:21:01 - 00:21:05
+felajánlkozik, az egy kicsit erősebb az
+
+1263
+00:21:03 - 00:21:08
+értelemben. Most nem akarok belemenni a
+
+1265
+00:21:05 - 00:21:09
+jogi részébe, de egyáltalán azt, hogy
+
+1268
+00:21:08 - 00:21:11
+hogy
+
+1269
+00:21:09 - 00:21:14
+hogy azzal bombázzák, hogy márpedig ha
+
+1271
+00:21:11 - 00:21:16
+nem áll elő információval, akkor akkor
+
+1274
+00:21:14 - 00:21:17
+ugye fejelentést fognak tenni, vagyis
+
+1276
+00:21:16 - 00:21:19
+hát azt mondják neki tulajdonképpen
+
+1277
+00:21:17 - 00:21:22
+fordítva, hogy ha beszél, akkor elállnak
+
+1279
+00:21:19 - 00:21:25
+a fejelentés kötelezettségüktől.
+
+1282
+00:21:22 - 00:21:27
+Itt megjegyezném, hogy a hogy ugye ezt
+
+1285
+00:21:25 - 00:21:29
+Gundalf körülbelül őszre datálta ezt a
+
+1287
+00:21:27 - 00:21:31
+kihallgatást
+
+1289
+00:21:29 - 00:21:33
+és soha és
+
+1291
+00:21:31 - 00:21:35
+én úgy gond amíg én ott voltam, amíg én
+
+1293
+00:21:33 - 00:21:37
+láttam a az ügyet, egyszer sem érkezett
+
+1295
+00:21:35 - 00:21:39
+kiedésbe feljelentést. Tehát hogyha
+
+1297
+00:21:37 - 00:21:41
+tényleg megállt volna a az
+
+1299
+00:21:39 - 00:21:43
+alkotmányvédelmi hivatal részéről ez a
+
+1301
+00:21:41 - 00:21:44
+gyanú, akkor abból lett tették volna a
+
+1303
+00:21:43 - 00:21:46
+feljelentést. helyett ugye én azt
+
+1304
+00:21:44 - 00:21:48
+tapasztaltam, hogy kettős felhasználású
+
+1306
+00:21:46 - 00:21:50
+termék, illetve
+
+1308
+00:21:48 - 00:21:52
+had had haditechnikai eszköz miatt
+
+1310
+00:21:50 - 00:21:53
+tették a feján, próbálták presztionálni
+
+1312
+00:21:52 - 00:21:55
+a nyomozókat, hogy abba tegy gyanúsítsák
+
+1313
+00:21:53 - 00:21:57
+be őket.
+
+1315
+00:21:55 - 00:21:58
+>> Volt olyasmi a videóban, ami nagyon
+
+1317
+00:21:57 - 00:22:01
+szokatlanul
+
+1318
+00:21:58 - 00:22:05
+tűnt, vagy szokatlannak hangzott neked,
+
+1321
+00:22:01 - 00:22:07
+és nagyon oda nem illő volt.
+
+1325
+00:22:05 - 00:22:09
+>> Hát
+
+1327
+00:22:07 - 00:22:11
+érdekes volt számomra az, hogy egy
+
+1329
+00:22:09 - 00:22:13
+egy-két embernek ugye nem torzították
+
+1331
+00:22:11 - 00:22:15
+hangját, valakinek meg Igen, ez volt
+
+1333
+00:22:13 - 00:22:17
+egy. De alapvetően nem
+
+1335
+00:22:15 - 00:22:19
+tehát meg az is, hogy mi a jogalapja
+
+1337
+00:22:17 - 00:22:21
+ugye a kihallgatásnak meghallgatásnak.
+
+1339
+00:22:19 - 00:22:23
+És hogyha meghallgatás és elbeszélgetés,
+
+1341
+00:22:21 - 00:22:25
+akkor tényleg mi ez a presztionálás meg
+
+1343
+00:22:23 - 00:22:28
+meg ez a fenyegetőzés.
+
+1345
+00:22:25 - 00:22:30
+Ezenkívül az, hogy
+
+1348
+00:22:28 - 00:22:33
+hogy mit mondott Gundalf, hogy ő
+
+1350
+00:22:30 - 00:22:35
+szerintem mi történt
+
+1353
+00:22:33 - 00:22:37
+ott a nem beszervezéssel, nem
+
+1355
+00:22:35 - 00:22:39
+beszervezéssel az úgymond abb a
+
+1357
+00:22:37 - 00:22:41
+szempontból most szakmai szempontból
+
+1359
+00:22:39 - 00:22:44
+próbálok itt érvelni.
+
+1361
+00:22:41 - 00:22:46
+Ami még érdekes volt számomra,
+
+1364
+00:22:44 - 00:22:47
+és ez szerintem egy valid kérdés, hogy
+
+1366
+00:22:46 - 00:22:49
+azt mondja, ez akkor legyen szeptember
+
+1367
+00:22:47 - 00:22:52
+vagy október eleje, azt mondja neki a
+
+1369
+00:22:49 - 00:22:54
+nemzetbiztonsági tiszt vagy főtiszt,
+
+1372
+00:22:52 - 00:22:56
+hogy megvannak a képernyőképek az
+
+1374
+00:22:54 - 00:22:58
+alkotmányvédelmi hivatalnál. Na már
+
+1376
+00:22:56 - 00:23:00
+most, hogyha hogy lehetnek meg ott,
+
+1378
+00:22:58 - 00:23:02
+hogyha ugye egy nyílt eljárásba kerültek
+
+1380
+00:23:00 - 00:23:04
+lefoglásra az eszközök, hacsak nem úgy,
+
+1382
+00:23:02 - 00:23:06
+ahogy amit én is mondtam, hogy hogy
+
+1384
+00:23:04 - 00:23:08
+mindenféle papírozás nélkül elvitték az
+
+1386
+00:23:06 - 00:23:09
+alatmentést, és ők abban megtalálták.
+
+1388
+00:23:08 - 00:23:12
+Tehát ez abszolút alátámasztotta azt,
+
+1389
+00:23:09 - 00:23:13
+amit ott elmondtam.
+
+1392
+00:23:12 - 00:23:16
+illetve ugye kijelentette egy olyat is a
+
+1393
+00:23:13 - 00:23:19
+a kihallgató, hogy elintézik, hogy tehát
+
+1396
+00:23:16 - 00:23:21
+amikor kérdezték erről a NATOs képzésről
+
+1399
+00:23:19 - 00:23:22
+a Gundalfot, mondta Gundalf, hogy a hogy
+
+1401
+00:23:21 - 00:23:24
+a papír az ilyen ehhez kapcsolódó
+
+1402
+00:23:22 - 00:23:25
+papírok ugye a lefoglalt számítógépeken
+
+1404
+00:23:24 - 00:23:27
+vannak, amik nálunk voltak lefoglalva
+
+1405
+00:23:25 - 00:23:29
+ugye júliusban.
+
+1407
+00:23:27 - 00:23:31
+És azt is mondta
+
+1409
+00:23:29 - 00:23:33
+a kihallgató, hogy elintézzük, hogy
+
+1411
+00:23:31 - 00:23:35
+odaültessük a gép elé. Kérdem én, hogy
+
+1413
+00:23:33 - 00:23:36
+intézzük el, hogy odaültessük a gép elé,
+
+1415
+00:23:35 - 00:23:38
+hogyha egy nyomozati szakban, tehát egy
+
+1416
+00:23:36 - 00:23:39
+nyomozószervnél van lefoglalva a
+
+1418
+00:23:38 - 00:23:41
+számítógép. Tehát ezek nekem nagyon
+
+1419
+00:23:39 - 00:23:43
+érdekes kérdések voltak. Arról már nem
+
+1421
+00:23:41 - 00:23:45
+is beszélek. Ugye azt azt mondja a
+
+1423
+00:23:43 - 00:23:47
+kihallgató, hogy nem csak a kormány
+
+1425
+00:23:45 - 00:23:49
+érdeke, hogy megbutassa az ellenzéket
+
+1427
+00:23:47 - 00:23:50
+egy kijelentő mondat keretében, hát egy
+
+1429
+00:23:49 - 00:23:52
+mondat rész keretében. Ez ez rendkívül
+
+1430
+00:23:50 - 00:23:54
+szokatlan szerintem.
+
+1432
+00:23:52 - 00:23:56
+>> Nyilván ahogy mondod a videó tökre meg
+
+1434
+00:23:54 - 00:23:59
+van vágva, de hogy a kihallgatóknak az
+
+1436
+00:23:56 - 00:24:01
+attitűdjéből neked mi jött le? Szakmai
+
+1439
+00:23:59 - 00:24:05
+szemmel ők utaztak arra, hogy valamit
+
+1441
+00:24:01 - 00:24:06
+kihúzzanak ebből a 19 éves fiatalból,
+
+1445
+00:24:05 - 00:24:07
+vagy egész egyszerűen ezt nem lehet
+
+1446
+00:24:06 - 00:24:09
+megítélni, mert annyi ponton van
+
+1447
+00:24:07 - 00:24:11
+megvágva ez a felvétel. Ö nyilván biztos
+
+1449
+00:24:09 - 00:24:13
+volt olyan része, amit nem szerették
+
+1451
+00:24:11 - 00:24:15
+volna, hogy ki tudódjon. Ö de így ebben
+
+1453
+00:24:13 - 00:24:17
+a formában én azt mondom, hogy
+
+1455
+00:24:15 - 00:24:19
+egyáltalán nem zárja ki azt a teóriát,
+
+1457
+00:24:17 - 00:24:22
+amit mi láttunk, hogy utólag keresték a
+
+1459
+00:24:19 - 00:24:24
+jól lapot a két személy megfigyelésére.
+
+1462
+00:24:22 - 00:24:27
+>> Van olyan aspektusa a történteknek, amit
+
+1464
+00:24:24 - 00:24:28
+másképp látsz a videó kikerülése óta?
+
+1467
+00:24:27 - 00:24:30
+>> Nem, abszolút beleillett az én
+
+1468
+00:24:28 - 00:24:32
+idővonalomba, hogy mi hogy történt. Én
+
+1470
+00:24:30 - 00:24:35
+nem tudtam, hogy pontosan mikor lettek
+
+1472
+00:24:32 - 00:24:36
+ők meghallgatva. Azt tudtam, hogy voltak
+
+1475
+00:24:35 - 00:24:40
+poligráfoztatva.
+
+1476
+00:24:36 - 00:24:42
+M de de abból szem tehát abból a
+
+1480
+00:24:40 - 00:24:44
+szempontból egyáltalán nem cáfolt, hogy
+
+1482
+00:24:42 - 00:24:46
+szerintem mi hogyan történt egymás után,
+
+1484
+00:24:44 - 00:24:49
+és arra egyáltalán nem adott választ,
+
+1486
+00:24:46 - 00:24:51
+hogy ki az a Henry, ki az a ki a Henry,
+
+1489
+00:24:49 - 00:24:52
+ki a csapata, mik azok a csapatok, akik
+
+1491
+00:24:51 - 00:24:54
+dolgoznak a Tiszapártelán. Egyáltalán
+
+1492
+00:24:52 - 00:24:55
+miért volt szükséges a Tiszapát
+
+1494
+00:24:54 - 00:24:56
+bedöntése. Tehát erre egyáltalán nem ad
+
+1495
+00:24:55 - 00:24:58
+választ az egész videó.
+
+1496
+00:24:56 - 00:24:59
+>> Ehz nem kerültünk egyébként közelebb az
+
+1498
+00:24:58 - 00:25:01
+elmúlt napokban?
+
+1499
+00:24:59 - 00:25:03
+>> Szerintem egyáltalán nem.
+
+1501
+00:25:01 - 00:25:04
+Te nyomozóként mit szólnál ahhoz, hogyha
+
+1503
+00:25:03 - 00:25:06
+egy kihallgatásodról vagy egy
+
+1504
+00:25:04 - 00:25:10
+folyamatban lévő nyomozásról egyszer
+
+1506
+00:25:06 - 00:25:13
+csak így kikerülne egy ilyen videó?
+
+1510
+00:25:10 - 00:25:15
+Kicsit más nyilván egy büntetőeljárás
+
+1513
+00:25:13 - 00:25:17
+mint egy mint egy nemzetbiztonsági
+
+1515
+00:25:15 - 00:25:19
+eljárás, de ettől függetlenül úgy
+
+1517
+00:25:17 - 00:25:21
+gondolom, hogy hogy továbbra sem értem
+
+1519
+00:25:19 - 00:25:22
+az indokot mögötte, hogy mi mi szükség
+
+1521
+00:25:21 - 00:25:25
+volt arra, hogy közzétegyek ezt a
+
+1522
+00:25:22 - 00:25:26
+videót, mit b tehát mit bizonyít, mert
+
+1525
+00:25:25 - 00:25:28
+nem hangzik. Tehát egy egy mondatot
+
+1526
+00:25:26 - 00:25:30
+szeretnék kiemelni, vagy emeljenek egy
+
+1528
+00:25:28 - 00:25:34
+mondatot, amiben beismeri a Gundalf,
+
+1530
+00:25:30 - 00:25:36
+hogy hogy műveletre készítették föl és
+
+1534
+00:25:34 - 00:25:37
+végzett el későbbiekben, vagy szerették
+
+1536
+00:25:36 - 00:25:39
+szeretett volna végezni, mert nem
+
+1537
+00:25:37 - 00:25:42
+találtam ilyen mondatot, de ezen felül
+
+1539
+00:25:39 - 00:25:44
+önmagáb tehát nem tehát nem látom azt a
+
+1542
+00:25:42 - 00:25:46
+nemzeti vagy államérdeket, ami miatt ezt
+
+1544
+00:25:44 - 00:25:47
+ki kellett, hogy kerüljön.
+
+1546
+00:25:46 - 00:25:50
+>> Szaba Bencével mindjárt innen
+
+1547
+00:25:47 - 00:25:53
+folytatjuk. Gundalf, azaz Rabocki Dániel
+
+1550
+00:25:50 - 00:25:54
+hétfőn interjút adott a 444-nek, és
+
+1553
+00:25:53 - 00:25:55
+ebben azt mondta, hogy direkt
+
+1554
+00:25:54 - 00:25:57
+félrevezette az alkotmányvédelmi
+
+1555
+00:25:55 - 00:26:01
+hivatalt. Mutatunk ebből egy részletet.
+
+1557
+00:25:57 - 00:26:04
+>> Azt már láttam, hogy hogy abba akarják
+
+1561
+00:26:01 - 00:26:08
+átvinni a dolgot, hogy hogy a Tiszapárt
+
+1564
+00:26:04 - 00:26:09
+ugye összeukránozzák és a mindenféle
+
+1568
+00:26:08 - 00:26:12
+Ukrajnával kapcsolatos narratívájukat
+
+1569
+00:26:09 - 00:26:13
+építsék. És ehhez engem is fel akarnak
+
+1572
+00:26:12 - 00:26:16
+használni. Sőt, erre kifejezetten
+
+1573
+00:26:13 - 00:26:18
+jelzést is kaptunk ettől a Teo nevű
+
+1576
+00:26:16 - 00:26:22
+személytől már előre.
+
+1578
+00:26:18 - 00:26:25
+És úgy döntöttem, hogy ha ha nem is
+
+1582
+00:26:22 - 00:26:28
+lenne rólunk semmi dolog, akkor is
+
+1585
+00:26:25 - 00:26:30
+kitalálnának valamit, amit amit
+
+1588
+00:26:28 - 00:26:31
+felhasználnak ellenünk. Viszont úgy
+
+1590
+00:26:30 - 00:26:34
+döntöttem, hogy én kezembe vesztem az
+
+1591
+00:26:31 - 00:26:36
+irányítást, és tulajdonképpen én fogom
+
+1594
+00:26:34 - 00:26:38
+megírni a saját propagandámat. Ennek a
+
+1596
+00:26:36 - 00:26:40
+az volt a célja, hogy a későbbiekben,
+
+1598
+00:26:38 - 00:26:41
+hogyha ezeket a felvételeket vagy
+
+1600
+00:26:40 - 00:26:44
+beszélgetéseket, vagy bármilyen anyagot
+
+1601
+00:26:41 - 00:26:47
+nyilvánosságra hoznak, akkor ezeket
+
+1604
+00:26:44 - 00:26:47
+tudjam cáfolni.
+
+1608
+00:26:48 - 00:26:52
+A volt informatikus tehát azt állította,
+
+1610
+00:26:50 - 00:26:55
+hogy direkt mondott olyan dolgokat,
+
+1612
+00:26:52 - 00:26:57
+amiket később a propaganda leleplezésére
+
+1615
+00:26:55 - 00:27:00
+tud használni.
+
+1617
+00:26:57 - 00:27:03
+Mennyire látod ezt életszerűnek?
+
+1620
+00:27:00 - 00:27:05
+>> Erre vonatkozó? Tehát, hogy az, hogy ő ő
+
+1623
+00:27:03 - 00:27:07
+hogyan folytatta itt a ugye én a
+
+1625
+00:27:05 - 00:27:08
+képernyőképekből dolgoztam, amit láttam,
+
+1627
+00:27:07 - 00:27:10
+hogy hogyan kommunikált a Harry nevű
+
+1628
+00:27:08 - 00:27:12
+személlyel, tehát hogy egyébként a
+
+1630
+00:27:10 - 00:27:14
+magánéletben mit csinált, vagy mit nem
+
+1632
+00:27:12 - 00:27:17
+csinált, mi volt korábban, arról
+
+1634
+00:27:14 - 00:27:18
+információm nincsen. Tehát itt én is
+
+1637
+00:27:17 - 00:27:21
+csak arra tudok hagyatkozni, amit ő
+
+1638
+00:27:18 - 00:27:23
+elmond.
+
+1641
+00:27:21 - 00:27:25
+Nem tudnék adekvált választ adni erre a
+
+1643
+00:27:23 - 00:27:27
+kérdésre, mivel hiányosak az ismereteim.
+
+1645
+00:27:25 - 00:27:29
+Igazából
+
+1647
+00:27:27 - 00:27:31
+>> volt tisztes informatikus azt is
+
+1649
+00:27:29 - 00:27:33
+állította, hogy az első házkutatás után
+
+1651
+00:27:31 - 00:27:35
+üzeneteket kapott egy teo nevű
+
+1653
+00:27:33 - 00:27:37
+ismeretlentől, aki állítása szerint az
+
+1655
+00:27:35 - 00:27:39
+akadányvédelmi hivatalban dolgozik, és
+
+1657
+00:27:37 - 00:27:40
+figyelmeztette arra, hogy a
+
+1659
+00:27:39 - 00:27:43
+titkoszolgálat beavatkozik az ellenük
+
+1660
+00:27:40 - 00:27:46
+zajló eljárásba. Ennek lehet valóság
+
+1663
+00:27:43 - 00:27:47
+alapja? Erről tudtatok bármit?
+
+1666
+00:27:46 - 00:27:50
+>> Mi semmit. Ugye mi abból dolgoztunk,
+
+1667
+00:27:47 - 00:27:53
+amit mi foglaltunk le júliusban.
+
+1670
+00:27:50 - 00:27:55
+És ezutána történt ugye ősszel. Erre
+
+1673
+00:27:53 - 00:27:57
+vonatkozó nyom esetleg lehet, hogy van
+
+1675
+00:27:55 - 00:27:58
+ugye a haditechnikai eszköz miatti
+
+1677
+00:27:57 - 00:28:00
+eljárásban, ahol ugye második kutatásra
+
+1678
+00:27:58 - 00:28:01
+került sor, megint lefoglalták az
+
+1680
+00:28:00 - 00:28:03
+eszközeiket, tehát hogyha van valamilyen
+
+1681
+00:28:01 - 00:28:04
+információ, akkor ott lesz. Én nem
+
+1683
+00:28:03 - 00:28:06
+hallottam semmit ezzel kapcsolatban.
+
+1684
+00:28:04 - 00:28:08
+>> De még olyan feltvé is meggránt, hogy te
+
+1686
+00:28:06 - 00:28:10
+vagy Teo.
+
+1688
+00:28:08 - 00:28:11
+>> Vannak konteok, igen. A történet
+
+1690
+00:28:10 - 00:28:12
+kapcsán.
+
+1691
+00:28:11 - 00:28:14
+Az alkotmányvédelmi hivatal szerint
+
+1692
+00:28:12 - 00:28:17
+Gundalf kapcsolatba lépett egy kém
+
+1694
+00:28:14 - 00:28:19
+szoftvert fejlesztő cég képviselőivel,
+
+1697
+00:28:17 - 00:28:22
+hogy beszerezzék ezt a kame szoftvert,
+
+1699
+00:28:19 - 00:28:23
+és ő ezt tagadta, mert a szoftver euró
+
+1702
+00:28:22 - 00:28:26
+milliókba kerül, és azt mondta, hogy
+
+1703
+00:28:23 - 00:28:29
+neki nincsen ennyi pénze. Ezt az
+
+1706
+00:28:26 - 00:28:31
+állítást mennyire tartod reálisnak?
+
+1709
+00:28:29 - 00:28:32
+>> Abból a tehát, hogy ki kivel
+
+1711
+00:28:31 - 00:28:34
+találkozott, azt nem tudom. Abból a
+
+1712
+00:28:32 - 00:28:37
+szempontból igaza volt, hogy én úgy
+
+1714
+00:28:34 - 00:28:40
+tudom, hogy ez tényleg egy több milliárd
+
+1717
+00:28:37 - 00:28:42
+Ft értékű szoftver csomag.
+
+1720
+00:28:40 - 00:28:44
+Talán olvastam, amikor ugye nyomoztam,
+
+1722
+00:28:42 - 00:28:46
+akkor utána próbáltam érdeklődni, hogy
+
+1724
+00:28:44 - 00:28:47
+ez
+
+1726
+00:28:46 - 00:28:49
+vagy még nem amikor nyomoztam így az
+
+1727
+00:28:47 - 00:28:51
+egész kapcsán, hogy mi ez a Kandrus
+
+1729
+00:28:49 - 00:28:53
+satöbbi. És tényleg úgy van, hogy
+
+1731
+00:28:51 - 00:28:56
+országok általában országok ugye a
+
+1733
+00:28:53 - 00:28:57
+vásárlói ezeknek a cégeknek, ezeknek a
+
+1736
+00:28:56 - 00:29:00
+kiberbiztonsági cégeknek, akik ezeket
+
+1737
+00:28:57 - 00:29:02
+fejlesztik és több több milliárd Ft egy
+
+1740
+00:29:00 - 00:29:04
+csomagt mondjuk öt eszköz, mit tudom 20
+
+1742
+00:29:02 - 00:29:07
+milliárd, csak mondtam valamit.
+
+1744
+00:29:04 - 00:29:09
+Szóval nem kép majdnem, hogy képtárenség
+
+1747
+00:29:07 - 00:29:10
+tartom, hogy egy egyszerű hétköznapi
+
+1749
+00:29:09 - 00:29:13
+állampolgár
+
+1750
+00:29:10 - 00:29:15
+be tudjon szerezni egy ilyen szoftvert.
+
+1753
+00:29:13 - 00:29:17
+>> Az mennyire példátlan, hogy az
+
+1755
+00:29:15 - 00:29:19
+alkotmánybédelmi hivatal belőle folyik
+
+1757
+00:29:17 - 00:29:21
+egy gyermekpornográfiával kapcsolatos
+
+1759
+00:29:19 - 00:29:22
+ügybe, és egyszer csak megjelennek a
+
+1761
+00:29:21 - 00:29:25
+titkos szolgák?
+
+1762
+00:29:22 - 00:29:26
+>> Ez egyáltalán nem jellemző. Ö
+
+1765
+00:29:25 - 00:29:30
+>> tehát nem is volt ilyen.
+
+1766
+00:29:26 - 00:29:33
+>> Nem, én nem nem tudok ilyesmiről. és és
+
+1770
+00:29:30 - 00:29:35
+nem is ér, tehát én ezt a már
+
+1773
+00:29:33 - 00:29:36
+kifejtettem, hogy nem is értem, hogy
+
+1775
+00:29:35 - 00:29:38
+miért pont pénzprótt ezt az eljárási
+
+1776
+00:29:36 - 00:29:41
+módot választották. Ez több szempontból
+
+1778
+00:29:38 - 00:29:44
+is visszaás, mert egyrészt
+
+1781
+00:29:41 - 00:29:47
+lefogl tehát beviszik a gyermekvédelembe
+
+1784
+00:29:44 - 00:29:50
+a titkoszolgálati műveleteket ebbe a
+
+1787
+00:29:47 - 00:29:52
+térbe, másrészt
+
+1790
+00:29:50 - 00:29:54
+lekötik a gyermekvédelemért felelős
+
+1792
+00:29:52 - 00:29:56
+osztálynak a kapacitásait. Tehát ez ez
+
+1794
+00:29:54 - 00:29:58
+az abszurd.
+
+1796
+00:29:56 - 00:30:01
+És harmadr rész pedig, ha valakit ezzel
+
+1798
+00:29:58 - 00:30:02
+vádolunk meg, jelen esetben ugye ezt a
+
+1801
+00:30:01 - 00:30:05
+két informatikust, az egy olyan
+
+1802
+00:30:02 - 00:30:07
+szociális stigmát is rárak az emberre,
+
+1805
+00:30:05 - 00:30:08
+amit nem biztos, hogy le tud ró magáról
+
+1807
+00:30:07 - 00:30:11
+mosni. Tehát hogy csak úgy városkodjunk
+
+1808
+00:30:08 - 00:30:13
+ilyen jellegű bűncselekménnyel, az azt
+
+1811
+00:30:11 - 00:30:15
+nagyon erősnek tartom.
+
+1813
+00:30:13 - 00:30:17
+>> Összességében erről az interjúról mit
+
+1815
+00:30:15 - 00:30:19
+gondolsz egyébként? Mi volt az, ami
+
+1817
+00:30:17 - 00:30:22
+tényleg így benne vagy a sűrűjében, ami
+
+1819
+00:30:19 - 00:30:25
+számodra a legérdekesebb rész volt?
+
+1822
+00:30:22 - 00:30:28
+Hát nyilván amikor ment a nyomozás, mi
+
+1825
+00:30:25 - 00:30:30
+valamilyen szempontból számított
+
+1828
+00:30:28 - 00:30:32
+számíthattunk rá, vagy gondoltunk rá,
+
+1830
+00:30:30 - 00:30:34
+hogy érdekel lehet majd egyszer ugye
+
+1832
+00:30:32 - 00:30:36
+előjönni a az érintetteknek előjönni
+
+1834
+00:30:34 - 00:30:37
+ezzel a történettel, főleg úgy, hogy ők
+
+1836
+00:30:36 - 00:30:40
+is tudtak róla, a Tiszapárt is tudott
+
+1837
+00:30:37 - 00:30:42
+róla, hiszen azzal úgymond magukat is
+
+1840
+00:30:40 - 00:30:44
+védhetik valamilyen szinten, hogyha
+
+1842
+00:30:42 - 00:30:45
+elmondják az ő verziókat. egyébként a
+
+1844
+00:30:44 - 00:30:47
+nyomozások szempontjából is nagyon
+
+1845
+00:30:45 - 00:30:49
+fontos lett volna, hogyha ez a két ember
+
+1847
+00:30:47 - 00:30:51
+mondjuk el tudja mondani, hogy ők hogy
+
+1849
+00:30:49 - 00:30:53
+látták, lehet, hogy többlet információ
+
+1851
+00:30:51 - 00:30:55
+is rendelkeznek abból a szempontból,
+
+1853
+00:30:53 - 00:30:57
+hogy mi mit láttunk és ők hogyan élték
+
+1855
+00:30:55 - 00:31:01
+meg. Tehát valamilyen szinten
+
+1857
+00:30:57 - 00:31:03
+számíthattunk rá. Nem, én én én
+
+1861
+00:31:01 - 00:31:05
+úgy mondom, hogy több információra,
+
+1863
+00:31:03 - 00:31:07
+kézzelf fogható információra számítottam
+
+1865
+00:31:05 - 00:31:09
+az interjútól.
+
+1867
+00:31:07 - 00:31:11
+>> Menjünk tovább a reakciókkal. Orbán
+
+1869
+00:31:09 - 00:31:13
+Viktor majdnem egy héttel a Szabó
+
+1871
+00:31:11 - 00:31:15
+Bencével készült interjú megjelenése
+
+1873
+00:31:13 - 00:31:17
+után reagált az elhangzottakra. Mutatunk
+
+1875
+00:31:15 - 00:31:20
+ebből is egy részletet.
+
+1877
+00:31:17 - 00:31:23
+>> Én egy nagyon egyszerű történetet látok.
+
+1880
+00:31:20 - 00:31:25
+Filmekben is gyakori. Valaki kiugrik,
+
+1883
+00:31:23 - 00:31:27
+azt gondolja, hogy valami nagy
+
+1885
+00:31:25 - 00:31:29
+felfedezés birtokában van, és kiderül,
+
+1887
+00:31:27 - 00:31:32
+hogy nem hős, hanem csak balek. Itt
+
+1889
+00:31:29 - 00:31:32
+ennyi történt.
+
+1893
+00:31:33 - 00:31:37
+>> Ez nem lehet egyszerű, amikor az embert
+
+1894
+00:31:34 - 00:31:40
+a miniszterelnök emlegeti. Mit gondolsz
+
+1897
+00:31:37 - 00:31:40
+az elhangzottakról?
+
+1901
+00:31:41 - 00:31:46
+>> Számomra megdöbbentő,
+
+1903
+00:31:43 - 00:31:48
+hogy egy miniszterelnök, egy egy ország
+
+1906
+00:31:46 - 00:31:50
+első embere
+
+1908
+00:31:48 - 00:31:54
+személyeskedésbe kezd egy hétköznapi
+
+1910
+00:31:50 - 00:31:56
+állampolgárral. Tehát, hogy van egy egy,
+
+1914
+00:31:54 - 00:31:59
+hogy is mondjam, kommunikációs szint,
+
+1916
+00:31:56 - 00:32:01
+amit ő neki képviselnie kellene,
+
+1919
+00:31:59 - 00:32:03
+és ahelyett ő úgy gondolja, hogy le kell
+
+1921
+00:32:01 - 00:32:05
+ereszkedni az én szintemre és és
+
+1923
+00:32:03 - 00:32:07
+személyeskedésbe kezdeni.
+
+1925
+00:32:05 - 00:32:09
+Ö
+
+1927
+00:32:07 - 00:32:12
+meg megdöbb tényleg ez a ez a legjobb
+
+1929
+00:32:09 - 00:32:14
+szó, hogy megdöbbentő számomra.
+
+1932
+00:32:12 - 00:32:15
+Ennek a szónak minden pozitív és negatív
+
+1934
+00:32:14 - 00:32:17
+tartalmá van.
+
+1935
+00:32:15 - 00:32:22
+>> Kampányban, tehát hogy nyilván kell egy
+
+1937
+00:32:17 - 00:32:23
+keretezést adni a a történtekre. Nem, ez
+
+1942
+00:32:22 - 00:32:25
+nem teszi érthetővé azt, hogy mi
+
+1943
+00:32:23 - 00:32:27
+történik.
+
+1945
+00:32:25 - 00:32:29
+>> Én úgy gondolom, hogy egy egy tehát a a
+
+1947
+00:32:27 - 00:32:32
+milyen megnyilvánosakat láttam magamról
+
+1949
+00:32:29 - 00:32:37
+az elmúlt napokban. Tehát, hogy voltam
+
+1952
+00:32:32 - 00:32:39
+már minden a Balektól Pancseron át a
+
+1957
+00:32:37 - 00:32:42
+ukrángyel kapcsolatokkal rendelkező
+
+1959
+00:32:39 - 00:32:46
+Tiszás kiugrott nyomozóig,
+
+1962
+00:32:42 - 00:32:46
+aki ráadásul pénzt mos
+
+1967
+00:32:47 - 00:32:52
+tehát nem, tehát én úgy gondolom, hogy a
+
+1970
+00:32:50 - 00:32:54
+kommunikációban olyan mélységben vagyunk
+
+1972
+00:32:52 - 00:32:56
+néha, hogy hogy egy felelős állam
+
+1974
+00:32:54 - 00:32:58
+férfiak nem feltétlenül engedhetnék meg
+
+1976
+00:32:56 - 00:33:00
+monduk ezt a stílust.
+
+1978
+00:32:58 - 00:33:01
+De ez dű vagy értetlenség, vagy
+
+1980
+00:33:00 - 00:33:04
+meglepettség, mi az, ami ami inkább
+
+1981
+00:33:01 - 00:33:07
+motoszkál benned ezekkel kapcsolatban?
+
+1984
+00:33:04 - 00:33:07
+>> Egyszerűen csak
+
+1987
+00:33:07 - 00:33:10
+szerintem van egy ez a mondás, hogy egy
+
+1989
+00:33:09 - 00:33:13
+bizonyos szint fölt nem sűdünk, egy
+
+1990
+00:33:10 - 00:33:15
+bizonyos szint alá. Ez abszolút illik
+
+1993
+00:33:13 - 00:33:19
+erre a szituációra. Én úgy gondolom, én
+
+1995
+00:33:15 - 00:33:21
+soha nem nyilatkoznék így nyilvános.
+
+1999
+00:33:19 - 00:33:23
+Tehát egy egy közszereplőnek megvan a
+
+2001
+00:33:21 - 00:33:24
+felelőssége arra, hogy ugye tudja
+
+2003
+00:33:23 - 00:33:27
+iránytani társadalom narratívát. Nem
+
+2004
+00:33:24 - 00:33:29
+teheti meg azt, hogy hogy ilyen mély nem
+
+2007
+00:33:27 - 00:33:32
+mélységet tudok csak mondani, elnézést
+
+2009
+00:33:29 - 00:33:33
+süllyed, hogy ő degradálóan
+
+2012
+00:33:32 - 00:33:35
+és személyeskedve nyilatkozik bizonyos
+
+2013
+00:33:33 - 00:33:38
+személyekről. Ez az én ez az én
+
+2015
+00:33:35 - 00:33:39
+véleményem ezzel kapcsolatban.
+
+2018
+00:33:38 - 00:33:42
+>> A belügyminiszter Pinter Sándor azt
+
+2019
+00:33:39 - 00:33:46
+mondta, hogy a volt kollégáid árulónak
+
+2022
+00:33:42 - 00:33:46
+tartanak. Ez hogyan érintett?
+
+2027
+00:33:47 - 00:33:53
+Ugye ahogy a elmondtam, nyilván nyilván
+
+2030
+00:33:50 - 00:33:55
+nem esett jól, nyilván meg is tudom
+
+2033
+00:33:53 - 00:33:57
+érteni egy részét, viszont
+
+2035
+00:33:55 - 00:33:59
+azt amit tapasztaltam a leszerelés
+
+2037
+00:33:57 - 00:34:01
+folyamatában, hogy mennyi ember jött
+
+2039
+00:33:59 - 00:34:04
+oda, hogy biket mondtak, hogy kezet
+
+2041
+00:34:01 - 00:34:06
+ráztak, hogy válomveregtek,
+
+2044
+00:34:04 - 00:34:08
+én azt mondom, hogy Pinter Sáor nem
+
+2046
+00:34:06 - 00:34:10
+biztos, hogy tudja, hogy az állomány mit
+
+2048
+00:34:08 - 00:34:12
+gondol.
+
+2050
+00:34:10 - 00:34:13
+Nincsen tisztában vele? Egész
+
+2052
+00:34:12 - 00:34:15
+egyszerűen?
+
+2053
+00:34:13 - 00:34:20
+>> Lehet, hogy túl rég járt az állomány
+
+2055
+00:34:15 - 00:34:20
+között, hogy megkérdezze a véleményüket.
+
+2060
+00:34:20 - 00:34:24
+Mondj el példákat erre, hogy miket
+
+2062
+00:34:22 - 00:34:26
+mondtak, mert lehet, hogy Peter Sándor
+
+2064
+00:34:24 - 00:34:27
+is nézi ezt az interjút.
+
+2066
+00:34:26 - 00:34:30
+>> Hát hogyha most nem is, akkor lehet,
+
+2067
+00:34:27 - 00:34:32
+hogy majd utólag megnézi.
+
+2070
+00:34:30 - 00:34:35
+Tényleg bíztatások,
+
+2072
+00:34:32 - 00:34:38
+sok sikert, kitartást, nagyon köszönjük,
+
+2075
+00:34:35 - 00:34:40
+hogy kiálltál és
+
+2078
+00:34:38 - 00:34:43
+abból a szempontból
+
+2080
+00:34:40 - 00:34:44
+nem gondolom, hogy ez egy akkora hősies
+
+2083
+00:34:43 - 00:34:46
+csökkedet kellene legyen. Én próbáltam
+
+2084
+00:34:44 - 00:34:49
+ezt a ezt a dolgot normalitás felé
+
+2086
+00:34:46 - 00:34:51
+terelni. Tehát hogy normális dolog az,
+
+2089
+00:34:49 - 00:34:53
+hogyha az ember felszólal az ellen, hogy
+
+2091
+00:34:51 - 00:34:55
+nem pártatlan a a nyomozóhatóság. Tehát
+
+2093
+00:34:53 - 00:34:58
+ennek egy ez egy ez kéne legyen az
+
+2095
+00:34:55 - 00:35:00
+alapvetés. Nem, nem az, hogy hogy aki
+
+2098
+00:34:58 - 00:35:03
+ezt megteszi,
+
+2100
+00:35:00 - 00:35:05
+azt ki tehát hogy csodáljuk, mert ez egy
+
+2103
+00:35:03 - 00:35:08
+nem nem egy csoda, ez ez egy normális
+
+2105
+00:35:05 - 00:35:10
+normális kiállás szerintem.
+
+2108
+00:35:08 - 00:35:11
+>> A belügyminiszter a Telex kérdésére azt
+
+2110
+00:35:10 - 00:35:14
+is visszautasította, hogy
+
+2111
+00:35:11 - 00:35:16
+nyomásgyakorlás történt volna. Ő arról
+
+2114
+00:35:14 - 00:35:19
+magyarázott, hogy a az alkotmányvédelmi
+
+2116
+00:35:16 - 00:35:20
+hivatal, illetve a rendőrség nem áll alá
+
+2119
+00:35:19 - 00:35:22
+és főrén rendeltségi viszonyban. Tehát,
+
+2120
+00:35:20 - 00:35:23
+hogy szerinte egyszerűen
+
+2122
+00:35:22 - 00:35:25
+elképzelhetetlen az, hogy
+
+2123
+00:35:23 - 00:35:27
+nyomásgyakorlás legyen. Erről mit
+
+2125
+00:35:25 - 00:35:29
+gondolsz?
+
+2127
+00:35:27 - 00:35:32
+>> Hát ő ezt mondta, hogy ő szerinte
+
+2129
+00:35:29 - 00:35:34
+értelmezhetetlen ez a szituáció. És
+
+2132
+00:35:32 - 00:35:35
+utána pedig
+
+2134
+00:35:34 - 00:35:37
+ugye a miniszterelnök úr ugyanebb az
+
+2135
+00:35:35 - 00:35:40
+interjúban, amiben engem lebalekozott,
+
+2137
+00:35:37 - 00:35:42
+azt mondja, hogy ez egy ez egy tankönyvi
+
+2140
+00:35:40 - 00:35:45
+esete annak, hogy az alkotmányvédelmi
+
+2142
+00:35:42 - 00:35:47
+hivatal bevonja a nyomzóatóságot, hogy
+
+2145
+00:35:45 - 00:35:49
+váddal gyermekpornográfia miatt
+
+2147
+00:35:47 - 00:35:51
+bejelentést teszt. Tehát, hogy ez egy ez
+
+2149
+00:35:49 - 00:35:52
+egy tankönyvi eset. Tehát
+
+2151
+00:35:51 - 00:35:54
+>> tehát akkor ütik egymást a
+
+2152
+00:35:52 - 00:35:55
+nyilatkozatok. Szerintem
+
+2154
+00:35:54 - 00:35:56
+>> kormányagoknak a reakciói is sincsen a
+
+2155
+00:35:55 - 00:35:57
+köszhangban egymással. A történtekkel
+
+2156
+00:35:56 - 00:36:00
+kapcsolatban. Arra gondolsz?
+
+2157
+00:35:57 - 00:36:02
+>> Nem úgy vettem észre.
+
+2160
+00:36:00 - 00:36:04
+Holnap jön ki egy videó, amiben Hajdú
+
+2162
+00:36:02 - 00:36:07
+Péter beköltözik felcsútra a
+
+2164
+00:36:04 - 00:36:12
+miniszterelnökhöz, és a promója alapján
+
+2167
+00:36:07 - 00:36:14
+rólad is lesz szó. Mire számítasz ebben?
+
+2172
+00:36:12 - 00:36:16
+Hát én nagyon remélem, hogy Hajdúr fog
+
+2174
+00:36:14 - 00:36:18
+nosztalgiázni velem kapcsolatban a
+
+2176
+00:36:16 - 00:36:20
+miniszterelnök úrral, mivel Hajdúr ismer
+
+2178
+00:36:18 - 00:36:22
+engem
+
+2180
+00:36:20 - 00:36:24
+még nem most korszakomból, ugyebár
+
+2182
+00:36:22 - 00:36:25
+Hajdugrat
+
+2184
+00:36:24 - 00:36:28
+elítélték költségvetési csalás
+
+2185
+00:36:25 - 00:36:30
+elküldetése miatt, és én voltam az, aki
+
+2188
+00:36:28 - 00:36:32
+még a NAVOS korszakomban kinyomoztam ezt
+
+2190
+00:36:30 - 00:36:35
+az ügyet.
+
+2192
+00:36:32 - 00:36:36
+És én én én hallgattam ki, ő
+
+2195
+00:36:35 - 00:36:39
+gyanúsítottént is, tehát hogy már
+
+2196
+00:36:36 - 00:36:41
+találkoztunk. Remélem, hogy hogy majd
+
+2199
+00:36:39 - 00:36:43
+ugyanolyan nosztalgiával gondol erre az
+
+2201
+00:36:41 - 00:36:44
+időszakra, mint én.
+
+2203
+00:36:43 - 00:36:46
+>> Benne lesz vajon a beszélgetésben?
+
+2204
+00:36:44 - 00:36:50
+>> Nem biztos, hogy ész, hogy ez ez
+
+2206
+00:36:46 - 00:36:52
+fejekben volt, amikor ezt megszervezték.
+
+2210
+00:36:50 - 00:36:54
+Nyilván ez azt is jelenti, hogy még egy
+
+2212
+00:36:52 - 00:36:56
+jó ideig a kampánynak a része lesz, mint
+
+2214
+00:36:54 - 00:36:59
+az, ami veled történt. Erre hogyan
+
+2216
+00:36:56 - 00:37:02
+készülsz, és hogyan lehet ezt beépíteni
+
+2219
+00:36:59 - 00:37:05
+az embernek a mindennapjaiba? Hogyan
+
+2222
+00:37:02 - 00:37:07
+lehet ezzel megbirkóni?
+
+2225
+00:37:05 - 00:37:08
+Azt tudni kell róla, hogy nem szeretek
+
+2227
+00:37:07 - 00:37:10
+szerepelni, bár ugye egy kicsit
+
+2228
+00:37:08 - 00:37:13
+ambalivalens most ez a kiántés, úgyhogy
+
+2230
+00:37:10 - 00:37:15
+most itt ülök.
+
+2233
+00:37:13 - 00:37:17
+El én elutasítottam eddig minden majdnem
+
+2235
+00:37:15 - 00:37:20
+minden közeledést a a nyilatkozataim
+
+2237
+00:37:17 - 00:37:21
+kapcsán. Most azért fogadtam ezt el,
+
+2240
+00:37:20 - 00:37:24
+mert úgy érzem, hogyha hogyha
+
+2241
+00:37:21 - 00:37:27
+folyamatosan ugye almazva vagyok, vagy
+
+2244
+00:37:24 - 00:37:30
+vagy negatív fényben tüntetnek fel a
+
+2247
+00:37:27 - 00:37:31
+különböző médiumokban, akkor akkor már
+
+2250
+00:37:30 - 00:37:33
+pedig igenis kell egy forma meg tudom
+
+2251
+00:37:31 - 00:37:35
+védeni magam.
+
+2253
+00:37:33 - 00:37:38
+Számítok még arra, hogy majd elő fog
+
+2255
+00:37:35 - 00:37:41
+kerülni a nevem egy párszor, akár ezen
+
+2258
+00:37:38 - 00:37:43
+interjú kapcsán is a a közeljövőben, de
+
+2261
+00:37:41 - 00:37:45
+úgy gondolom, hogy már annyira a a
+
+2263
+00:37:43 - 00:37:47
+finishben van ez az egész választási
+
+2265
+00:37:45 - 00:37:49
+kampány, hogy hogy bármilyen történet
+
+2267
+00:37:47 - 00:37:51
+előjöhet, ami akár üti az enyémet is.
+
+2269
+00:37:49 - 00:37:53
+>> Korábban beszéltél arról ebben az
+
+2271
+00:37:51 - 00:37:55
+interjúban, hogy nem nagyon számítasz
+
+2273
+00:37:53 - 00:37:57
+arra, hogy lesz még egyszer olyan
+
+2275
+00:37:55 - 00:37:58
+munkád, mint ami itt volt, és amit
+
+2277
+00:37:57 - 00:38:00
+nagyon szerettél. Viszont ugye Magyar
+
+2278
+00:37:58 - 00:38:02
+Péterő is kaptál üzenetet. Ő azt mondta,
+
+2280
+00:38:00 - 00:38:04
+hogy egy kormányváltás esetén várnának
+
+2282
+00:38:02 - 00:38:07
+vissza a rendőrség kötelékébe. Ehhez mit
+
+2284
+00:38:04 - 00:38:07
+szólsz?
+
+2288
+00:38:08 - 00:38:13
+>> Én Én minden ilyen pozíciót abban az
+
+2290
+00:38:10 - 00:38:15
+esetben töltenék be szívesen, hogyha nem
+
+2293
+00:38:13 - 00:38:17
+azért kell, tehát hogy én továbbra is
+
+2295
+00:38:15 - 00:38:19
+tartom magam, hogy ne politikai alapon
+
+2297
+00:38:17 - 00:38:20
+legyenek osztogatva, akár pozíciók sem,
+
+2299
+00:38:19 - 00:38:22
+tehát hogy ne így működjön, hanem a
+
+2300
+00:38:20 - 00:38:24
+kvalitásaim alapján gondolják úgy, hogy
+
+2302
+00:38:22 - 00:38:26
+odavaló vagyok. hogyha az alapján
+
+2304
+00:38:24 - 00:38:27
+mondjuk egy rendes versenyeztetéssel
+
+2306
+00:38:26 - 00:38:29
+tényleg kiválasztanak, akkor akkor állok
+
+2307
+00:38:27 - 00:38:31
+elébe egy úgy gondolom, hogy vagyon
+
+2309
+00:38:29 - 00:38:32
+visszaelzés védelmi hivatal, amiről
+
+2311
+00:38:31 - 00:38:34
+beszéltem, szintén pártatlanul kell
+
+2312
+00:38:32 - 00:38:36
+működjön. Tehát, hogy engem, hogyha ott
+
+2314
+00:38:34 - 00:38:38
+dolgoznék, nem érdekelne, hogy ki melyik
+
+2316
+00:38:36 - 00:38:40
+párthoz tartozik. Ha a bűncselekményt
+
+2318
+00:38:38 - 00:38:41
+követ el, akkor bűncselekményt fogok
+
+2320
+00:38:40 - 00:38:42
+nyomozni.
+
+2321
+00:38:41 - 00:38:43
+>> Más pártoktól vagy politikai
+
+2322
+00:38:42 - 00:38:44
+szereplőktől kaptál egyébként
+
+2323
+00:38:43 - 00:38:46
+megkereséseket?
+
+2324
+00:38:44 - 00:38:48
+>> Nem, de még tőlük sem. Tehát, hogy én
+
+2326
+00:38:46 - 00:38:50
+távol tartom magam minden pártpolitikai
+
+2328
+00:38:48 - 00:38:52
+tevékenységtől jelenleg.
+
+2330
+00:38:50 - 00:38:54
+>> Másokkal, akik szintén kiálltak
+
+2332
+00:38:52 - 00:38:56
+valamilyen üggyel a nyilvánosság elé az
+
+2334
+00:38:54 - 00:38:58
+elmúlt években, olyanokkal beszéltél-e,
+
+2336
+00:38:56 - 00:39:01
+hogy ők hogyan dolgozták ezt fel?
+
+2338
+00:38:58 - 00:39:03
+>> Nem, én tényleg arra töreksztem, hogy
+
+2341
+00:39:01 - 00:39:04
+hogy ne
+
+2343
+00:39:03 - 00:39:07
+ugródeszka legyen az a történet mások
+
+2344
+00:39:04 - 00:39:09
+számára, ne kabaszkodjanak fel rajta
+
+2347
+00:39:07 - 00:39:10
+mások. Ezt amiért kiálltam, azt csak az
+
+2349
+00:39:09 - 00:39:13
+is azért álltam ki, mert olyan
+
+2350
+00:39:10 - 00:39:15
+tapasztaltam, amit amit tudnia kellett
+
+2353
+00:39:13 - 00:39:18
+az embereknek.
+
+2355
+00:39:15 - 00:39:19
+Az elmúlt napokban az körvonarzódott-e
+
+2358
+00:39:18 - 00:39:21
+benned, hogy hogy mi az, amivel
+
+2359
+00:39:19 - 00:39:25
+foglalkozni fogsz, meg amit majd kezdesz
+
+2361
+00:39:21 - 00:39:27
+magaddal történtek után?
+
+2365
+00:39:25 - 00:39:31
+Szerintem szóval nem volt még erre időm
+
+2367
+00:39:27 - 00:39:31
+egyáltalán ezzel foglalkozni.
+
+2372
+00:39:32 - 00:39:37
+Tehát még még még mindig tényleg az van,
+
+2375
+00:39:35 - 00:39:41
+hogy próbálom fogyasztani azokat a
+
+2377
+00:39:37 - 00:39:44
+tartalmakat, amivel engem támadnak,
+
+2381
+00:39:41 - 00:39:47
+rendezni a az ügyeimet, a leszerelést, a
+
+2384
+00:39:44 - 00:39:49
+a hiteleimet és a többi. Tehát, hogy meg
+
+2387
+00:39:47 - 00:39:50
+a meg ugye az eszközeim, amikor
+
+2389
+00:39:49 - 00:39:52
+lefoglalták, hogy legyen normális
+
+2390
+00:39:50 - 00:39:53
+mobilom, tehát hogy az elmúlt pár
+
+2392
+00:39:52 - 00:39:55
+napjaim meg ugye a barátokkal is
+
+2393
+00:39:53 - 00:39:56
+szeretnék beszélni, családom is időt
+
+2395
+00:39:55 - 00:39:59
+tölteni. Tehát az elmúlt pár nap ezzel
+
+2396
+00:39:56 - 00:40:00
+töltődött, és nem gondolkoztam igazán,
+
+2399
+00:39:59 - 00:40:02
+hogy hogy lesz tovább. Tehát ami most
+
+2400
+00:40:00 - 00:40:03
+történni fog, az az, hogy adsz magadnak
+
+2402
+00:40:02 - 00:40:04
+egy kis időt arra, hogy ez
+
+2403
+00:40:03 - 00:40:06
+kikristályosodjon.
+
+2404
+00:40:04 - 00:40:08
+>> Persze.
+
+2406
+00:40:06 - 00:40:10
+Meg bocsánat, annyit tudok, hogy nyilván
+
+2408
+00:40:08 - 00:40:12
+nagyon sok minden függ attól, hogy én
+
+2410
+00:40:10 - 00:40:14
+úgy gondolom, hogyha hogy mi lesz majd
+
+2412
+00:40:12 - 00:40:15
+április 12-e után.
+
+2414
+00:40:14 - 00:40:20
+>> Ahhoz képest, amire számítottál, ahhoz
+
+2415
+00:40:15 - 00:40:20
+képest milyen volt ez az elmúlt egy hét?
+
+2420
+00:40:20 - 00:40:24
+>> Hát forgatókönyvszerű, de így is nem nem
+
+2422
+00:40:22 - 00:40:26
+tud felkészülni rá az ember. Tehát, hogy
+
+2424
+00:40:24 - 00:40:28
+én még mindig tartom magam ahhoz, hogy
+
+2426
+00:40:26 - 00:40:30
+minden amit elképzeltem, hogy meg fog
+
+2428
+00:40:28 - 00:40:32
+történni, megtörtént. Itt igazából
+
+2430
+00:40:30 - 00:40:33
+maximum számokban vannak eltérések, hogy
+
+2432
+00:40:32 - 00:40:35
+soha nem gondolt, hogy ennyi embert
+
+2433
+00:40:33 - 00:40:36
+érdekelni fog ez a történet. Soha nem
+
+2435
+00:40:35 - 00:40:39
+gondoltam volna, hogy ennyi támogatást
+
+2436
+00:40:36 - 00:40:42
+kap ez a történet, de de volt bennem egy
+
+2439
+00:40:39 - 00:40:44
+forgatókönyv, hogy hogy nyilván ez egy
+
+2442
+00:40:42 - 00:40:46
+felkapott történet lesz, de a mértékéről
+
+2444
+00:40:44 - 00:40:47
+soha nem gondoltam volna, hogy így fog
+
+2446
+00:40:46 - 00:40:49
+történni.
+
+2447
+00:40:47 - 00:40:53
+A testvéred által indított gyűjtésből
+
+2449
+00:40:49 - 00:40:55
+már több mint 280 millió Ft gyűlt össze.
+
+2453
+00:40:53 - 00:40:57
+Ennek mi lesz a sorsa?
+
+2455
+00:40:55 - 00:41:00
+>> Így van. Nyilván
+
+2457
+00:40:57 - 00:41:01
+nagyon sokat beszélgettünk és szeret
+
+2460
+00:41:00 - 00:41:03
+tehát hogy én úgy gondolom, hogy ennyi
+
+2461
+00:41:01 - 00:41:06
+ennyi pénz egy embernek nagyon sok, hogy
+
+2463
+00:41:03 - 00:41:08
+normális életheznél kevesebb is
+
+2466
+00:41:06 - 00:41:10
+elegendő.
+
+2468
+00:41:08 - 00:41:11
+Megvitattuk azt, hogy
+
+2470
+00:41:10 - 00:41:13
+milyen helyekre szeretnék ebből
+
+2471
+00:41:11 - 00:41:16
+juttatni. Így, hogy már van miből,
+
+2473
+00:41:13 - 00:41:18
+szeretnék jótékonykodni,
+
+2476
+00:41:16 - 00:41:19
+és és meg is vannak azok a szervezetek,
+
+2478
+00:41:18 - 00:41:22
+amiket én kinéztem, hogy esetleg nekik
+
+2479
+00:41:19 - 00:41:25
+lehetne adni. Nyilván még rendezni kell
+
+2482
+00:41:22 - 00:41:28
+a az összeget adójogi, illetve
+
+2485
+00:41:25 - 00:41:29
+könyvelési szempontból,
+
+2488
+00:41:28 - 00:41:31
+illetve egy még nem vettem föl a a
+
+2489
+00:41:29 - 00:41:33
+kapcsolatot sem ezekkel a
+
+2491
+00:41:31 - 00:41:35
+szervezetekkel, de de hogyha megenged,
+
+2493
+00:41:33 - 00:41:38
+akkor elmondanám, hogy hogy kiknek
+
+2495
+00:41:35 - 00:41:41
+gondoltam adni belőle.
+
+2498
+00:41:38 - 00:41:43
+Az első két szervezettel a munkánk során
+
+2501
+00:41:41 - 00:41:45
+találkozhatunk a gyermekvédelmi ott,
+
+2503
+00:41:43 - 00:41:47
+tehát a nyomozóosztállyal.
+
+2505
+00:41:45 - 00:41:48
+Ez egyik a hintalovon alapítvány lenne.
+
+2507
+00:41:47 - 00:41:51
+Szeretnék majd nekik juttatni egy egy
+
+2508
+00:41:48 - 00:41:55
+összeget, mert nagyon
+
+2511
+00:41:51 - 00:41:57
+gyermekjogi tanácsadásban vesznek részt
+
+2515
+00:41:55 - 00:41:59
+a szexuális
+
+2517
+00:41:57 - 00:42:01
+visszaélések megelőzésé tartanak
+
+2519
+00:41:59 - 00:42:03
+tréninget, tehát hogy hogy nagyon szép
+
+2521
+00:42:01 - 00:42:06
+dolgokat csinálnak. A második az a kék
+
+2523
+00:42:03 - 00:42:09
+vonal alapítvány a gyermekkrízisért,
+
+2526
+00:42:06 - 00:42:11
+gyermekkés gyermekkrízis megküzdéséért.
+
+2529
+00:42:09 - 00:42:13
+>> Ugye ez azért nagyon fontos ez a munka,
+
+2531
+00:42:11 - 00:42:17
+amit ők végeznek, mert egyébként
+
+2533
+00:42:13 - 00:42:18
+rengeteg hívást kapnak és és borzasztó
+
+2537
+00:42:17 - 00:42:20
+adatok vannak arról, hogy milyen
+
+2538
+00:42:18 - 00:42:20
+mentális állapotban vannak a hazai
+
+2540
+00:42:20 - 00:42:22
+fiatalok.
+
+2540
+00:42:20 - 00:42:24
+>> Így van. Így van. Tehát ez ez egy nagyon
+
+2542
+00:42:22 - 00:42:26
+nagyon szép és nagyon jó dolgot csinál
+
+2544
+00:42:24 - 00:42:29
+ez a szervezet, az alapítvány. Nekik
+
+2546
+00:42:26 - 00:42:31
+szeretnék majd felajni egy egy szép
+
+2549
+00:42:29 - 00:42:33
+összeget. A harmadik az a
+
+2551
+00:42:31 - 00:42:35
+Zónaalapítvány. Ők egy kicsit közelebb
+
+2553
+00:42:33 - 00:42:39
+is állnak hozzám abból a szempontból,
+
+2555
+00:42:35 - 00:42:43
+hogy két volt évfolyamtársam alapította,
+
+2559
+00:42:39 - 00:42:45
+Marci és Hajni, és ez a szervezet
+
+2563
+00:42:43 - 00:42:47
+elhunyt rendvédelmi dolgozó gyermekein
+
+2565
+00:42:45 - 00:42:50
+segít, családján segít anyagilag,
+
+2567
+00:42:47 - 00:42:51
+illetve egyéb módon. Úgyhogy úgyhogy
+
+2570
+00:42:50 - 00:42:53
+nagyon-nagyon tehát nagyon tisztelem
+
+2571
+00:42:51 - 00:42:57
+őket.
+
+2573
+00:42:53 - 00:42:59
+A negyedik az ma az Iványi Gábor voltí
+
+2577
+00:42:57 - 00:43:02
+egyesülete.
+
+2579
+00:42:59 - 00:43:05
+Kicsit átérzem azt most, hogy hogy ha
+
+2582
+00:43:02 - 00:43:07
+valakit a hatalom vegzálni szeretne,
+
+2585
+00:43:05 - 00:43:08
+akkor akkor mind megy keresztül. Úgyhogy
+
+2587
+00:43:07 - 00:43:10
+nekik még bár jól magam nem vagyok
+
+2588
+00:43:08 - 00:43:14
+vallásos, de de itt nem a vallásról van
+
+2590
+00:43:10 - 00:43:15
+szó, hanem azt, hogy ők mit csinálnak.
+
+2594
+00:43:14 - 00:43:18
+Az ötödik
+
+2595
+00:43:15 - 00:43:20
+ötödik és hatodik pedig a régi óvodám és
+
+2598
+00:43:18 - 00:43:22
+a régi iskolám lenne Tolnán, ahonnan
+
+2600
+00:43:20 - 00:43:24
+származom. a Gesztény Kertóv és a
+
+2602
+00:43:22 - 00:43:26
+Széchen István általános iskola. Nekik
+
+2604
+00:43:24 - 00:43:29
+szeretnék juttatni összeget.
+
+2606
+00:43:26 - 00:43:31
+A család domtagja is itt pedagógusok,
+
+2609
+00:43:29 - 00:43:33
+szóval tudom, hogy milyen állapotok
+
+2611
+00:43:31 - 00:43:35
+vannak és hogy hol tudnék segíteni ezzel
+
+2613
+00:43:33 - 00:43:38
+kapcsolatban.
+
+2615
+00:43:35 - 00:43:40
+A hetedik szeretném
+
+2618
+00:43:38 - 00:43:42
+egy összeggel megtámadni majd a DR 36-ot
+
+2620
+00:43:40 - 00:43:46
+az áldozatos munkájukért, amiért azt a
+
+2622
+00:43:42 - 00:43:49
+cikket felták és segítették
+
+2626
+00:43:46 - 00:43:52
+hogy ez a történet napvilágot lásson.
+
+2629
+00:43:49 - 00:43:54
+És a nyolcadik pedig a a régi osztályom
+
+2632
+00:43:52 - 00:43:57
+lenne. Amíg ott dolgoztam, tudom jól,
+
+2634
+00:43:54 - 00:43:59
+hogy hogy
+
+2637
+00:43:57 - 00:44:02
+milyen eszközba és szoftverhi hiányba
+
+2639
+00:43:59 - 00:44:04
+szenvednek. Tehát nyilván egy kép és
+
+2642
+00:44:02 - 00:44:06
+videóelemzésre szükséges számítógép a
+
+2644
+00:44:04 - 00:44:08
+óri óriási kapacitásokkal kell
+
+2646
+00:44:06 - 00:44:11
+rendelkezzen, tehát komputális
+
+2648
+00:44:08 - 00:44:15
+kapacitásokkal. Szeretnék nekik nem
+
+2651
+00:44:11 - 00:44:16
+pénzt, hanem eszközt általuk
+
+2655
+00:44:15 - 00:44:18
+összeállított, mármint, hogy
+
+2656
+00:44:16 - 00:44:21
+specifikációt összeállított adatok
+
+2658
+00:44:18 - 00:44:22
+alapján megvásárni nekik azt a azokat az
+
+2661
+00:44:21 - 00:44:24
+eszközöket, amire szükségük van, és
+
+2662
+00:44:22 - 00:44:26
+azokat a licenceeket, ugye szoftver
+
+2664
+00:44:24 - 00:44:28
+licensek is több millió Ftok lehetnek,
+
+2666
+00:44:26 - 00:44:30
+amire szükségük van.
+
+2668
+00:44:28 - 00:44:31
+>> Majd ezt itt ennél a pontnál itt nekem
+
+2670
+00:44:30 - 00:44:33
+az a megdöbbentő, hogy itt egy olyan
+
+2671
+00:44:31 - 00:44:35
+osztályról beszélünk, ami a gyerekek
+
+2673
+00:44:33 - 00:44:37
+terhére el követett bűncselekmények
+
+2675
+00:44:35 - 00:44:39
+nyomozásával foglalkozik. Tehát, hogy
+
+2677
+00:44:37 - 00:44:41
+itt is ezek szerint akkor van olyan,
+
+2679
+00:44:39 - 00:44:42
+hogy nem megfelelő az informatikai
+
+2681
+00:44:41 - 00:44:44
+háttér, itt is van olyan, hogy a
+
+2682
+00:44:42 - 00:44:47
+kollégáknak nincsen meg minden a
+
+2684
+00:44:44 - 00:44:48
+munkájukhoz.
+
+2687
+00:44:47 - 00:44:50
+Az osztály mindig is élelmes volt, tehát
+
+2688
+00:44:48 - 00:44:52
+hogy el tudod dolgozni azzal, ami van,
+
+2690
+00:44:50 - 00:44:55
+de nyilván mindig jó jól jön a több
+
+2692
+00:44:52 - 00:44:57
+segítség, tehát hogy
+
+2695
+00:44:55 - 00:45:00
+vannak eszközök bőven, de de azt is
+
+2697
+00:44:57 - 00:45:01
+tudom, hogy hogy max kapacitáson futnak.
+
+2700
+00:45:00 - 00:45:03
+Tehát hogyha minél több van, annál jobb.
+
+2701
+00:45:01 - 00:45:05
+Én úgy gondolom, ezért szeretnék nekik
+
+2703
+00:45:03 - 00:45:06
+majd
+
+2705
+00:45:05 - 00:45:08
+vásárolni ilyen számítógépet meg
+
+2706
+00:45:06 - 00:45:09
+licenszt. Nyilván azokkal az
+
+2708
+00:45:08 - 00:45:11
+alapítványokkal és intézményekkel,
+
+2709
+00:45:09 - 00:45:13
+akikről beszéltem, még fel kell vegyem a
+
+2711
+00:45:11 - 00:45:15
+kapcsolatot, hogyan tudják fogadni az
+
+2713
+00:45:13 - 00:45:19
+összeget, meg le kell rendezni ennek a
+
+2715
+00:45:15 - 00:45:21
+jogi és átlátható módját. Erre fog még
+
+2719
+00:45:19 - 00:45:24
+menni az elkövetkező időszak. És még egy
+
+2721
+00:45:21 - 00:45:26
+dolgot szeretném megemlíteni.
+
+2724
+00:45:24 - 00:45:28
+Szeretnék köszönetet mondani Lacó
+
+2726
+00:45:26 - 00:45:31
+Adriennek, ugye az ügyvédemnek.
+
+2728
+00:45:28 - 00:45:33
+Ő az elejétől kezdve
+
+2731
+00:45:31 - 00:45:36
+ingyen vállalta az összes
+
+2733
+00:45:33 - 00:45:39
+jelenlétet, jogi tanácsot satöbbi,
+
+2736
+00:45:36 - 00:45:41
+probónom, mert mert ugye ő is hasonló
+
+2739
+00:45:39 - 00:45:44
+helyzetban volt és és
+
+2741
+00:45:41 - 00:45:46
+nem volt hajlandó pénzt elfogadni, amíg
+
+2744
+00:45:44 - 00:45:48
+én is ilyen helyzetben vagyok. Nyilván a
+
+2746
+00:45:46 - 00:45:49
+gyűjtés miatt most már megengedhetem
+
+2748
+00:45:48 - 00:45:51
+magamnak és ragaszkodom is hozzá, hogy
+
+2749
+00:45:49 - 00:45:52
+rendes díjazást kapjon. Úgyhogy
+
+2751
+00:45:51 - 00:45:54
+>> akkor valamennyi részét azért megtartod
+
+2752
+00:45:52 - 00:45:54
+akkor ennek a befolyt összegnek, ha jól
+
+2754
+00:45:54 - 00:45:55
+értem.
+
+2754
+00:45:54 - 00:45:57
+>> Egy részét. Igen.
+
+2755
+00:45:55 - 00:46:00
+>> Világos.
+
+2757
+00:45:57 - 00:46:02
+Van-e tanulsága a történteknek? Van-e
+
+2760
+00:46:00 - 00:46:03
+van-e bármi, amit amit máshogy
+
+2762
+00:46:02 - 00:46:05
+csinálnál?
+
+2763
+00:46:03 - 00:46:06
+>> Semmit nem csinálnék máshogy.
+
+2765
+00:46:05 - 00:46:09
+>> Tehát, hogy így is, hogy pontosan tudom,
+
+2766
+00:46:06 - 00:46:13
+hogy mi mivel járt ez az egész. Semmit
+
+2769
+00:46:09 - 00:46:14
+nem csinálnék máshogy.
+
+2773
+00:46:13 - 00:46:17
+A tanulság pedig az, hogy úgy tűnik,
+
+2774
+00:46:14 - 00:46:19
+hogy több ember gondolkodik hasonló
+
+2777
+00:46:17 - 00:46:22
+módon, mint én, látva, hogy mennyien
+
+2779
+00:46:19 - 00:46:24
+támogatták ezt a történetet.
+
+2782
+00:46:22 - 00:46:26
+>> Szaba Bencének nagyon szépen köszönöm.
+
+2784
+00:46:24 - 00:46:28
+Igazán nincs.
+
+2786
+00:46:26 - 00:46:30
+>> Ez volt a 2026 a Telex választási műsora
+
+2788
+00:46:28 - 00:46:31
+élőben. Köszönöm szépen a figyelmeteket.
+
+2790
+00:46:30 - 00:46:33
+Sziasztok.
+
+2791
+00:46:31 - 00:46:35
+>> Véghajrába fordult a kampány, és mi ott
+
+2793
+00:46:33 - 00:46:36
+vagyunk a tereppen, hogy pontosan
+
+2795
+00:46:35 - 00:46:38
+megmutassuk, hogy mi történik.
+
+2796
+00:46:36 - 00:46:39
+>> Jó estét, miniszterelnök úr.
+
+2798
+00:46:38 - 00:46:42
+>> Éjszak vagy? Műszak.
+
+2799
+00:46:39 - 00:46:44
+>> Van olyan, amit bán az elmúlt 16 évből?
+
+2802
+00:46:42 - 00:46:47
+>> Kérdezünk akkor is, ha nehéz, és akkor
+
+2804
+00:46:44 - 00:46:49
+is, ha nem akarják. De elnézést, ne
+
+2807
+00:46:47 - 00:46:50
+fogja a kameránkat. Nem.
+
+2809
+00:46:49 - 00:46:52
+>> Mi alapján mondják azt, hogy nem
+
+2810
+00:46:50 - 00:46:54
+mehetünk be? Itt vagyunk amúgy a
+
+2812
+00:46:52 - 00:46:56
+szomszédban. Jöhetne is interjút adni.
+
+2814
+00:46:54 - 00:46:56
+>> Segítünk megérteni mindent, ami
+
+2816
+00:46:56 - 00:46:58
+történik.
+
+2816
+00:46:56 - 00:47:00
+>> Tényleg nagyrészt újjoncokról, politikai
+
+2818
+00:46:58 - 00:47:01
+újcokról van szó.
+
+2820
+00:47:00 - 00:47:02
+>> Ő még nem biztos benne, hogy kire fog
+
+2821
+00:47:01 - 00:47:04
+szavazni?
+
+2822
+00:47:02 - 00:47:06
+>> Hát úgy konkrétan még nem. 50-50.
+
+2824
+00:47:04 - 00:47:08
+>> Én mind a 106 körzetbe elmegyek.
+
+2826
+00:47:06 - 00:47:10
+>> A esetleg mégis valamilyen csoda folytán
+
+2828
+00:47:08 - 00:47:11
+a Fidesz folytatná, én le fogom adni a
+
+2830
+00:47:10 - 00:47:13
+magyar állampolgárságot.
+
+2831
+00:47:11 - 00:47:13
+>> Nem mondom, hogy Magyar Péter, ukrán
+
+2833
+00:47:13 - 00:47:16
+Péter.
+
+2833
+00:47:13 - 00:47:16
+>> Elemzések, interjúk és a történisek
+
+2836
+00:47:16 - 00:47:19
+háttere.
+
+2836
+00:47:16 - 00:47:20
+>> Petyásselg, bűnvadászok, tehát mi
+
+2839
+00:47:19 - 00:47:22
+nyilván harcszettek vagyunk. Tessék
+
+2840
+00:47:20 - 00:47:24
+fölállni és tessék részt venni a
+
+2842
+00:47:22 - 00:47:26
+választási kampányban. Elmenjünk,
+
+2844
+00:47:24 - 00:47:29
+kopogtassunk, megkeressük a híveinket,
+
+2846
+00:47:26 - 00:47:31
+ismerjük őket mind. 1015%-os mínuszban
+
+2849
+00:47:29 - 00:47:32
+vannak, és gondolom nem akar kikapni.
+
+2851
+00:47:31 - 00:47:34
+Bár így is, úgy is kifog.
+
+2852
+00:47:32 - 00:47:36
+>> Március közepétől minden hétköznap friss
+
+2854
+00:47:34 - 00:47:37
+adás jelentkezik a 2026 a Telex
+
+2856
+00:47:36 - 00:47:40
+választási műsora.
+
+2857
+00:47:37 - 00:47:42
+>> A műsorfolyamunk csúcspontja április 12
+
+2860
+00:47:40 - 00:47:44
+a választás napja, de miután is itt
+
+2862
+00:47:42 - 00:47:46
+leszünk. Kövessétek a kampány minden
+
+2864
+00:47:44 - 00:47:48
+pillanatát a Telexen.
+
+2866
+00:47:46 - 00:47:52
+>> Állj ki a Telexért adód 1%-ával.
+
+2868
+00:47:48 - 00:47:52
+telex.hu/1%. / 1%
