@@ -20,6 +20,14 @@ Szabó Bence:
 
 A 444-nek adott 2026. március 30-i interjúban ([videó](https://www.youtube.com/watch?v=xdlMnQsK_f0)) Gundalf elmondta: a vádban az is szerepel, hogy egy hangfelvételen **„prototípusnak"** nevezte az övet — ebből a hatóság arra következtetett, hogy több ilyen eszközt tervez gyártani. Gundalf szerint ez félreértelmezés[*](https://www.youtube.com/watch?v=IXmuE2TX9yE&t=4757).
 
+## Orbán beismerése: a kamu vád bevett módszer
+
+Orbán Viktor a Hont András YouTube-csatornáján adott interjúban — amikor Hont rákérdezett, hogyan merülhet fel kémelhárítási ügyben gyermekekkel kapcsolatos visszaélés nyomainak keresése — elismerte, hogy a titkosszolgálatok szándékosan olyan fedőfeladatokat adnak más állami szerveknek, amelyek valódi céljáról az azokat végrehajtók nem tudnak:[*](https://www.youtube.com/watch?v=yp6ESNiGGBI)
+
+> „Nagyon helyes. Tehát a titkosszolgálatok olyan feladatokat adnak, aminek az értelmét végső soron csak ők látják át. Az információ, amit így megszereznek, viszont hasznos. Ez teljesen rendben van. Ha elolvas három ilyen típusú regényt, és megnézz két könyvet, esetekben iratkozik a az egyetemre, ahol a közszolgálatokat képzik, az ilyen titkosszolgálati munkákra készítik föl az embereket, ott ezt mind kézikönyvszerűen megtanulhatja."
+
+Ez a nyilatkozat lényegében megerősíti, hogy a gyermekpornográfia-vád fedősztoriként funkcionált — Orbán szerint ez kézikönyvszerű, elfogadott módszer.
+
 ## Jogi vita
 
 Az NNI osztályvezetője írásban rögzítette, hogy a vád jogilag nem állja meg a helyét:
